@@ -1,0 +1,17 @@
+ERRSYS.LS      Robot Name ROBOT 12-OCT-22 17:49:08  
+
+1" 12-OCT-22 17:34:16 " CVIS-355 No vision logs exist in the specified directory." " WARN                          00000000" 
+2" 12-OCT-22 17:27:02 " TPIF-157 Menu cannot be displayed                 " " WARN                          00000000" 
+3" 12-OCT-22 17:27:02 " SYST-042 DEADMAN defeated                         " " SERVO                         00110110" 
+4" 12-OCT-22 17:27:00 " SYST-026 System normal power up                   " " WARN                          00000000" 
+5" 08-OCT-22 18:24:00 " TPIF-157 Menu cannot be displayed                 " " WARN                          00000000" 
+6" 08-OCT-22 18:23:58 " SYST-042 DEADMAN defeated                         " " SERVO                         00110110" 
+7" 08-OCT-22 18:23:58 " SYST-026 System normal power up                   " " WARN                          00000000" 
+8" 02-OCT-22 14:41:36 " SYST-040 Operation mode AUTO Selected             " " SERVO                         00110110" 
+9" 02-OCT-22 14:41:34 " TPIF-157 Menu cannot be displayed                 " " WARN                          00000000" 
+10" 02-OCT-22 14:41:22 " SYST-305 System startup in progress               " " SERVO                         00110110" 
+11" 02-OCT-22 14:41:22 " SYST-042 DEADMAN defeated                         " " SERVO                         00110110" 
+12" 02-OCT-22 14:41:22 " SYST-305 System startup in progress               " " STOP.G                        00100110" 
+13" 02-OCT-22 14:41:20 " SYST-026 System normal power up                   " " WARN                          00000000" 
+14" 02-OCT-22 14:40:58 " OPTN-018 No CUSTO additions on this media         " " WARN                          00000000" 
+15" 02-OCT-22 14:40:58 " OPTN-018 No Language additions on this media      " " WARN                          00000000" 

@@ -1,0 +1,2 @@
+ERRCOMM.LS     Robot Name ROBOT 12-OCT-22 17:49:08  
+
