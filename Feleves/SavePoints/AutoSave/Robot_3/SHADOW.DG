@@ -1,7 +1,7 @@
-Catalog records in use 1295  of 6000
+Catalog records in use 1349  of 6000
 Shadow in use 553456  of 6859100
-Programs in use 4  of 255
-693 scans with 15587 updates max=473 mean=22  Last poweroff = 1539 uS
+Programs in use 5  of 255
+683 scans with 17434 updates max=429 mean=25  Last poweroff = 1578 uS
 
 $SCR.$SHADDGDET = 0
 For more detail set $SCR.$SHADDGDET to:

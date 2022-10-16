@@ -1,8 +1,8 @@
 #
-# Layout Info File : Sat Oct 15 19:30:25 2022
+# Layout Info File : Sun Oct 16 14:21:35 2022
 #
 LayInfo V1.0 Ascii
-7	6
+8	7
 
 1	Workcell
 2	Workcell2
@@ -10,3 +10,4 @@ LayInfo V1.0 Ascii
 4	Workcell
 5	Workcell
 6	Workcell4
+7	Workcell

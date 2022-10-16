@@ -1,4025 +1,3141 @@
-LOGBOOK.LS     Robot Name ROBOT 15-OCT-22 19:04:12  
+LOGBOOK.LS     Robot Name ROBOT 16-OCT-22 15:22:10  
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 Operation        
 ========================================
 FILE 'IRVWAITLOG.VR' is saved          
-15-OCT-22 19:04 :12
+16-OCT-22 15:22 :10
 ========================================
 FILE 'IRVTRAIN.VR' is saved            
-15-OCT-22 19:04 :12
+16-OCT-22 15:22 :10
 ========================================
 FILE 'IRVSNAP.VR' is saved             
-15-OCT-22 19:04 :12
+16-OCT-22 15:22 :10
 ========================================
 FILE 'IRVSAVIR.VR' is saved            
-15-OCT-22 19:04 :12
+16-OCT-22 15:22 :10
 ========================================
 FILE 'IRVRGTRG.VR' is saved            
-15-OCT-22 19:04 :12
+16-OCT-22 15:22 :10
 ========================================
 FILE 'IRVRGGTP.VR' is saved            
-15-OCT-22 19:04 :12
+16-OCT-22 15:22 :10
 ========================================
 FILE 'IRVOVRDANYVP.VR' is saved        
-15-OCT-22 19:04 :12
+16-OCT-22 15:22 :10
 ========================================
 FILE 'IRVLODIR.VR' is saved            
-15-OCT-22 19:04 :12
+16-OCT-22 15:22 :10
 ========================================
 FILE 'IRVLEDON.VR' is saved            
-15-OCT-22 19:04 :12
+16-OCT-22 15:22 :10
 ========================================
 FILE 'IRVLEDOFF.VR' is saved           
-15-OCT-22 19:04 :12
+16-OCT-22 15:22 :10
 ========================================
 FILE 'IRVHOMING.VR' is saved           
-15-OCT-22 19:04 :12
+16-OCT-22 15:22 :10
 ========================================
 FILE 'IRVGSEXE.VR' is saved            
-15-OCT-22 19:04 :12
+16-OCT-22 15:22 :10
 ========================================
 FILE 'IRVGETMSR.VR' is saved           
-15-OCT-22 19:04 :12
+16-OCT-22 15:22 :10
 ========================================
 FILE 'IRVGETMSL.VR' is saved           
-15-OCT-22 19:04 :12
+16-OCT-22 15:22 :10
 ========================================
 FILE 'IRVFIND.VR' is saved             
-15-OCT-22 19:04 :12
+16-OCT-22 15:22 :10
 ========================================
 FILE 'IRVCALDATA.VR' is saved          
-15-OCT-22 19:04 :12
+16-OCT-22 15:22 :10
 ========================================
 FILE 'IRVBKLSH.VR' is saved            
-15-OCT-22 19:04 :12
+16-OCT-22 15:22 :10
 ========================================
 FILE 'IRC_STLABEL.VR' is saved         
-15-OCT-22 19:04 :12
+16-OCT-22 15:22 :10
 ========================================
 FILE 'IRC_STATUS.VR' is saved          
-15-OCT-22 19:04 :12
+16-OCT-22 15:22 :10
 ========================================
 FILE 'IRC_MSG.VR' is saved             
-15-OCT-22 19:04 :12
+16-OCT-22 15:22 :10
 ========================================
 FILE 'IRC_COUNTER.VR' is saved         
-15-OCT-22 19:04 :12
+16-OCT-22 15:22 :10
 ========================================
 FILE 'IPRNGSHO.VR' is saved            
-15-OCT-22 19:04 :12
+16-OCT-22 15:22 :10
 ========================================
 FILE 'IPRNGSET.VR' is saved            
-15-OCT-22 19:04 :12
+16-OCT-22 15:22 :10
 ========================================
 FILE 'IPKDMP.ZIP' is saved             
-15-OCT-22 19:04 :12
+16-OCT-22 15:22 :10
 ========================================
 FILE 'IOSTATUS.CM' is saved            
-15-OCT-22 19:04 :12
+16-OCT-22 15:22 :10
 ========================================
 FILE 'HTTPKCL.VR' is saved             
-15-OCT-22 19:04 :12
+16-OCT-22 15:22 :10
 ========================================
 FILE 'HTCOLREC.VR' is saved            
-15-OCT-22 19:04 :12
+16-OCT-22 15:22 :10
 ========================================
 FILE 'HIST.LS' is saved                
-15-OCT-22 19:04 :12
+16-OCT-22 15:22 :10
 ========================================
 FILE 'GIGELOG.DG' is saved             
-15-OCT-22 19:04 :12
+16-OCT-22 15:22 :10
 ========================================
 FILE 'GETDATA.TP' is saved             
-15-OCT-22 19:04 :12
+16-OCT-22 15:22 :10
 ========================================
 FILE 'GEMDATA.VR' is saved             
-15-OCT-22 19:04 :12
+16-OCT-22 15:22 :10
 ========================================
 FILE 'FTPLOG.DG' is saved              
-15-OCT-22 19:04 :12
+16-OCT-22 15:22 :10
 ========================================
 FILE 'FRAMEVAR.VR' is saved            
-15-OCT-22 19:04 :10
+16-OCT-22 15:22 :10
 ========================================
 FILE 'ETHERNET.DG' is saved            
-15-OCT-22 19:04 :10
+16-OCT-22 15:22 :10
 ========================================
 FILE 'ERRSYS.LS' is saved              
-15-OCT-22 19:04 :10
+16-OCT-22 15:22 :10
 ========================================
 FILE 'ERRPWD.LS' is saved              
-15-OCT-22 19:04 :10
+16-OCT-22 15:22 :10
 ========================================
 FILE 'ERRMOT.LS' is saved              
-15-OCT-22 19:04 :10
+16-OCT-22 15:22 :10
 ========================================
 FILE 'ERRHIST.LS' is saved             
-15-OCT-22 19:04 :10
+16-OCT-22 15:22 :10
 ========================================
 FILE 'ERREXT.LS' is saved              
-15-OCT-22 19:04 :10
+16-OCT-22 15:22 :10
 ========================================
 FILE 'ERRCURR.LS' is saved             
-15-OCT-22 19:04 :10
+16-OCT-22 15:22 :10
 ========================================
 FILE 'ERRCOMM.LS' is saved             
-15-OCT-22 19:04 :10
+16-OCT-22 15:22 :10
 ========================================
 FILE 'ERRAPP.LS' is saved              
-15-OCT-22 19:04 :10
+16-OCT-22 15:22 :10
 ========================================
 FILE 'ERRALL.LS' is saved              
-15-OCT-22 19:04 :10
+16-OCT-22 15:22 :10
 ========================================
 FILE 'ERRACT.LS' is saved              
-15-OCT-22 19:04 :10
+16-OCT-22 15:22 :10
 ========================================
 FILE 'EMAIL.DG' is saved               
-15-OCT-22 19:04 :10
+16-OCT-22 15:22 :10
 ========================================
 FILE 'DIOCFGSV.IO' is saved            
-15-OCT-22 19:04 :10
+16-OCT-22 15:22 :10
 ========================================
 FILE 'DF_MOTN0.DF' is saved            
-15-OCT-22 19:04 :10
+16-OCT-22 15:22 :10
 ========================================
 FILE 'DF_LOGI6.DF' is saved            
-15-OCT-22 19:04 :10
+16-OCT-22 15:22 :10
 ========================================
 FILE 'DF_LOGI5.DF' is saved            
-15-OCT-22 19:04 :10
+16-OCT-22 15:22 :10
 ========================================
 FILE 'DF_LOGI4.DF' is saved            
-15-OCT-22 19:04 :10
+16-OCT-22 15:22 :10
 ========================================
 FILE 'DF_LOGI3.DF' is saved            
-15-OCT-22 19:04 :10
+16-OCT-22 15:22 :10
 ========================================
 FILE 'DF_LOGI2.DF' is saved            
-15-OCT-22 19:04 :10
+16-OCT-22 15:22 :10
 ========================================
 FILE 'DF_LOGI1.DF' is saved            
-15-OCT-22 19:04 :10
+16-OCT-22 15:22 :10
 ========================================
 FILE 'DCSVRFY.DG' is saved             
-15-OCT-22 19:04 :10
+16-OCT-22 15:22 :10
 ========================================
 FILE 'DCSDIFF.DG' is saved             
-15-OCT-22 19:04 :10
+16-OCT-22 15:22 :10
 ========================================
 FILE 'DCSCHGD3.DG' is saved            
-15-OCT-22 19:04 :10
+16-OCT-22 15:22 :10
 ========================================
 FILE 'DCSCHGD2.DG' is saved            
-15-OCT-22 19:04 :10
+16-OCT-22 15:22 :10
 ========================================
 FILE 'DCSCHGD1.DG' is saved            
-15-OCT-22 19:04 :10
+16-OCT-22 15:22 :10
 ========================================
 FILE 'CONSLOG.DG' is saved             
-15-OCT-22 19:04 :10
+16-OCT-22 15:22 :10
+========================================
+FILE 'CONROD2D.VD' is saved            
+16-OCT-22 15:22 :10
+========================================
+FILE 'CONROD2.TP' is saved             
+16-OCT-22 15:22 :10
 ========================================
 FILE 'CONROD.TP' is saved              
-15-OCT-22 19:04 :10
+16-OCT-22 15:22 :10
 ========================================
 FILE 'COMSET.VR' is saved              
-15-OCT-22 19:04 :10
+16-OCT-22 15:22 :10
 ========================================
 FILE 'CO.TP' is saved                  
-15-OCT-22 19:04 :10
+16-OCT-22 15:22 :10
 ========================================
 FILE 'CELLIO.SV' is saved              
-15-OCT-22 19:04 :10
+16-OCT-22 15:22 :10
+========================================
+FILE 'CAM1CAL.VD' is saved             
+16-OCT-22 15:22 :10
+========================================
+FILE 'CAM.VD' is saved                 
+16-OCT-22 15:22 :10
 ========================================
 FILE 'BICSETUP.VR' is saved            
-15-OCT-22 19:04 :10
+16-OCT-22 15:22 :10
 ========================================
 FILE 'BACKDATE.DT' is saved            
-15-OCT-22 19:04 :10
+16-OCT-22 15:22 :10
 ========================================
 FILE 'ATERRJOB.VR' is saved            
-15-OCT-22 19:04 :10
+16-OCT-22 15:22 :10
 ========================================
 FILE '-BCKEDT-.TP' is saved            
-15-OCT-22 19:04 :10
+16-OCT-22 15:22 :10
 ========================================
 FILE '-BCKED9-.TP' is saved            
-15-OCT-22 19:04 :10
+16-OCT-22 15:22 :10
 ========================================
 FILE '-BCKED8-.TP' is saved            
-15-OCT-22 19:04 :10
-========================================
-Menu changed 'DATA Registers'          
-15-OCT-22 19:04 :10
-========================================
-DATA is pressed                        
-15-OCT-22 19:04 :10
-========================================
-SHIFT,F2(SELECT  ) is pressed          
-15-OCT-22 19:04 :04
---Screen image--------------------------
-TPIF-106 Program is already running                                             
-CONROD            LINE 8    \T2\ PAUSED \\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                       PAUSED      5/14                                         
-   1:  PAYLOAD[1]                                                               
-   2:  UFRAME_NUM=0                                                             
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-\\\5:J  P[3] 100% FINE                                                          
-   6:L @P[2] 100mm/sec FINE                                                     
-   7:  CALL PICKUP                                                              
-   8:  WAIT    .50(sec)                                                         
-   9:J  P[5] 100% FINE                                                          
-  10:L  P[4] 100mm/sec FINE                                                     
-  11:  CALL PLACE                                                               
-Select lines                                                                    
-        SELECT                   PASTE                                          
-========================================
-SHIFT,F2(SELECT  ) is pressed          
-15-OCT-22 19:04 :04
---Screen image--------------------------
-TPIF-106 Program is already running                                             
-CONROD            LINE 8    \T2\ PAUSED \\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                       PAUSED      5/14                                         
-   1:  PAYLOAD[1]                                                               
-   2:  UFRAME_NUM=0                                                             
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-\\\5:J  P[3] 100% FINE                                                          
-   6:L @P[2] 100mm/sec FINE                                                     
-   7:  CALL PICKUP                                                              
-   8:  WAIT    .50(sec)                                                         
-   9:J  P[5] 100% FINE                                                          
-  10:L  P[4] 100mm/sec FINE                                                     
-  11:  CALL PLACE                                                               
-Select lines                                                                    
-        SELECT                   PASTE                                          
-========================================
-SHIFT,F2(SELECT  ) is pressed          
-15-OCT-22 19:04 :04
---Screen image--------------------------
-TPIF-106 Program is already running                                             
-CONROD            LINE 8    \T2\ PAUSED \\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                       PAUSED      5/14                                         
-   1:  PAYLOAD[1]                                                               
-   2:  UFRAME_NUM=0                                                             
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-\\\5:J  P[3] 100% FINE                                                          
-   6:L @P[2] 100mm/sec FINE                                                     
-   7:  CALL PICKUP                                                              
-   8:  WAIT    .50(sec)                                                         
-   9:J  P[5] 100% FINE                                                          
-  10:L  P[4] 100mm/sec FINE                                                     
-  11:  CALL PLACE                                                               
-Select lines                                                                    
-        SELECT                   PASTE                                          
-========================================
-SHIFT,F5( PASTE  ) is pressed          
-15-OCT-22 19:03 :58
---Screen image--------------------------
-TPIF-106 Program is already running                                             
-CONROD            LINE 8    \T2\ PAUSED \\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                       PAUSED      5/14                                         
-   1:  PAYLOAD[1]                                                               
-   2:  UFRAME_NUM=0                                                             
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-\\\5:J  P[3] 100% FINE                                                          
-   6:L @P[2] 100mm/sec FINE                                                     
-   7:  CALL PICKUP                                                              
-   8:  WAIT    .50(sec)                                                         
-   9:J  P[5] 100% FINE                                                          
-  10:L  P[4] 100mm/sec FINE                                                     
-  11:  CALL PLACE                                                               
-Select lines                                                                    
-        SELECT                   PASTE                                          
-========================================
-SHIFT,F2(SELECT  ) is pressed          
-15-OCT-22 19:03 :58
---Screen image--------------------------
-TPIF-106 Program is already running                                             
-CONROD            LINE 8    \T2\ PAUSED \\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                       PAUSED      5/14                                         
-   1:  PAYLOAD[1]                                                               
-   2:  UFRAME_NUM=0                                                             
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-\\\5:J  P[3] 100% FINE                                                          
-   6:L @P[2] 100mm/sec FINE                                                     
-   7:  CALL PICKUP                                                              
-   8:  WAIT    .50(sec)                                                         
-   9:J  P[5] 100% FINE                                                          
-  10:L  P[4] 100mm/sec FINE                                                     
-  11:  CALL PLACE                                                               
-Select lines                                                                    
-        SELECT                   PASTE                                          
-========================================
-SHIFT,F2(SELECT  ) is pressed          
-15-OCT-22 19:03 :56
---Screen image--------------------------
-TPIF-106 Program is already running                                             
-CONROD            LINE 8    \T2\ PAUSED \\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                       PAUSED      5/14                                         
-   1:  PAYLOAD[1]                                                               
-   2:  UFRAME_NUM=0                                                             
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-\\\5:J  P[3] 100% FINE                                                          
-   6:L @P[2] 100mm/sec FINE                                                     
-   7:  CALL PICKUP                                                              
-   8:  WAIT    .50(sec)                                                         
-   9:J  P[5] 100% FINE                                                          
-  10:L  P[4] 100mm/sec FINE                                                     
-  11:  CALL PLACE                                                               
-Select lines                                                                    
-        SELECT                   PASTE                                          
-========================================
-SHIFT,F2(SELECT  ) is pressed          
-15-OCT-22 19:03 :56
---Screen image--------------------------
-TPIF-106 Program is already running                                             
-CONROD            LINE 8    \T2\ PAUSED \\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                       PAUSED      5/14                                         
-   1:  PAYLOAD[1]                                                               
-   2:  UFRAME_NUM=0                                                             
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-\\\5:J  P[3] 100% FINE                                                          
-   6:L @P[2] 100mm/sec FINE                                                     
-   7:  CALL PICKUP                                                              
-   8:  WAIT    .50(sec)                                                         
-   9:J  P[5] 100% FINE                                                          
-  10:L  P[4] 100mm/sec FINE                                                     
-  11:  CALL PLACE                                                               
-Select lines                                                                    
-        SELECT                   PASTE                                          
-========================================
-'Copy/Cut' is selected                 
-15-OCT-22 19:03 :54
---Screen image--------------------------
-TPIF-106 Program is already running                                             
-CONROD            LINE 8    \T2\ PAUSED \\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                       PAUSED      5/14                                         
-   1:  PAYLOAD[1]                                                               
-   2:  UFRAME_NUM=0                                                             
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-\\\5:J  P[3] 100% FINE                                                          
-   6:L @P[2] 100mm/sec FINE                                                     
-   7:  CALL PICKUP                                                              
-   8:  WAIT    .50(sec)                                                         
-   9:J  P[5] 100% FINE                                                          
-  10:L  P[4] 100mm/sec FINE                                                     
-  11:  CALL PLACE                                                               
-                                                                                
-[ INST ]                        |EDCMD|>                                        
-========================================
-SHIFT,F5([EDCMD]>) is pressed          
-15-OCT-22 19:03 :52
---Screen image--------------------------
-TPIF-106 Program is already running                                             
-CONROD            LINE 8    \T2\ PAUSED \\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                       PAUSED      5/14                                         
-   1:  PAYLOAD[1]                                                               
-   2:  UFRAME_NUM=0                                                             
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-\\\5:J  P[3] 100% FINE                                                          
-   6:L @P[2] 100mm/sec FINE                                                     
-   7:  CALL PICKUP                                                              
-   8:  WAIT    .50(sec)                                                         
-   9:J  P[5] 100% FINE                                                          
-  10:L  P[4] 100mm/sec FINE                                                     
-  11:  CALL PLACE                                                               
-                                                                                
-[ INST ]                        [EDCMD]>                                        
-========================================
-SHIFT,FWD is pressed                   
-15-OCT-22 19:03 :42
-========================================
-SHIFT,FWD is pressed                   
-15-OCT-22 19:03 :40
-========================================
-SHIFT,FWD is pressed                   
-15-OCT-22 19:03 :40
-========================================
-SHIFT,FWD is pressed                   
-15-OCT-22 19:03 :40
-========================================
-SHIFT,FWD is pressed                   
-15-OCT-22 19:03 :38
-========================================
-SHIFT,FWD is pressed                   
-15-OCT-22 19:03 :30
-========================================
-SHIFT,FWD is pressed                   
-15-OCT-22 19:03 :28
-========================================
-SHIFT,FWD is pressed                   
-15-OCT-22 19:03 :26
-========================================
-SHIFT,FWD is pressed                   
-15-OCT-22 19:03 :24
-========================================
-SHIFT,FWD is pressed                   
-15-OCT-22 19:03 :22
-========================================
-SHIFT,FWD is pressed                   
-15-OCT-22 19:03 :20
-========================================
-Single step ON                         
-15-OCT-22 19:03 :18
-========================================
-SHIFT,STEP is pressed                  
-15-OCT-22 19:03 :18
-========================================
-Single step OFF                        
-15-OCT-22 19:03 :16
-========================================
-SHIFT,STEP is pressed                  
-15-OCT-22 19:03 :16
-========================================
-Single step ON                         
-15-OCT-22 19:03 :16
-========================================
-SHIFT,STEP is pressed                  
-15-OCT-22 19:03 :16
-========================================
-Single step OFF                        
-15-OCT-22 19:03 :14
-========================================
-SHIFT,STEP is pressed                  
-15-OCT-22 19:03 :14
-========================================
-Single step ON                         
-15-OCT-22 19:03 :04
-========================================
-SHIFT,STEP is pressed                  
-15-OCT-22 19:03 :04
-========================================
-SHIFT,FWD is pressed                   
-15-OCT-22 19:02 :50
-========================================
-SHIFT,FWD is pressed                   
-15-OCT-22 19:02 :20
-========================================
-SHIFT,FWD is pressed                   
-15-OCT-22 18:59 :34
-========================================
-SHIFT,FWD is pressed                   
-15-OCT-22 18:59 :18
-========================================
-SHIFT,FWD is pressed                   
-15-OCT-22 18:59 :14
-========================================
-SHIFT,FWD is pressed                   
-15-OCT-22 18:59 :00
-========================================
-F3( POSID  ) is pressed                
-15-OCT-22 18:58 :40
---Screen image--------------------------
-                                                                                
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                  13/13                                         
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-   5:J  P[3] 100% FINE                                                          
-   6:L  P[2] 100mm/sec FINE                                                     
-   7:  CALL PICKUP                                                              
-   8:  WAIT    .50(sec)                                                         
-   9:J @P[5] 100% FINE                                                          
-  10:L  P[4] 100mm/sec FINE                                                     
-  11:  CALL PLACE                                                               
-  12:  WAIT    .50(sec)                                                         
-[End]                                                                           
-Paste before this line ?                                                        
-         LOGIC   POSID  POSITION CANCEL>                                        
-========================================
-F5( PASTE  ) is pressed                
-15-OCT-22 18:58 :30
---Screen image--------------------------
-                                                                                
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                  13/13                                         
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-   5:J  P[3] 100% FINE                                                          
-   6:L  P[2] 100mm/sec FINE                                                     
-   7:  CALL PICKUP                                                              
-   8:  WAIT    .50(sec)                                                         
-   9:J @P[5] 100% FINE                                                          
-  10:L  P[4] 100mm/sec FINE                                                     
-  11:  CALL PLACE                                                               
-  12:  WAIT    .50(sec)                                                         
-[End]                                                                           
-Select lines                                                                    
-        SELECT                   PASTE                                          
-========================================
-F2( COPY   ) is pressed                
-15-OCT-22 18:58 :18
---Screen image--------------------------
-                                                                                
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                   9/13                                         
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-   5:J  P[3] 100% FINE                                                          
-   6:L  P[2] 100mm/sec FINE                                                     
-   7:  CALL PICKUP                                                              
-   8:  WAIT    .50(sec)                                                         
-\\\9:J @P[5] 100% FINE                                                          
-  10:L  P[4] 100mm/sec FINE                                                     
-  11:  CALL PLACE                                                               
-  12:  WAIT    .50(sec)                                                         
-[End]                                                                           
-Move cursor to select range                                                     
-         COPY     CUT            PASTE                                          
-========================================
-F2(SELECT  ) is pressed                
-15-OCT-22 18:58 :16
---Screen image--------------------------
-                                                                                
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                   9/13                                         
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-   5:J  P[3] 100% FINE                                                          
-   6:L  P[2] 100mm/sec FINE                                                     
-   7:  CALL PICKUP                                                              
-   8:  WAIT    .50(sec)                                                         
-\\\9:J @P[5] 100% FINE                                                          
-  10:L  P[4] 100mm/sec FINE                                                     
-  11:  CALL PLACE                                                               
-  12:  WAIT    .50(sec)                                                         
-[End]                                                                           
-Select lines                                                                    
-        SELECT                   PASTE                                          
-========================================
-'Copy/Cut' is selected                 
-15-OCT-22 18:58 :12
---Screen image--------------------------
-                                                                                
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                   9/13                                         
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-   5:J  P[3] 100% FINE                                                          
-   6:L  P[2] 100mm/sec FINE                                                     
-   7:  CALL PICKUP                                                              
-   8:  WAIT    .50(sec)                                                         
-\\\9:J @P[5] 100% FINE                                                          
-  10:L  P[4] 100mm/sec FINE                                                     
-  11:  CALL PLACE                                                               
-  12:  WAIT    .50(sec)                                                         
-[End]                                                                           
-                                                                                
-[ INST ]                        |EDCMD|>                                        
-========================================
-F5([EDCMD]>) is pressed                
-15-OCT-22 18:58 :08
---Screen image--------------------------
-                                                                                
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                   9/13                                         
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-   5:J  P[3] 100% FINE                                                          
-   6:L  P[2] 100mm/sec FINE                                                     
-   7:  CALL PICKUP                                                              
-   8:  WAIT    .50(sec)                                                         
-\\\9:J @P[5] 100% FINE                                                          
-  10:L  P[4] 100mm/sec FINE                                                     
-  11:  CALL PLACE                                                               
-  12:  WAIT    .50(sec)                                                         
-[End]                                                                           
-                                                                                
-[ INST ]                        [EDCMD]>                                        
-========================================
-.50 is entered                         
-15-OCT-22 18:57 :12
---Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                  12/13                                         
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-   5:J  P[3] 100% FINE                                                          
-   6:L  P[2] 100mm/sec FINE                                                     
-   7:  CALL PICKUP                                                              
-   8:  WAIT    .50(sec)                                                         
-   9:J @P[5] 100% FINE                                                          
-  10:L  P[4] 100mm/sec FINE                                                     
-  11:  CALL PLACE                                                               
-  12:  WAIT \\0.00(sec)                                                         
-[End]                                                                           
-Old Value: 0                                                                    
-        DIRECT INDIRECT[CHOICE]                                                 
-========================================
-R E S E T                              
-                                       
-                              00000000 
-15-OCT-22 18:57 :10
-========================================
-RESET is pressed                       
-15-OCT-22 18:57 :10
-========================================
-'WAIT ... (sec)' is selected in 'Wait 
-statements' menu                      
-15-OCT-22 18:56 :50
---Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                  12/13                                         
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-   5:J  P[3] 100% FINE                                                          
-   6:L  P[2] 100mm/sec FINE                                                     
-   7:  CALL PICKUP                                                              
-   8:  WAIT    .50(sec)                                                         
-   9:J @P[5] 100% FINE                                                          
-  10:L  P[4] 100mm/sec FINE                                                     
-  11:  CALL PLACE                                                               
-\\12:                                                                           
-[End]                                                                           
-Select item                                                                     
-                       [CHOICE]                                                 
-========================================
-'WAIT' is selected in 'Instruction' men
-u                                      
-15-OCT-22 18:56 :48
---Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                  12/13                                         
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-   5:J  P[3] 100% FINE                                                          
-   6:L  P[2] 100mm/sec FINE                                                     
-   7:  CALL PICKUP                                                              
-   8:  WAIT    .50(sec)                                                         
-   9:J @P[5] 100% FINE                                                          
-  10:L  P[4] 100mm/sec FINE                                                     
-  11:  CALL PLACE                                                               
-\\12:                                                                           
-[End]                                                                           
-                                                                                
-[ INST ]                        [EDCMD]>                                        
-========================================
-F1([ INST ]) is pressed                
-15-OCT-22 18:56 :48
---Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                  12/13                                         
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-   5:J  P[3] 100% FINE                                                          
-   6:L  P[2] 100mm/sec FINE                                                     
-   7:  CALL PICKUP                                                              
-   8:  WAIT    .50(sec)                                                         
-   9:J @P[5] 100% FINE                                                          
-  10:L  P[4] 100mm/sec FINE                                                     
-  11:  CALL PLACE                                                               
-\\12:                                                                           
-[End]                                                                           
-                                                                                
-[ INST ]                        [EDCMD]>                                        
+16-OCT-22 15:22 :10
 ========================================
 'CALL program' is selected in 'CALL st
 atement' menu                         
-15-OCT-22 18:56 :40
+16-OCT-22 15:22 :00
 --Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                  11/13                                         
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-   5:J  P[3] 100% FINE                                                          
-   6:L  P[2] 100mm/sec FINE                                                     
-   7:  CALL PICKUP                                                              
-   8:  WAIT    .50(sec)                                                         
-   9:J @P[5] 100% FINE                                                          
-  10:L  P[4] 100mm/sec FINE                                                     
-\\11:                                                                           
-  12:                                                                           
-[End]                                                                           
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  14/20                                         
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+  11:J  P[2] 3% FINE Offset,PR[2]                                               
+  12:  PR[2,3]=PR[2,3]-R[1:APPR]                                                
+  13:L  P[2] 100mm/sec FINE                                                     
+    :  Offset,PR[2]                                                             
+\\14:                                                                           
+  15:                                                                           
 Select item                                                                     
                        [CHOICE]                                                 
 ========================================
 'CALL' is selected in 'Instruction' men
 u                                      
-15-OCT-22 18:56 :40
+16-OCT-22 15:22 :00
 --Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                  11/13                                         
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-   5:J  P[3] 100% FINE                                                          
-   6:L  P[2] 100mm/sec FINE                                                     
-   7:  CALL PICKUP                                                              
-   8:  WAIT    .50(sec)                                                         
-   9:J @P[5] 100% FINE                                                          
-  10:L  P[4] 100mm/sec FINE                                                     
-\\11:                                                                           
-  12:                                                                           
-[End]                                                                           
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  14/20                                         
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+  11:J  P[2] 3% FINE Offset,PR[2]                                               
+  12:  PR[2,3]=PR[2,3]-R[1:APPR]                                                
+  13:L  P[2] 100mm/sec FINE                                                     
+    :  Offset,PR[2]                                                             
+\\14:                                                                           
+  15:                                                                           
                                                                                 
 [ INST ]                        [EDCMD]>                                        
 ========================================
 F1([ INST ]) is pressed                
-15-OCT-22 18:56 :38
+16-OCT-22 15:21 :58
 --Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                  11/13                                         
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-   5:J  P[3] 100% FINE                                                          
-   6:L  P[2] 100mm/sec FINE                                                     
-   7:  CALL PICKUP                                                              
-   8:  WAIT    .50(sec)                                                         
-   9:J @P[5] 100% FINE                                                          
-  10:L  P[4] 100mm/sec FINE                                                     
-\\11:                                                                           
-  12:                                                                           
-[End]                                                                           
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  14/20                                         
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+  11:J  P[2] 3% FINE Offset,PR[2]                                               
+  12:  PR[2,3]=PR[2,3]-R[1:APPR]                                                
+  13:L  P[2] 100mm/sec FINE                                                     
+    :  Offset,PR[2]                                                             
+\\14:                                                                           
+  15:                                                                           
                                                                                 
 [ INST ]                        [EDCMD]>                                        
 ========================================
-1 is entered                           
-15-OCT-22 18:56 :32
+'Joint' is selected in 'Motion Modify' 
+menu                                   
+16-OCT-22 15:21 :34
 --Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                  11/12                                         
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-   5:J  P[3] 100% FINE                                                          
-   6:L  P[2] 100mm/sec FINE                                                     
-   7:  CALL PICKUP                                                              
-   8:  WAIT    .50(sec)                                                         
-   9:J @P[5] 100% FINE                                                          
-  10:L  P[4] 100mm/sec FINE                                                     
-\\11:                                                                           
-[End]                                                                           
                                                                                 
-How many line to insert ? :                                                     
-                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  11/20                                         
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+  11:L  P[2] 100mm/sec FINE                                                     
+    :  Offset,PR[2]                                                             
+  12:  PR[2,3]=PR[2,3]-R[1:APPR]                                                
+  13:L  P[2] 100mm/sec FINE                                                     
+    :  Offset,PR[2]                                                             
+  14:                                                                           
+  11:L  P[2] 100mm/sec FINE                                                     
+                        [CHOICE]                                                
 ========================================
-'Insert' is selected                   
-15-OCT-22 18:56 :30
+F4([CHOICE]) is pressed                
+16-OCT-22 15:21 :32
 --Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                  11/12                                         
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-   5:J  P[3] 100% FINE                                                          
-   6:L  P[2] 100mm/sec FINE                                                     
-   7:  CALL PICKUP                                                              
-   8:  WAIT    .50(sec)                                                         
-   9:J @P[5] 100% FINE                                                          
-  10:L  P[4] 100mm/sec FINE                                                     
-\\11:                                                                           
-[End]                                                                           
                                                                                 
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  11/20                                         
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+  11:L  P[2] 100mm/sec FINE                                                     
+    :  Offset,PR[2]                                                             
+  12:  PR[2,3]=PR[2,3]-R[1:APPR]                                                
+  13:L  P[2] 100mm/sec FINE                                                     
+    :  Offset,PR[2]                                                             
+  14:                                                                           
+                                                                                
+                        [CHOICE]                                                
+========================================
+PREV is pressed                        
+16-OCT-22 15:21 :30
+========================================
+PREV is pressed                        
+16-OCT-22 15:21 :30
+========================================
+F2(SELECT  ) is pressed                
+16-OCT-22 15:21 :28
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  11/20                                         
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+  11:L  P[2] 100mm/sec FINE                                                     
+    :  Offset,PR[2]                                                             
+  12:  PR[2,3]=PR[2,3]-R[1:APPR]                                                
+  13:L  P[2] 100mm/sec FINE                                                     
+    :  Offset,PR[2]                                                             
+  14:                                                                           
+Select lines                                                                    
+        SELECT                   PASTE                                          
+========================================
+F3( POSID  ) is pressed                
+16-OCT-22 15:21 :16
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  13/19                                         
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+  11:L  P[2] 100mm/sec FINE                                                     
+    :  Offset,PR[2]                                                             
+  12:  PR[2,3]=PR[2,3]-R[1:APPR]                                                
+\\13:                                                                           
+  14:                                                                           
+  15:                                                                           
+Paste before this line ?                                                        
+         LOGIC   POSID  POSITION CANCEL>                                        
+========================================
+F5( PASTE  ) is pressed                
+16-OCT-22 15:21 :14
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  13/19                                         
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+  11:L  P[2] 100mm/sec FINE                                                     
+    :  Offset,PR[2]                                                             
+  12:  PR[2,3]=PR[2,3]-R[1:APPR]                                                
+\\13:                                                                           
+  14:                                                                           
+  15:                                                                           
+Select lines                                                                    
+        SELECT                   PASTE                                          
+========================================
+F2( COPY   ) is pressed                
+16-OCT-22 15:21 :12
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  11/19                                         
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+\\11:L  P[2] 100mm/sec FINE                                                     
+    :  Offset,PR[2]                                                             
+  12:  PR[2,3]=PR[2,3]-R[1:APPR]                                                
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+Move cursor to select range                                                     
+         COPY     CUT            PASTE                                          
+========================================
+F2(SELECT  ) is pressed                
+16-OCT-22 15:21 :10
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  11/19                                         
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+\\11:L  P[2] 100mm/sec FINE                                                     
+    :  Offset,PR[2]                                                             
+  12:  PR[2,3]=PR[2,3]-R[1:APPR]                                                
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+Select lines                                                                    
+        SELECT                   PASTE                                          
+========================================
+'Copy/Cut' is selected                 
+16-OCT-22 15:21 :10
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  11/19                                         
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+\\11:L  P[2] 100mm/sec FINE                                                     
+    :  Offset,PR[2]                                                             
+  12:  PR[2,3]=PR[2,3]-R[1:APPR]                                                
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
                                                                                 
 [ INST ]                        |EDCMD|>                                        
 ========================================
 F5([EDCMD]>) is pressed                
-15-OCT-22 18:56 :28
+16-OCT-22 15:21 :08
 --Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                  11/12                                         
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-   5:J  P[3] 100% FINE                                                          
-   6:L  P[2] 100mm/sec FINE                                                     
-   7:  CALL PICKUP                                                              
-   8:  WAIT    .50(sec)                                                         
-   9:J @P[5] 100% FINE                                                          
-  10:L  P[4] 100mm/sec FINE                                                     
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  11/19                                         
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+\\11:L  P[2] 100mm/sec FINE                                                     
+    :  Offset,PR[2]                                                             
+  12:  PR[2,3]=PR[2,3]-R[1:APPR]                                                
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+                                                                                
+[ INST ]                        [EDCMD]>                                        
+========================================
+'-' is selected in 'REGISTER statement'
+ menu                                  
+16-OCT-22 15:20 :44
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  12/19                                         
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+  11:L  P[2] 100mm/sec FINE                                                     
+    :  Offset,PR[2]                                                             
+  12:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  12:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+                       [CHOICE]                                                 
+========================================
+F4(CHOICE] ) is pressed                
+16-OCT-22 15:20 :44
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  12/19                                         
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+  11:L  P[2] 100mm/sec FINE                                                     
+    :  Offset,PR[2]                                                             
+  12:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+                                                                                
+                       [CHOICE]                                                 
+========================================
+PREV is pressed                        
+16-OCT-22 15:20 :26
+========================================
+F3( POSID  ) is pressed                
+16-OCT-22 15:20 :14
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  12/18                                         
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+  11:L  P[2] 100mm/sec FINE                                                     
+    :  Offset,PR[2]                                                             
+\\12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+Paste before this line ?                                                        
+         LOGIC   POSID  POSITION CANCEL>                                        
+========================================
+F5( PASTE  ) is pressed                
+16-OCT-22 15:20 :12
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  12/18                                         
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+  11:L  P[2] 100mm/sec FINE                                                     
+    :  Offset,PR[2]                                                             
+\\12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+Move cursor to select range                                                     
+         COPY     CUT            PASTE                                          
+========================================
+F2(SELECT  ) is pressed                
+16-OCT-22 15:20 :10
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  12/18                                         
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+  11:L  P[2] 100mm/sec FINE                                                     
+    :  Offset,PR[2]                                                             
+\\12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+Select lines                                                                    
+        SELECT                   PASTE                                          
+========================================
+F2( COPY   ) is pressed                
+16-OCT-22 15:20 :06
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  10/18                                         
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+\\10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+  11:L  P[2] 100mm/sec FINE                                                     
+    :  Offset,PR[2]                                                             
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+Move cursor to select range                                                     
+         COPY     CUT            PASTE                                          
+========================================
+F2(SELECT  ) is pressed                
+16-OCT-22 15:20 :06
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  10/18                                         
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+\\10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+  11:L  P[2] 100mm/sec FINE                                                     
+    :  Offset,PR[2]                                                             
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+Select lines                                                                    
+        SELECT                   PASTE                                          
+========================================
+'Copy/Cut' is selected                 
+16-OCT-22 15:20 :04
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  10/18                                         
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+\\10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+  11:L  P[2] 100mm/sec FINE                                                     
+    :  Offset,PR[2]                                                             
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+                                                                                
+[ INST ]                        |EDCMD|>                                        
+========================================
+F5([EDCMD]>) is pressed                
+16-OCT-22 15:20 :04
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  10/18                                         
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+\\10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+  11:L  P[2] 100mm/sec FINE                                                     
+    :  Offset,PR[2]                                                             
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+                                                                                
+[ INST ]                        [EDCMD]>                                        
+========================================
+2 is entered                           
+16-OCT-22 15:19 :08
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  11/18                                         
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+  11:L  P[2] 100mm/sec FINE                                                     
+    :  Offset,PR[...] ]                                                         
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+Old Value: 0                                                                    
+        DIRECT INDIRECT[CHOICE] [LIST]                                          
+========================================
+'Offset,PR[  ]' is selected in 'Motion
+ Modify' menu                         
+16-OCT-22 15:18 :58
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  11/18                                         
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+  11:L  P[2] 100mm/sec FINE\\\                                                  
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+  11:L  P[2] 100mm/sec FINE\\\                                                  
+                        [CHOICE]                                                
+========================================
+F4([CHOICE]) is pressed                
+16-OCT-22 15:18 :38
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  11/18                                         
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+  11:L  P[2] 100mm/sec FINE\\\                                                  
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+                                                                                
+                        [CHOICE]                                                
+========================================
+F4(  DONE  ) is pressed                
+16-OCT-22 15:18 :18
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+ P[2] UF:1  UT:1         CONF:NUT 000                                           
+ X \\\\\0.000   mm  W      0.000  deg                                           
+ Y      0.000   mm  P      0.000  deg                                           
+ Z      0.000   mm  R      0.000  deg                                           
+Position\Detail\\\\\\\\\\\\\\\\\\\\\\\\\                                        
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+  11:L \P[2] 100mm/sec FINE                                                     
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+Enter value                                                                     
+                  CONF    DONE  [REPRE]                                         
+========================================
+0 is entered                           
+16-OCT-22 15:18 :16
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+ P[2] UF:1  UT:1         CONF:NUT 000                                           
+ X      0.000   mm  W      0.000  deg                                           
+ Y      0.000   mm  P      0.000  deg                                           
+ Z      0.000   mm  R \\\\\-.000  deg                                           
+Position\Detail\\\\\\\\\\\\\\\\\\\\\\\\\                                        
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+  11:L \P[2] 100mm/sec FINE                                                     
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+Enter value                                                                     
+                  CONF    DONE  [REPRE]                                         
+========================================
+0 is entered                           
+16-OCT-22 15:18 :14
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+ P[2] UF:1  UT:1         CONF:NUT 000                                           
+ X      0.000   mm  W      0.000  deg                                           
+ Y      0.000   mm  P \\\\\\.000  deg                                           
+ Z      0.000   mm  R      -.000  deg                                           
+Position\Detail\\\\\\\\\\\\\\\\\\\\\\\\\                                        
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+  11:L \P[2] 100mm/sec FINE                                                     
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+Enter value                                                                     
+                  CONF    DONE  [REPRE]                                         
+========================================
+0 is entered                           
+16-OCT-22 15:18 :14
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+ P[2] UF:1  UT:1         CONF:NUT 000                                           
+ X      0.000   mm  W \\\\\\.000  deg                                           
+ Y      0.000   mm  P       .000  deg                                           
+ Z      0.000   mm  R      -.000  deg                                           
+Position\Detail\\\\\\\\\\\\\\\\\\\\\\\\\                                        
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+  11:L \P[2] 100mm/sec FINE                                                     
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+Enter value                                                                     
+                  CONF    DONE  [REPRE]                                         
+========================================
+0 is entered                           
+16-OCT-22 15:18 :14
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+ P[2] UF:1  UT:1         CONF:NUT 000                                           
+ X      0.000   mm  W       .000  deg                                           
+ Y      0.000   mm  P       .000  deg                                           
+ Z \\\367.000   mm  R      -.000  deg                                           
+Position\Detail\\\\\\\\\\\\\\\\\\\\\\\\\                                        
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+  11:L \P[2] 100mm/sec FINE                                                     
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+Enter value                                                                     
+                  CONF    DONE  [REPRE]                                         
+========================================
+0 is entered                           
+16-OCT-22 15:18 :12
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+ P[2] UF:1  UT:1         CONF:NUT 000                                           
+ X      0.000   mm  W       .000  deg                                           
+ Y \\\500.000   mm  P       .000  deg                                           
+ Z    367.000   mm  R      -.000  deg                                           
+Position\Detail\\\\\\\\\\\\\\\\\\\\\\\\\                                        
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+  11:L @P[2] 100mm/sec FINE                                                     
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+Enter value                                                                     
+                  CONF    DONE  [REPRE]                                         
+========================================
+0 is entered                           
+16-OCT-22 15:18 :12
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+ P[2] UF:1  UT:1         CONF:NUT 000                                           
+ X \-1065.687   mm  W       .000  deg                                           
+ Y    500.000   mm  P       .000  deg                                           
+ Z    367.000   mm  R      -.000  deg                                           
+Position\Detail\\\\\\\\\\\\\\\\\\\\\\\\\                                        
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+  11:L @P[2] 100mm/sec FINE                                                     
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+Enter value                                                                     
+                  CONF    DONE  [REPRE]                                         
+========================================
+F5(POSITION) is pressed                
+16-OCT-22 15:18 :08
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  11/18                                         
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+  11:L @P[2] 100mm/sec FINE                                                     
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+Enter value or press ENTER                                                      
+                        [CHOICE]POSITION                                        
+========================================
+PREV is pressed                        
+16-OCT-22 15:18 :06
+========================================
+ENTER is pressed                       
+16-OCT-22 15:18 :02
+========================================
+'3 L P[] 100mm/sec FINE' is selected in
+ 'Default Motion' menu                 
+16-OCT-22 15:17 :58
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  11/18                                         
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
 \\11:                                                                           
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+                                                                                
+ ED_DEF                         TOUCHUP>                                        
+========================================
+F1( POINT  ) is pressed                
+16-OCT-22 15:17 :56
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  11/18                                         
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+\\11:                                                                           
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+                                                                                
+ POINT                          TOUCHUP>                                        
+========================================
+PREV is pressed                        
+16-OCT-22 15:17 :54
+========================================
+F1([ INST ]) is pressed                
+16-OCT-22 15:17 :46
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  11/18                                         
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+\\11:                                                                           
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+                                                                                
+[ INST ]                        [EDCMD]>                                        
+========================================
+2 is entered                           
+16-OCT-22 15:17 :42
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  11/16                                         
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+\\11:                                                                           
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+[End]                                                                           
+How many line to insert ? :                                                     
+                                                                                
+========================================
+'Insert' is selected                   
+16-OCT-22 15:17 :38
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  11/16                                         
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+\\11:                                                                           
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+[End]                                                                           
+                                                                                
+[ INST ]                        |EDCMD|>                                        
+========================================
+F5([EDCMD]>) is pressed                
+16-OCT-22 15:17 :38
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  11/16                                         
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+\\11:                                                                           
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+[End]                                                                           
+                                                                                
+[ INST ]                        [EDCMD]>                                        
+========================================
+F4(  YES   ) is pressed                
+16-OCT-22 15:17 :36
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  11/17                                         
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+\\11:J  P[2] 100% CNT100                                                        
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+Delete line(s) ?                                                                
+                          YES     NO                                            
+========================================
+'Delete' is selected                   
+16-OCT-22 15:17 :34
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  11/17                                         
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+\\11:J  P[2] 100% CNT100                                                        
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+                                                                                
+[ INST ]                        |EDCMD|>                                        
+========================================
+PREV is pressed                        
+16-OCT-22 15:17 :30
+========================================
+R E S E T                              
+                                       
+                              00000000 
+16-OCT-22 15:17 :26
+========================================
+RESET is pressed                       
+16-OCT-22 15:17 :26
+========================================
+F4(  DONE  ) is pressed                
+16-OCT-22 15:17 :04
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+ P[2] UF:1  UT:1         CONF:NUT 000                                           
+ X \\\\\0.000   mm  W      0.000  deg                                           
+ Y      0.000   mm  P      0.000  deg                                           
+ Z      0.000   mm  R      0.000  deg                                           
+Position\Detail\\\\\\\\\\\\\\\\\\\\\\\\\                                        
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+  11:J \P[2] 100% CNT100                                                        
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+Enter value                                                                     
+                  CONF    DONE  [REPRE]                                         
+========================================
+0 is entered                           
+16-OCT-22 15:17 :00
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+ P[2] UF:1  UT:1         CONF:NUT 000                                           
+ X      0.000   mm  W      0.000  deg                                           
+ Y      0.000   mm  P      0.000  deg                                           
+ Z      0.000   mm  R \\\\\-.000  deg                                           
+Position\Detail\\\\\\\\\\\\\\\\\\\\\\\\\                                        
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+  11:J \P[2] 100% CNT100                                                        
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+Enter value                                                                     
+                  CONF    DONE  [REPRE]                                         
+========================================
+0 is entered                           
+16-OCT-22 15:17 :00
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+ P[2] UF:1  UT:1         CONF:NUT 000                                           
+ X      0.000   mm  W      0.000  deg                                           
+ Y      0.000   mm  P \\\\\\.000  deg                                           
+ Z      0.000   mm  R      -.000  deg                                           
+Position\Detail\\\\\\\\\\\\\\\\\\\\\\\\\                                        
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+  11:J \P[2] 100% CNT100                                                        
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+Enter value                                                                     
+                  CONF    DONE  [REPRE]                                         
+========================================
+0 is entered                           
+16-OCT-22 15:16 :58
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+ P[2] UF:1  UT:1         CONF:NUT 000                                           
+ X      0.000   mm  W \\\\\\.000  deg                                           
+ Y      0.000   mm  P       .000  deg                                           
+ Z      0.000   mm  R      -.000  deg                                           
+Position\Detail\\\\\\\\\\\\\\\\\\\\\\\\\                                        
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+  11:J \P[2] 100% CNT100                                                        
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+Enter value                                                                     
+                  CONF    DONE  [REPRE]                                         
+========================================
+0 is entered                           
+16-OCT-22 15:16 :54
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+ P[2] UF:1  UT:1         CONF:NUT 000                                           
+ X      0.000   mm  W       .000  deg                                           
+ Y      0.000   mm  P       .000  deg                                           
+ Z \\\367.000   mm  R      -.000  deg                                           
+Position\Detail\\\\\\\\\\\\\\\\\\\\\\\\\                                        
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+  11:J \P[2] 100% CNT100                                                        
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+Enter value                                                                     
+                  CONF    DONE  [REPRE]                                         
+========================================
+0 is entered                           
+16-OCT-22 15:16 :54
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+ P[2] UF:1  UT:1         CONF:NUT 000                                           
+ X      0.000   mm  W       .000  deg                                           
+ Y \\\500.000   mm  P       .000  deg                                           
+ Z    367.000   mm  R      -.000  deg                                           
+Position\Detail\\\\\\\\\\\\\\\\\\\\\\\\\                                        
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+  11:J @P[2] 100% CNT100                                                        
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+Enter value                                                                     
+                  CONF    DONE  [REPRE]                                         
+========================================
+0 is entered                           
+16-OCT-22 15:16 :50
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+ P[2] UF:1  UT:1         CONF:NUT 000                                           
+ X \-1065.687   mm  W       .000  deg                                           
+ Y    500.000   mm  P       .000  deg                                           
+ Z    367.000   mm  R      -.000  deg                                           
+Position\Detail\\\\\\\\\\\\\\\\\\\\\\\\\                                        
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+  11:J @P[2] 100% CNT100                                                        
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+Enter value                                                                     
+                  CONF    DONE  [REPRE]                                         
+========================================
+F5(POSITION) is pressed                
+16-OCT-22 15:16 :50
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  11/17                                         
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+  11:J @P[2] 100% CNT100                                                        
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+Enter value or press ENTER                                                      
+                        [CHOICE]POSITION                                        
+========================================
+F4(  DONE  ) is pressed                
+16-OCT-22 15:16 :44
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+ P[2] UF:1  UT:1         CONF:NUT 000                                           
+ X \-1065.687   mm  W       .000  deg                                           
+ Y    500.000   mm  P       .000  deg                                           
+ Z    367.000   mm  R      -.000  deg                                           
+Position\Detail\\\\\\\\\\\\\\\\\\\\\\\\\                                        
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+  11:J @P[2] 100% CNT100                                                        
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+Enter value                                                                     
+                  CONF    DONE  [REPRE]                                         
+========================================
+F5(POSITION) is pressed                
+16-OCT-22 15:16 :18
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  11/17                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+  11:J @P[2] 100% CNT100                                                        
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+[End]                                                                           
+                                                                                
+Enter value or press ENTER                                                      
+                        [CHOICE]POSITION                                        
+========================================
+'2 J P[] 100% CNT100' is selected in '
+Default Motion' menu                  
+16-OCT-22 15:15 :58
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  11/17                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+\\11:                                                                           
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+[End]                                                                           
+                                                                                
+                                                                                
+ ED_DEF                         TOUCHUP>                                        
+========================================
+F1( POINT  ) is pressed                
+16-OCT-22 15:15 :52
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  11/17                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  PR[2,3]=PR[2,3]+R[1:APPR]                                                
+\\11:                                                                           
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+[End]                                                                           
+                                                                                
+                                                                                
+ POINT                          TOUCHUP>                                        
+========================================
+Menu changed 'CONROD2'                 
+16-OCT-22 15:15 :26
+========================================
+EDIT is pressed                        
+16-OCT-22 15:15 :26
+========================================
+APPR is entered                        
+16-OCT-22 15:15 :22
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+DATA\Registers\\\\\\\\\\\\\\\\       0 1                                        
+                                   1/200                                        
+R[  1:                ]=200                                                     
+R[  2:                ]=0                                                       
+R[  3:                ]=0                                                       
+R[  4:                ]=0                                                       
+R[  5:                ]=0                                                       
+R[  6:                ]=0                                                       
+R[  7:                ]=0                                                       
+R[  8:                ]=0                                                       
+R[  9:                ]=0                                                       
+R[ 10:                ]=0                                                       
+R[ 11:                ]=0                                                       
+Old Value:                                                                      
+   ABCDEF GHIJKL  MNOPQR STUVWX  YZ_@*.                                         
+========================================
+200 is entered                         
+16-OCT-22 15:15 :04
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+DATA\Registers\\\\\\\\\\\\\\\\       0 1                                        
+                                   1/200                                        
+R[  1:                ]=0\\\\\\\\\\\\\\\                                        
+R[  2:                ]=0                                                       
+R[  3:                ]=0                                                       
+R[  4:                ]=0                                                       
+R[  5:                ]=0                                                       
+R[  6:                ]=0                                                       
+R[  7:                ]=0                                                       
+R[  8:                ]=0                                                       
+R[  9:                ]=0                                                       
+R[ 10:                ]=0                                                       
+R[ 11:                ]=0                                                       
+Old Value: 0                                                                    
+[ TYPE ]                                                                        
+========================================
+APPR is entered                        
+16-OCT-22 15:15 :00
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+DATA\Registers\\\\\\\\\\\\\\\\       0 1                                        
+                                   1/200                                        
+R[  1:                ]=0                                                       
+R[  2:                ]=0                                                       
+R[  3:                ]=0                                                       
+R[  4:                ]=0                                                       
+R[  5:                ]=0                                                       
+R[  6:                ]=0                                                       
+R[  7:                ]=0                                                       
+R[  8:                ]=0                                                       
+R[  9:                ]=0                                                       
+R[ 10:                ]=0                                                       
+R[ 11:                ]=0                                                       
+Old Value:                                                                      
+   ABCDEF GHIJKL  MNOPQR STUVWX  YZ_@*.                                         
+========================================
+ENTER is pressed                       
+16-OCT-22 15:14 :40
+========================================
+ is entered                            
+16-OCT-22 15:14 :38
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+DATA\Registers\\\\\\\\\\\\\\\\       0 1                                        
+                                   1/200                                        
+R[  1:                ]=0                                                       
+R[  2:                ]=0                                                       
+R[  3:                ]=0                                                       
+R[  4:                ]=0                                                       
+R[  5:                ]=0                                                       
+R[  6:                ]=0                                                       
+R[  7:                ]=0                                                       
+R[  8:                ]=0                                                       
+R[  9:                ]=0                                                       
+R[ 10:                ]=0                                                       
+R[ 11:                ]=0                                                       
+Old Value:                                                                      
+   ABCDEF GHIJKL  MNOPQR STUVWX  YZ_@*.                                         
+========================================
+ENTER is pressed                       
+16-OCT-22 15:14 :36
+========================================
+F1(| TYPE |) is pressed                
+16-OCT-22 15:14 :32
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+DATA\Registers\\\\\\\\\\\\\\\\       0 1                                        
+                                   1/200                                        
+R[  1:\\\\\\\\\\\\\\\\]=0                                                       
+R[  2:                ]=0                                                       
+R[  3:                ]=0                                                       
+R[  4:                ]=0                                                       
+R[  5:                ]=0                                                       
+R[  6:                ]=0                                                       
+R[  7:                ]=0                                                       
+R[  8:                ]=0                                                       
+R[  9:                ]=0                                                       
+R[ 10:                ]=0                                                       
+R[ 11:                ]=0                                                       
+                                                                                
+| TYPE |                                                                        
+========================================
+F1([ TYPE ]) is pressed                
+16-OCT-22 15:14 :30
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+DATA\Registers\\\\\\\\\\\\\\\\       0 1                                        
+                                   1/200                                        
+R[  1:\\\\\\\\\\\\\\\\]=0                                                       
+R[  2:                ]=0                                                       
+R[  3:                ]=0                                                       
+R[  4:                ]=0                                                       
+R[  5:                ]=0                                                       
+R[  6:                ]=0                                                       
+R[  7:                ]=0                                                       
+R[  8:                ]=0                                                       
+R[  9:                ]=0                                                       
+R[ 10:                ]=0                                                       
+R[ 11:                ]=0                                                       
+Press ENTER                                                                     
+[ TYPE ]                                                                        
+========================================
+Menu changed 'DATA Registers'          
+16-OCT-22 15:14 :14
+========================================
+DATA is pressed                        
+16-OCT-22 15:14 :14
+========================================
+1 is entered                           
+16-OCT-22 15:14 :06
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  10/17                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  PR[2,3]=PR[2,3]+R[...] ]                                                 
+  11:                                                                           
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+[End]                                                                           
+                                                                                
+Old Value: 0                                                                    
+         DIRECT INDIRECT[CHOICE] [LIST]                                         
+========================================
+'R[ ]' is selected in 'REGISTER statem
+ent' menu                             
+16-OCT-22 15:14 :02
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  10/17                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  PR[2,3]=PR[2,3]+...                                                      
+  11:                                                                           
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+[End]                                                                           
+                                                                                
+  10:  PR[2,3]=PR[2,3]+...                                                      
+                       [CHOICE]                                                 
+========================================
+3 is entered                           
+16-OCT-22 15:13 :54
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  10/17                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  PR[2,3]=PR[2,...]+...                                                    
+  11:                                                                           
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+[End]                                                                           
+                                                                                
+Old Value: 0                                                                    
+        DIRECT INDIRECT[CHOICE]                                                 
+========================================
+2 is entered                           
+16-OCT-22 15:13 :52
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  10/17                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  PR[2,3]=PR[...,.,...]+...                                                
+  11:                                                                           
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+[End]                                                                           
+                                                                                
+Old Value: 0                                                                    
+GP_MASK  DIRECT INDIRECT[CHOICE] [LIST]                                         
+========================================
+'PR[i,j]' is selected in 'REGISTER sta
+tement' menu                          
+16-OCT-22 15:13 :42
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  10/17                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  PR[2,3]=...+...                                                          
+  11:                                                                           
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+[End]                                                                           
+                                                                                
+  10:  PR[2,3]=...+...                                                          
+                       [CHOICE]                                                 
+========================================
+3 is entered                           
+16-OCT-22 15:13 :18
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  10/17                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  PR[2,...]=...+...                                                        
+  11:                                                                           
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+[End]                                                                           
+                                                                                
+Old Value: 0                                                                    
+        DIRECT INDIRECT[CHOICE]                                                 
+========================================
+2 is entered                           
+16-OCT-22 15:13 :14
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  10/17                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  PR[...,.,...]=...+...                                                    
+  11:                                                                           
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+[End]                                                                           
+                                                                                
+Old Value: 0                                                                    
+GP_MASK  DIRECT INDIRECT[CHOICE] [LIST]                                         
+========================================
+'PR[i,j]' is selected in 'REGISTER sta
+tement' menu                          
+16-OCT-22 15:12 :58
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  10/17                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  ...=...+...                                                              
+  11:                                                                           
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+[End]                                                                           
+                                                                                
+  10:  ...=...+...                                                              
+                       [CHOICE]                                                 
+========================================
+'...=...+...' is selected in 'REGISTER
+ statement' menu                      
+16-OCT-22 15:12 :58
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  10/17                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+\\10:                                                                           
+  11:                                                                           
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+[End]                                                                           
+                                                                                
+Select item                                                                     
+                       [CHOICE]                                                 
+========================================
+'Registers' is selected in 'Instructio
+n' menu                               
+16-OCT-22 15:12 :56
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  10/17                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+\\10:                                                                           
+  11:                                                                           
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+[End]                                                                           
+                                                                                
+                                                                                
+[ INST ]                        [EDCMD]>                                        
+========================================
+F1([ INST ]) is pressed                
+16-OCT-22 15:12 :54
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  10/17                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+\\10:                                                                           
+  11:                                                                           
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
 [End]                                                                           
                                                                                 
                                                                                 
 [ INST ]                        [EDCMD]>                                        
 ========================================
 F4(  YES   ) is pressed                
-15-OCT-22 18:56 :24
+16-OCT-22 15:12 :28
 --Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                  11/13                                         
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-   5:J  P[3] 100% FINE                                                          
-   6:L  P[2] 100mm/sec FINE                                                     
-   7:  CALL PICKUP                                                              
-   8:  WAIT    .50(sec)                                                         
-   9:J @P[5] 100% FINE                                                          
-  10:L  P[4] 100mm/sec FINE                                                     
-\\11:  WAIT    .50(sec)                                                         
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  10/18                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+\\10:  R[...]=...                                                               
+  11:                                                                           
   12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+  17:                                                                           
 [End]                                                                           
 Delete line(s) ?                                                                
                           YES     NO                                            
 ========================================
 'Delete' is selected                   
-15-OCT-22 18:56 :22
+16-OCT-22 15:12 :26
 --Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                  11/13                                         
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-   5:J  P[3] 100% FINE                                                          
-   6:L  P[2] 100mm/sec FINE                                                     
-   7:  CALL PICKUP                                                              
-   8:  WAIT    .50(sec)                                                         
-   9:J @P[5] 100% FINE                                                          
-  10:L  P[4] 100mm/sec FINE                                                     
-\\11:  WAIT    .50(sec)                                                         
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  10/18                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+\\10:  R[...]=...                                                               
+  11:                                                                           
   12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+  17:                                                                           
 [End]                                                                           
                                                                                 
 [ INST ]                        |EDCMD|>                                        
 ========================================
 F5([EDCMD]>) is pressed                
-15-OCT-22 18:56 :20
+16-OCT-22 15:12 :22
 --Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                  11/13                                         
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-   5:J  P[3] 100% FINE                                                          
-   6:L  P[2] 100mm/sec FINE                                                     
-   7:  CALL PICKUP                                                              
-   8:  WAIT    .50(sec)                                                         
-   9:J @P[5] 100% FINE                                                          
-  10:L  P[4] 100mm/sec FINE                                                     
-\\11:  WAIT    .50(sec)                                                         
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  10/18                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+\\10:  R[...]=...                                                               
+  11:                                                                           
   12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+  17:                                                                           
 [End]                                                                           
                                                                                 
 [ INST ]                        [EDCMD]>                                        
 ========================================
-F1([ INST ]) is pressed                
-15-OCT-22 18:56 :14
---Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                  11/13                                         
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-   5:J  P[3] 100% FINE                                                          
-   6:L  P[2] 100mm/sec FINE                                                     
-   7:  CALL PICKUP                                                              
-   8:  WAIT    .50(sec)                                                         
-   9:J @P[5] 100% FINE                                                          
-  10:L  P[4] 100mm/sec FINE                                                     
-\\11:  WAIT    .50(sec)                                                         
-  12:                                                                           
-[End]                                                                           
-                                                                                
-[ INST ]                        [EDCMD]>                                        
+R E S E T                              
+                                       
+                              00000000 
+16-OCT-22 15:12 :22
 ========================================
-.50 is entered                         
-15-OCT-22 18:55 :36
---Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                  11/13                                         
-   2:  UFRAME_NUM=0                                                             
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-   5:J  P[3] 100% FINE                                                          
-   6:L  P[2] 100mm/sec FINE                                                     
-   7:  CALL PICKUP                                                              
-   8:  WAIT    .50(sec)                                                         
-   9:J @P[5] 100% FINE                                                          
-  10:L  P[4] 100mm/sec FINE                                                     
-  11:  WAIT \\0.00(sec)                                                         
-  12:                                                                           
-Old Value: 0                                                                    
-        DIRECT INDIRECT[CHOICE]                                                 
+RESET is pressed                       
+16-OCT-22 15:12 :22
 ========================================
-'WAIT ... (sec)' is selected in 'Wait 
-statements' menu                      
-15-OCT-22 18:55 :30
---Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                  11/13                                         
-   2:  UFRAME_NUM=0                                                             
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-   5:J  P[3] 100% FINE                                                          
-   6:L  P[2] 100mm/sec FINE                                                     
-   7:  CALL PICKUP                                                              
-   8:  WAIT    .50(sec)                                                         
-   9:J @P[5] 100% FINE                                                          
-  10:L  P[4] 100mm/sec FINE                                                     
-\\11:                                                                           
-  12:                                                                           
-Select item                                                                     
-                       [CHOICE]                                                 
+R E S E T                              
+                                       
+                              00000000 
+16-OCT-22 15:12 :18
 ========================================
-'WAIT' is selected in 'Instruction' men
-u                                      
-15-OCT-22 18:55 :28
---Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                  11/13                                         
-   2:  UFRAME_NUM=0                                                             
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-   5:J  P[3] 100% FINE                                                          
-   6:L  P[2] 100mm/sec FINE                                                     
-   7:  CALL PICKUP                                                              
-   8:  WAIT    .50(sec)                                                         
-   9:J @P[5] 100% FINE                                                          
-  10:L  P[4] 100mm/sec FINE                                                     
-\\11:                                                                           
-  12:                                                                           
-                                                                                
-[ INST ]                        [EDCMD]>                                        
+RESET is pressed                       
+16-OCT-22 15:12 :18
 ========================================
-F1([ INST ]) is pressed                
-15-OCT-22 18:55 :26
---Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                  11/13                                         
-   2:  UFRAME_NUM=0                                                             
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-   5:J  P[3] 100% FINE                                                          
-   6:L  P[2] 100mm/sec FINE                                                     
-   7:  CALL PICKUP                                                              
-   8:  WAIT    .50(sec)                                                         
-   9:J @P[5] 100% FINE                                                          
-  10:L  P[4] 100mm/sec FINE                                                     
-\\11:                                                                           
-  12:                                                                           
-                                                                                
-[ INST ]                        [EDCMD]>                                        
+R E S E T                              
+                                       
+                              00000000 
+16-OCT-22 15:12 :18
 ========================================
-'1 J P[] 100% FINE' is selected in 'De
-fault Motion' menu                    
-15-OCT-22 18:54 :42
---Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                   9/13                                         
-   2:  UFRAME_NUM=0                                                             
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-   5:J  P[3] 100% FINE                                                          
-   6:L  P[2] 100mm/sec FINE                                                     
-   7:  CALL PICKUP                                                              
-   8:  WAIT    .50(sec)                                                         
-\\\9:                                                                           
-  10:L  P[4] 100mm/sec FINE                                                     
-  11:                                                                           
-  12:                                                                           
-                                                                                
- ED_DEF                         TOUCHUP>                                        
-========================================
-F1( POINT  ) is pressed                
-15-OCT-22 18:54 :42
---Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                   9/13                                         
-   2:  UFRAME_NUM=0                                                             
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-   5:J  P[3] 100% FINE                                                          
-   6:L  P[2] 100mm/sec FINE                                                     
-   7:  CALL PICKUP                                                              
-   8:  WAIT    .50(sec)                                                         
-\\\9:                                                                           
-  10:L  P[4] 100mm/sec FINE                                                     
-  11:                                                                           
-  12:                                                                           
-                                                                                
- POINT                          TOUCHUP>                                        
-========================================
-SHIFT,-Z(J3) is pressed                
-15-OCT-22 18:54 :24
-========================================
-SHIFT,+Z(J3) is pressed                
-15-OCT-22 18:54 :20
-========================================
-'3 L P[] 100mm/sec FINE' is selected in
- 'Default Motion' menu                 
-15-OCT-22 18:53 :30
---Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                  10/13                                         
-   1:  PAYLOAD[1]                                                               
-   2:  UFRAME_NUM=0                                                             
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-   5:J  P[3] 100% FINE                                                          
-   6:L  P[2] 100mm/sec FINE                                                     
-   7:  CALL PICKUP                                                              
-   8:  WAIT    .50(sec)                                                         
-   9:                                                                           
-\\10:                                                                           
-  11:                                                                           
-                                                                                
- ED_DEF                         TOUCHUP>                                        
-========================================
-F1( POINT  ) is pressed                
-15-OCT-22 18:53 :24
---Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                  10/13                                         
-   1:  PAYLOAD[1]                                                               
-   2:  UFRAME_NUM=0                                                             
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-   5:J  P[3] 100% FINE                                                          
-   6:L  P[2] 100mm/sec FINE                                                     
-   7:  CALL PICKUP                                                              
-   8:  WAIT    .50(sec)                                                         
-   9:                                                                           
-\\10:                                                                           
-  11:                                                                           
-                                                                                
- POINT                          TOUCHUP>                                        
+RESET is pressed                       
+16-OCT-22 15:12 :18
 ========================================
 PREV is pressed                        
-15-OCT-22 18:53 :22
+16-OCT-22 15:12 :16
 ========================================
-F1([ INST ]) is pressed                
-15-OCT-22 18:53 :14
+F5( [LIST] ) is pressed                
+16-OCT-22 15:12 :12
 --Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                  10/13                                         
-   1:  PAYLOAD[1]                                                               
-   2:  UFRAME_NUM=0                                                             
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-   5:J  P[3] 100% FINE                                                          
-   6:L  P[2] 100mm/sec FINE                                                     
-   7:  CALL PICKUP                                                              
-   8:  WAIT    .50(sec)                                                         
-   9:                                                                           
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  10/18                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  R[...]=...                                                               
+  11:                                                                           
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+  17:                                                                           
+[End]                                                                           
+Enter value                                                                     
+         DIRECT INDIRECT[CHOICE] [LIST]                                         
+========================================
+F4(CHOICE] ) is pressed                
+16-OCT-22 15:12 :10
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  10/18                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  R[...]=...                                                               
+  11:                                                                           
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+  17:                                                                           
+[End]                                                                           
+  10:  R[...]=...                                                               
+                       [CHOICE]                                                 
+========================================
+F4([CHOICE]) is pressed                
+16-OCT-22 15:12 :08
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  10/18                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  R[...]=...                                                               
+  11:                                                                           
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+  17:                                                                           
+[End]                                                                           
+Enter value                                                                     
+         DIRECT INDIRECT[CHOICE] [LIST]                                         
+========================================
+'R[ ]' is selected in 'REGISTER statem
+ent' menu                             
+16-OCT-22 15:12 :04
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  10/18                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+  10:  ...=...                                                                  
+  11:                                                                           
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+  17:                                                                           
+[End]                                                                           
+  10:  ...=...                                                                  
+                       [CHOICE]                                                 
+========================================
+'...=...' is selected in 'REGISTER sta
+tement' menu                          
+16-OCT-22 15:11 :58
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  10/18                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
 \\10:                                                                           
   11:                                                                           
-                                                                                
-[ INST ]                        [EDCMD]>                                        
-========================================
-Menu changed 'CONROD'                  
-15-OCT-22 18:52 :38
-========================================
-Focus changed to 'iPendant only screen'
-15-OCT-22 18:52 :08
-========================================
-Menu changed 'iPendant only screen'    
-15-OCT-22 18:52 :08
-========================================
-.50 is entered                         
-15-OCT-22 18:51 :18
---Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                   8/13                                         
-   1:  PAYLOAD[1]                                                               
-   2:  UFRAME_NUM=0                                                             
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-   5:J @P[3] 100% FINE                                                          
-   6:L  P[2] 100mm/sec FINE                                                     
-   7:  CALL PICKUP                                                              
-   8:  WAIT \\0.00(sec)                                                         
-   9:                                                                           
-  10:                                                                           
-  11:                                                                           
-Old Value: 0                                                                    
-        DIRECT INDIRECT[CHOICE]                                                 
-========================================
-'WAIT ... (sec)' is selected in 'Wait 
-statements' menu                      
-15-OCT-22 18:51 :04
---Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                   8/13                                         
-   1:  PAYLOAD[1]                                                               
-   2:  UFRAME_NUM=0                                                             
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-   5:J @P[3] 100% FINE                                                          
-   6:L  P[2] 100mm/sec FINE                                                     
-   7:  CALL PICKUP                                                              
-\\\8:                                                                           
-   9:                                                                           
-  10:                                                                           
-  11:                                                                           
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+  17:                                                                           
+[End]                                                                           
 Select item                                                                     
                        [CHOICE]                                                 
 ========================================
-'WAIT' is selected in 'Instruction' men
-u                                      
-15-OCT-22 18:50 :58
+'Registers' is selected in 'Instructio
+n' menu                               
+16-OCT-22 15:11 :42
 --Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                   8/13                                         
-   1:  PAYLOAD[1]                                                               
-   2:  UFRAME_NUM=0                                                             
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-   5:J @P[3] 100% FINE                                                          
-   6:L  P[2] 100mm/sec FINE                                                     
-   7:  CALL PICKUP                                                              
-\\\8:                                                                           
-   9:                                                                           
-  10:                                                                           
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  10/18                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+\\10:                                                                           
   11:                                                                           
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+  17:                                                                           
+[End]                                                                           
                                                                                 
 [ INST ]                        [EDCMD]>                                        
 ========================================
 F1([ INST ]) is pressed                
-15-OCT-22 18:50 :56
+16-OCT-22 15:11 :38
 --Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                   8/13                                         
-   1:  PAYLOAD[1]                                                               
-   2:  UFRAME_NUM=0                                                             
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-   5:J @P[3] 100% FINE                                                          
-   6:L  P[2] 100mm/sec FINE                                                     
-   7:  CALL PICKUP                                                              
-\\\8:                                                                           
-   9:                                                                           
-  10:                                                                           
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  10/18                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
+\\10:                                                                           
   11:                                                                           
+  12:                                                                           
+  13:                                                                           
+  14:                                                                           
+  15:                                                                           
+  16:                                                                           
+  17:                                                                           
+[End]                                                                           
                                                                                 
 [ INST ]                        [EDCMD]>                                        
-========================================
-'CALL program' is selected in 'CALL st
-atement' menu                         
-15-OCT-22 18:50 :40
---Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                   7/13                                         
-   1:  PAYLOAD[1]                                                               
-   2:  UFRAME_NUM=0                                                             
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-   5:J @P[3] 100% FINE                                                          
-   6:L  P[2] 100mm/sec FINE                                                     
-\\\7:                                                                           
-   8:                                                                           
-   9:                                                                           
-  10:                                                                           
-  11:                                                                           
-Select item                                                                     
-                       [CHOICE]                                                 
-========================================
-'CALL' is selected in 'Instruction' men
-u                                      
-15-OCT-22 18:50 :38
---Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                   7/13                                         
-   1:  PAYLOAD[1]                                                               
-   2:  UFRAME_NUM=0                                                             
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-   5:J @P[3] 100% FINE                                                          
-   6:L  P[2] 100mm/sec FINE                                                     
-\\\7:                                                                           
-   8:                                                                           
-   9:                                                                           
-  10:                                                                           
-  11:                                                                           
-                                                                                
-[ INST ]                        [EDCMD]>                                        
-========================================
-F1([ INST ]) is pressed                
-15-OCT-22 18:50 :36
---Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                   7/13                                         
-   1:  PAYLOAD[1]                                                               
-   2:  UFRAME_NUM=0                                                             
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-   5:J @P[3] 100% FINE                                                          
-   6:L  P[2] 100mm/sec FINE                                                     
-\\\7:                                                                           
-   8:                                                                           
-   9:                                                                           
-  10:                                                                           
-  11:                                                                           
-                                                                                
-[ INST ]                        [EDCMD]>                                        
-========================================
-Menu changed 'CONROD'                  
-15-OCT-22 18:50 :06
-========================================
-ENTER is pressed                       
-15-OCT-22 18:50 :06
-========================================
-SHIFT,-Z^(J6) is pressed               
-15-OCT-22 18:49 :40
-========================================
-Menu changed 'Select'                  
-15-OCT-22 18:49 :20
-========================================
-SELECT is pressed                      
-15-OCT-22 18:49 :20
-========================================
-FILE 'PLACE.LS' is loaded              
-15-OCT-22 18:48 :50
-========================================
-FILE 'PICKUP.LS' is loaded             
-15-OCT-22 18:47 :34
-========================================
-'1 J P[] 100% FINE' is selected in 'De
-fault Motion' menu                    
-15-OCT-22 18:45 :58
---Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                   5/13                                         
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-\\\5:                                                                           
-   6:L  P[2] 100mm/sec FINE                                                     
-   7:                                                                           
-   8:                                                                           
-   9:                                                                           
-  10:                                                                           
-  11:                                                                           
-  12:                                                                           
-[End]                                                                           
-                                                                                
- ED_DEF                         TOUCHUP>                                        
-========================================
-F1( POINT  ) is pressed                
-15-OCT-22 18:45 :56
---Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                   5/13                                         
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-\\\5:                                                                           
-   6:L  P[2] 100mm/sec FINE                                                     
-   7:                                                                           
-   8:                                                                           
-   9:                                                                           
-  10:                                                                           
-  11:                                                                           
-  12:                                                                           
-[End]                                                                           
-                                                                                
- POINT                          TOUCHUP>                                        
-========================================
-SHIFT,-Z(J3) is pressed                
-15-OCT-22 18:45 :28
-========================================
-SHIFT,+Z(J3) is pressed                
-15-OCT-22 18:45 :14
-========================================
-SHIFT,+Z(J3) is pressed                
-15-OCT-22 18:45 :10
-========================================
-SHIFT,-Z(J3) is pressed                
-15-OCT-22 18:45 :04
-========================================
-SHIFT,-Z(J3) is pressed                
-15-OCT-22 18:45 :02
-========================================
-SHIFT,-Z(J3) is pressed                
-15-OCT-22 18:45 :02
-========================================
-'3 L P[] 100mm/sec FINE' is selected in
- 'Default Motion' menu                 
-15-OCT-22 18:44 :32
---Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                   6/13                                         
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-   5:                                                                           
-\\\6:                                                                           
-   7:                                                                           
-   8:                                                                           
-   9:                                                                           
-  10:                                                                           
-  11:                                                                           
-  12:                                                                           
-[End]                                                                           
-                                                                                
- ED_DEF                         TOUCHUP>                                        
-========================================
-F1( POINT  ) is pressed                
-15-OCT-22 18:44 :06
---Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                   6/13                                         
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-   5:                                                                           
-\\\6:                                                                           
-   7:                                                                           
-   8:                                                                           
-   9:                                                                           
-  10:                                                                           
-  11:                                                                           
-  12:                                                                           
-[End]                                                                           
-                                                                                
- POINT                          TOUCHUP>                                        
 ========================================
 8 is entered                           
-15-OCT-22 18:43 :52
+16-OCT-22 15:11 :02
 --Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                    5/5                                         
                                                                                 
-                                                                                
-                                                                                
-                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  10/10                                         
    1:  PAYLOAD[1]                                                               
    2:  UFRAME_NUM=0                                                             
    3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
+   4:J @P[1] 100% FINE                                                          
+   5:  LBL[1]                                                                   
+   6:  VISION RUN_FIND 'CONROD2D'                                               
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
 [End]                                                                           
-                                                                                
-                                                                                
 How many line to insert ? :                                                     
                                                                                 
 ========================================
 'Insert' is selected                   
-15-OCT-22 18:43 :48
+16-OCT-22 15:11 :02
 --Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                    5/5                                         
                                                                                 
-                                                                                
-                                                                                
-                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  10/10                                         
    1:  PAYLOAD[1]                                                               
    2:  UFRAME_NUM=0                                                             
    3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
+   4:J @P[1] 100% FINE                                                          
+   5:  LBL[1]                                                                   
+   6:  VISION RUN_FIND 'CONROD2D'                                               
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
 [End]                                                                           
-                                                                                
-                                                                                
                                                                                 
 [ INST ]                        |EDCMD|>                                        
 ========================================
 F5([EDCMD]>) is pressed                
-15-OCT-22 18:43 :38
+16-OCT-22 15:11 :00
 --Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                    5/5                                         
                                                                                 
-                                                                                
-                                                                                
-                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                  10/10                                         
    1:  PAYLOAD[1]                                                               
    2:  UFRAME_NUM=0                                                             
    3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
+   4:J @P[1] 100% FINE                                                          
+   5:  LBL[1]                                                                   
+   6:  VISION RUN_FIND 'CONROD2D'                                               
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=1                                                             
 [End]                                                                           
-                                                                                
-                                                                                
                                                                                 
 [ INST ]                        [EDCMD]>                                        
 ========================================
-F4(  DONE  ) is pressed                
-15-OCT-22 18:43 :26
---Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
- P[1] UF:0  UT:1                                                                
- J1 \\\\\0.000 deg  J4      0.000 deg                                           
- J2    -39.720 deg  J5   -101.380 deg                                           
- J3     11.380 deg  J6     -1.872 deg                                           
-Position\Detail\\\\\\\\\\\\\\\\\\\\\\\\\                                        
-   1:  PAYLOAD[1]                                                               
-   2:  UFRAME_NUM=0                                                             
-   3:  UTOOL_NUM=1                                                              
-   4:J \P[1] 100% FINE                                                          
-[End]                                                                           
-                                                                                
-                                                                                
-Enter value                                                                     
-                          DONE  [REPRE]                                         
+Menu changed 'CONROD2'                 
+16-OCT-22 15:10 :44
 ========================================
-F5(POSITION) is pressed                
-15-OCT-22 18:43 :14
---Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                    4/5                                         
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-   1:  PAYLOAD[1]                                                               
-   2:  UFRAME_NUM=0                                                             
-   3:  UTOOL_NUM=1                                                              
-   4:J  P[1] 100% FINE                                                          
-[End]                                                                           
-                                                                                
-                                                                                
-Enter value or press ENTER                                                      
-                        [CHOICE]POSITION                                        
+EDIT is pressed                        
+16-OCT-22 15:10 :44
 ========================================
-F4(  DONE  ) is pressed                
-15-OCT-22 18:41 :52
---Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
- P[1] UF:0  UT:1                                                                
- J1 \\\\\0.000 deg  J4      0.000 deg                                           
- J2    -39.720 deg  J5   -101.380 deg                                           
- J3     11.380 deg  J6     -1.872 deg                                           
-Position\Detail\\\\\\\\\\\\\\\\\\\\\\\\\                                        
-   1:  PAYLOAD[1]                                                               
-   2:  UFRAME_NUM=0                                                             
-   3:  UTOOL_NUM=1                                                              
-   4:J @P[1] 100% FINE                                                          
-[End]                                                                           
-                                                                                
-                                                                                
-Enter value                                                                     
-                          DONE  [REPRE]                                         
-========================================
-'Joint' is selected                    
-15-OCT-22 18:41 :46
---Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
- P[1] UF:0  UT:1         CONF:NUT 000                                           
- X \\\835.477   mm  W       .000  deg                                           
- Y      0.000   mm  P       .000  deg                                           
- Z    625.000   mm  R     -1.872  deg                                           
-Position\Detail\\\\\\\\\\\\\\\\\\\\\\\\\                                        
-   1:  PAYLOAD[1]                                                               
-   2:  UFRAME_NUM=0                                                             
-   3:  UTOOL_NUM=1                                                              
-   4:J @P[1] 100% FINE                                                          
-[End]                                                                           
-                                                                                
-                                                                                
-Enter value                                                                     
-                  CONF    DONE  |REPRE|                                         
-========================================
-F5([REPRE] ) is pressed                
-15-OCT-22 18:41 :46
---Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
- P[1] UF:0  UT:1         CONF:NUT 000                                           
- X \\\835.477   mm  W       .000  deg                                           
- Y      0.000   mm  P       .000  deg                                           
- Z    625.000   mm  R     -1.872  deg                                           
-Position\Detail\\\\\\\\\\\\\\\\\\\\\\\\\                                        
-   1:  PAYLOAD[1]                                                               
-   2:  UFRAME_NUM=0                                                             
-   3:  UTOOL_NUM=1                                                              
-   4:J @P[1] 100% FINE                                                          
-[End]                                                                           
-                                                                                
-                                                                                
-Enter value                                                                     
-                  CONF    DONE  [REPRE]                                         
-========================================
-F5(POSITION) is pressed                
-15-OCT-22 18:41 :38
---Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                    4/5                                         
-   1:  PAYLOAD[1]                                                               
-   2:  UFRAME_NUM=0                                                             
-   3:  UTOOL_NUM=1                                                              
-   4:J @P[1] 100% FINE                                                          
-[End]                                                                           
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-Enter value or press ENTER                                                      
-                        [CHOICE]POSITION                                        
-========================================
-'1 J P[] 100% FINE' is selected in 'De
-fault Motion' menu                    
-15-OCT-22 18:41 :18
---Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                    4/4                                         
-   1:  PAYLOAD[1]                                                               
-   2:  UFRAME_NUM=0                                                             
-   3:  UTOOL_NUM=1                                                              
-[End]                                                                           
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
- ED_DEF                         TOUCHUP>                                        
-========================================
-F1( POINT  ) is pressed                
-15-OCT-22 18:40 :52
---Screen image--------------------------
-SYST-179 SHIFT-RESET Released                                                   
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                    4/4                                         
-   1:  PAYLOAD[1]                                                               
-   2:  UFRAME_NUM=0                                                             
-   3:  UTOOL_NUM=1                                                              
-[End]                                                                           
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
- POINT                          TOUCHUP>                                        
-========================================
-Override 50%                           
-15-OCT-22 18:40 :40
-========================================
-SHIFT +% is pressed                    
-15-OCT-22 18:40 :40
-========================================
-SHIFT,-X(J1) is pressed                
-15-OCT-22 18:40 :30
-========================================
-R E S E T                              
-                                       
-                              00000000 
-15-OCT-22 18:34 :10
-========================================
-FILE 'UPDTLOG.LS' is saved             
-15-OCT-22 18:34 :10
-========================================
-FILE 'UPDATES.DAT' is saved            
-15-OCT-22 18:34 :10
-========================================
-FILE 'TPSCRN.ZIP' is saved             
-15-OCT-22 18:34 :10
-========================================
-FILE 'TPEINS.XML' is saved             
-15-OCT-22 18:34 :10
-========================================
-FILE 'TPACCN.DG' is saved              
-15-OCT-22 18:34 :10
-========================================
-FILE 'TBSWRC65.VR' is saved            
-15-OCT-22 18:34 :10
-========================================
-FILE 'SYSVARS.SV' is saved             
-15-OCT-22 18:34 :08
-========================================
-FILE 'SYSUIF.SV' is saved              
-15-OCT-22 18:34 :08
-========================================
-FILE 'SYSSERVO.SV' is saved            
-15-OCT-22 18:34 :08
-========================================
-FILE 'SYSPASS.SV' is saved             
-15-OCT-22 18:34 :08
-========================================
-FILE 'SYSMAST.SV' is saved             
-15-OCT-22 18:34 :08
-========================================
-FILE 'SYSMACRO.SV' is saved            
-15-OCT-22 18:34 :08
-========================================
-FILE 'SYSHOST.SV' is saved             
-15-OCT-22 18:34 :08
-========================================
-FILE 'SYSFSAC.SV' is saved             
-15-OCT-22 18:34 :08
-========================================
-FILE 'SYSFRAME.SV' is saved            
-15-OCT-22 18:34 :08
-========================================
-FILE 'SWIUPDT.VR' is saved             
-15-OCT-22 18:34 :08
-========================================
-FILE 'SUMMARY.DG' is saved             
-15-OCT-22 18:34 :08
-========================================
-FILE 'STRREG.VR' is saved              
-15-OCT-22 18:34 :08
-========================================
-FILE 'SHADOW.DG' is saved              
-15-OCT-22 18:34 :08
-========================================
-FILE 'SENDSYSV.TP' is saved            
-15-OCT-22 18:34 :08
-========================================
-FILE 'SENDEVNT.TP' is saved            
-15-OCT-22 18:34 :08
-========================================
-FILE 'SENDDATA.TP' is saved            
-15-OCT-22 18:34 :08
-========================================
-FILE 'ROBOTCAM.VD' is saved            
-15-OCT-22 18:34 :08
-========================================
-FILE 'RIPESTAT.DG' is saved            
-15-OCT-22 18:34 :08
-========================================
-FILE 'RIPELOG.DG' is saved             
-15-OCT-22 18:34 :08
-========================================
-FILE 'REQMENU.TP' is saved             
-15-OCT-22 18:34 :08
-========================================
-FILE 'RC65.DT' is saved                
-15-OCT-22 18:34 :08
-========================================
-FILE 'PSRBWLD.CM' is saved             
-15-OCT-22 18:34 :08
-========================================
-FILE 'POSREG.VR' is saved              
-15-OCT-22 18:34 :08
-========================================
-FILE 'ORDERFIL.DAT' is saved           
-15-OCT-22 18:34 :08
-========================================
-FILE 'NUMREG.VR' is saved              
-15-OCT-22 18:34 :08
-========================================
-FILE 'NOTIFY.DG' is saved              
-15-OCT-22 18:34 :08
-========================================
-FILE 'MIXLOGIC.SV' is saved            
-15-OCT-22 18:34 :08
-========================================
-FILE 'MEMCHECK.DG' is saved            
-15-OCT-22 18:34 :08
-========================================
-FILE 'LOGBOOK.LS' is saved             
-15-OCT-22 18:34 :08
-========================================
-FILE 'IRVWAITLOG.VR' is saved          
-15-OCT-22 18:34 :08
-========================================
-FILE 'IRVTRAIN.VR' is saved            
-15-OCT-22 18:34 :08
-========================================
-FILE 'IRVSNAP.VR' is saved             
-15-OCT-22 18:34 :08
-========================================
-FILE 'IRVSAVIR.VR' is saved            
-15-OCT-22 18:34 :08
-========================================
-FILE 'IRVRGTRG.VR' is saved            
-15-OCT-22 18:34 :08
-========================================
-FILE 'IRVRGGTP.VR' is saved            
-15-OCT-22 18:34 :08
-========================================
-FILE 'IRVOVRDANYVP.VR' is saved        
-15-OCT-22 18:34 :08
-========================================
-FILE 'IRVLODIR.VR' is saved            
-15-OCT-22 18:34 :08
-========================================
-FILE 'IRVLEDON.VR' is saved            
-15-OCT-22 18:34 :08
-========================================
-FILE 'IRVLEDOFF.VR' is saved           
-15-OCT-22 18:34 :08
-========================================
-FILE 'IRVHOMING.VR' is saved           
-15-OCT-22 18:34 :08
-========================================
-FILE 'IRVGSEXE.VR' is saved            
-15-OCT-22 18:34 :08
-========================================
-FILE 'IRVGETMSR.VR' is saved           
-15-OCT-22 18:34 :08
-========================================
-FILE 'IRVGETMSL.VR' is saved           
-15-OCT-22 18:34 :08
-========================================
-FILE 'IRVFIND.VR' is saved             
-15-OCT-22 18:34 :08
-========================================
-FILE 'IRVCALDATA.VR' is saved          
-15-OCT-22 18:34 :08
-========================================
-FILE 'IRVBKLSH.VR' is saved            
-15-OCT-22 18:34 :08
-========================================
-FILE 'IRC_STLABEL.VR' is saved         
-15-OCT-22 18:34 :08
-========================================
-FILE 'IRC_STATUS.VR' is saved          
-15-OCT-22 18:34 :08
-========================================
-FILE 'IRC_MSG.VR' is saved             
-15-OCT-22 18:34 :08
-========================================
-FILE 'IRC_COUNTER.VR' is saved         
-15-OCT-22 18:34 :08
-========================================
-FILE 'IPRNGSHO.VR' is saved            
-15-OCT-22 18:34 :08
-========================================
-FILE 'IPRNGSET.VR' is saved            
-15-OCT-22 18:34 :08
-========================================
-FILE 'IPKDMP.ZIP' is saved             
-15-OCT-22 18:34 :08
-========================================
-FILE 'IOSTATUS.CM' is saved            
-15-OCT-22 18:34 :08
-========================================
-FILE 'HTTPKCL.VR' is saved             
-15-OCT-22 18:34 :08
-========================================
-FILE 'HTCOLREC.VR' is saved            
-15-OCT-22 18:34 :08
-========================================
-FILE 'HIST.LS' is saved                
-15-OCT-22 18:34 :08
-========================================
-FILE 'GIGELOG.DG' is saved             
-15-OCT-22 18:34 :08
-========================================
-FILE 'GETDATA.TP' is saved             
-15-OCT-22 18:34 :08
-========================================
-FILE 'GEMDATA.VR' is saved             
-15-OCT-22 18:34 :08
-========================================
-FILE 'FTPLOG.DG' is saved              
-15-OCT-22 18:34 :08
-========================================
-FILE 'FRAMEVAR.VR' is saved            
-15-OCT-22 18:34 :08
-========================================
-FILE 'ETHERNET.DG' is saved            
-15-OCT-22 18:34 :08
-========================================
-FILE 'ERRSYS.LS' is saved              
-15-OCT-22 18:34 :08
-========================================
-FILE 'ERRPWD.LS' is saved              
-15-OCT-22 18:34 :08
-========================================
-FILE 'ERRMOT.LS' is saved              
-15-OCT-22 18:34 :08
-========================================
-FILE 'ERRHIST.LS' is saved             
-15-OCT-22 18:34 :08
-========================================
-FILE 'ERREXT.LS' is saved              
-15-OCT-22 18:34 :08
-========================================
-FILE 'ERRCURR.LS' is saved             
-15-OCT-22 18:34 :08
-========================================
-FILE 'ERRCOMM.LS' is saved             
-15-OCT-22 18:34 :08
-========================================
-FILE 'ERRAPP.LS' is saved              
-15-OCT-22 18:34 :08
-========================================
-FILE 'ERRALL.LS' is saved              
-15-OCT-22 18:34 :08
-========================================
-FILE 'ERRACT.LS' is saved              
-15-OCT-22 18:34 :08
-========================================
-FILE 'EMAIL.DG' is saved               
-15-OCT-22 18:34 :08
-========================================
-FILE 'DIOCFGSV.IO' is saved            
-15-OCT-22 18:34 :08
-========================================
-FILE 'DF_MOTN0.DF' is saved            
-15-OCT-22 18:34 :08
-========================================
-FILE 'DF_LOGI6.DF' is saved            
-15-OCT-22 18:34 :08
-========================================
-FILE 'DF_LOGI5.DF' is saved            
-15-OCT-22 18:34 :08
-========================================
-FILE 'DF_LOGI4.DF' is saved            
-15-OCT-22 18:34 :08
-========================================
-FILE 'DF_LOGI3.DF' is saved            
-15-OCT-22 18:34 :08
-========================================
-FILE 'DF_LOGI2.DF' is saved            
-15-OCT-22 18:34 :08
-========================================
-FILE 'DF_LOGI1.DF' is saved            
-15-OCT-22 18:34 :08
-========================================
-FILE 'DCSVRFY.DG' is saved             
-15-OCT-22 18:34 :08
-========================================
-FILE 'DCSDIFF.DG' is saved             
-15-OCT-22 18:34 :08
-========================================
-FILE 'DCSCHGD3.DG' is saved            
-15-OCT-22 18:34 :08
-========================================
-FILE 'DCSCHGD2.DG' is saved            
-15-OCT-22 18:34 :08
-========================================
-FILE 'DCSCHGD1.DG' is saved            
-15-OCT-22 18:34 :08
-========================================
-FILE 'CONSLOG.DG' is saved             
-15-OCT-22 18:34 :08
-========================================
-FILE 'CONROD.TP' is saved              
-15-OCT-22 18:34 :08
-========================================
-FILE 'COMSET.VR' is saved              
-15-OCT-22 18:34 :08
-========================================
-FILE 'CO.TP' is saved                  
-15-OCT-22 18:34 :08
-========================================
-FILE 'CELLIO.SV' is saved              
-15-OCT-22 18:34 :08
-========================================
-FILE 'BICSETUP.VR' is saved            
-15-OCT-22 18:34 :08
-========================================
-FILE 'BACKDATE.DT' is saved            
-15-OCT-22 18:34 :08
-========================================
-FILE 'ATERRJOB.VR' is saved            
-15-OCT-22 18:34 :08
-========================================
-FILE '-BCKEDT-.TP' is saved            
-15-OCT-22 18:34 :08
-========================================
-FILE '-BCKED9-.TP' is saved            
-15-OCT-22 18:34 :08
-========================================
-FILE '-BCKED8-.TP' is saved            
-15-OCT-22 18:34 :08
-========================================
-Override 10%                           
-15-OCT-22 18:27 :14
-========================================
-  WORLD coordinate(G:1)                
-15-OCT-22 18:27 :14
-========================================
-COORD is pressed                       
-15-OCT-22 18:27 :14
-========================================
-Override 100%                          
-15-OCT-22 18:27 :14
-========================================
-Override 10%                           
-15-OCT-22 18:27 :14
-========================================
-  JGFRM coordinate(G:1)                
-15-OCT-22 18:27 :14
-========================================
-COORD is pressed                       
-15-OCT-22 18:27 :14
+User frame 1(G:1)                      
+16-OCT-22 15:10 :40
 ========================================
 1 is entered                           
-15-OCT-22 18:23 :32
+16-OCT-22 15:10 :40
 --Screen image--------------------------
                                                                                 
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\JOINT\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                    3/4                                         
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+SETUP\Frames\\\\\\\\\\\\\\\\\\       0i1                                        
+ User Frame      / Direct Entry   8/9                                           
+      X     Y      Z    Comment                                                 
+  1 1884.3 -534.5  258.0 [UFrame1      ]                                        
+  2    0.0    0.0    0.0 [UFrame2      ]                                        
+  3    0.0    0.0    0.0 [UFrame3      ]                                        
+  4    0.0    0.0    0.0 [UFrame4      ]                                        
+  5    0.0    0.0    0.0 [UFrame5      ]                                        
+  6    0.0    0.0    0.0 [UFrame6      ]                                        
+  7    0.0    0.0    0.0 [UFrame7      ]                                        
+  8\   0.0    0.0    0.0 [UFrame8      ]                                        
+  9    0.0    0.0    0.0 [UFrame9      ]                                        
+                                                                                
+Enter frame number:                                                             
+[ TYPE ] DETAIL [OTHER ]  CLEAR SETIND >                                        
+========================================
+F5(SETIND >) is pressed                
+16-OCT-22 15:10 :36
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+SETUP\Frames\\\\\\\\\\\\\\\\\\       0i1                                        
+ User Frame      / Direct Entry   8/9                                           
+      X     Y      Z    Comment                                                 
+  1 1884.3 -534.5  258.0 [UFrame1      ]                                        
+  2    0.0    0.0    0.0 [UFrame2      ]                                        
+  3    0.0    0.0    0.0 [UFrame3      ]                                        
+  4    0.0    0.0    0.0 [UFrame4      ]                                        
+  5    0.0    0.0    0.0 [UFrame5      ]                                        
+  6    0.0    0.0    0.0 [UFrame6      ]                                        
+  7    0.0    0.0    0.0 [UFrame7      ]                                        
+  8\   0.0    0.0    0.0 [UFrame8      ]                                        
+  9    0.0    0.0    0.0 [UFrame9      ]                                        
+                                                                                
+Active UFRAME $MNUFRAMENUM[1] = 0                                               
+[ TYPE ] DETAIL [OTHER ]  CLEAR SETIND >                                        
+========================================
+Menu changed 'SETUP Frames'            
+16-OCT-22 15:10 :30
+========================================
+'Frames' is selected in 'SETUP' MENU fl
+yout                                   
+16-OCT-22 15:10 :30
+========================================
+ENTER is pressed                       
+16-OCT-22 15:10 :30
+========================================
+1 is entered                           
+16-OCT-22 15:10 :10
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                   9/10                                         
    1:  PAYLOAD[1]                                                               
    2:  UFRAME_NUM=0                                                             
-   3:  UTOOL_NUM=Constant                                                       
+   3:  UTOOL_NUM=1                                                              
+   4:J @P[1] 100% FINE                                                          
+   5:  LBL[1]                                                                   
+   6:  VISION RUN_FIND 'CONROD2D'                                               
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=Constant                                                      
 [End]                                                                           
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
 Old Value: 0                                                                    
                        [CHOICE]                                                 
 ========================================
 'Constant' is selected in 'Offset/Fram
 es' menu                              
-15-OCT-22 18:23 :28
+16-OCT-22 15:10 :08
 --Screen image--------------------------
                                                                                 
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\JOINT\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                    3/4                                         
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                   9/10                                         
    1:  PAYLOAD[1]                                                               
    2:  UFRAME_NUM=0                                                             
-   3:  UTOOL_NUM=...                                                            
+   3:  UTOOL_NUM=1                                                              
+   4:J @P[1] 100% FINE                                                          
+   5:  LBL[1]                                                                   
+   6:  VISION RUN_FIND 'CONROD2D'                                               
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+   9:  UFRAME_NUM=...                                                           
 [End]                                                                           
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-   3:  UTOOL_NUM=...                                                            
-                       [CHOICE]                                                 
-========================================
-'UTOOL_NUM=...' is selected in 'Offset
-/Frames' menu                         
-15-OCT-22 18:23 :28
---Screen image--------------------------
-                                                                                
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\JOINT\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                    3/3                                         
-   1:  PAYLOAD[1]                                                               
-   2:  UFRAME_NUM=0                                                             
-[End]                                                                           
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-Select item                                                                     
-                       [CHOICE]                                                 
-========================================
-'Offset/Frames' is selected in 'Instru
-ction' menu                           
-15-OCT-22 18:23 :26
---Screen image--------------------------
-                                                                                
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\JOINT\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                    3/3                                         
-   1:  PAYLOAD[1]                                                               
-   2:  UFRAME_NUM=0                                                             
-[End]                                                                           
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-[ INST ]                        [EDCMD]>                                        
-========================================
-F1([ INST ]) is pressed                
-15-OCT-22 18:23 :20
---Screen image--------------------------
-                                                                                
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\JOINT\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                    3/3                                         
-   1:  PAYLOAD[1]                                                               
-   2:  UFRAME_NUM=0                                                             
-[End]                                                                           
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-[ INST ]                        [EDCMD]>                                        
-========================================
-0 is entered                           
-15-OCT-22 18:23 :08
---Screen image--------------------------
-                                                                                
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\JOINT\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                    2/3                                         
-   1:  PAYLOAD[1]                                                               
-   2:  UFRAME_NUM=Constant                                                      
-[End]                                                                           
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-Old Value: 0                                                                    
-                       [CHOICE]                                                 
-========================================
-'Constant' is selected in 'Offset/Fram
-es' menu                              
-15-OCT-22 18:22 :54
---Screen image--------------------------
-                                                                                
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\JOINT\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                    2/3                                         
-   1:  PAYLOAD[1]                                                               
-   2:  UFRAME_NUM=...                                                           
-[End]                                                                           
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-   2:  UFRAME_NUM=...                                                           
+   9:  UFRAME_NUM=...                                                           
                        [CHOICE]                                                 
 ========================================
 'UFRAME_NUM=...' is selected in 'Offse
 t/Frames' menu                        
-15-OCT-22 18:22 :52
+16-OCT-22 15:10 :06
 --Screen image--------------------------
                                                                                 
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\JOINT\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                    2/2                                         
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                    9/9                                         
    1:  PAYLOAD[1]                                                               
+   2:  UFRAME_NUM=0                                                             
+   3:  UTOOL_NUM=1                                                              
+   4:J @P[1] 100% FINE                                                          
+   5:  LBL[1]                                                                   
+   6:  VISION RUN_FIND 'CONROD2D'                                               
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
 [End]                                                                           
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
                                                                                 
 Select item                                                                     
                        [CHOICE]                                                 
 ========================================
 'Offset/Frames' is selected in 'Instru
 ction' menu                           
-15-OCT-22 18:22 :34
+16-OCT-22 15:10 :00
 --Screen image--------------------------
                                                                                 
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\JOINT\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                    2/2                                         
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                    9/9                                         
    1:  PAYLOAD[1]                                                               
+   2:  UFRAME_NUM=0                                                             
+   3:  UTOOL_NUM=1                                                              
+   4:J @P[1] 100% FINE                                                          
+   5:  LBL[1]                                                                   
+   6:  VISION RUN_FIND 'CONROD2D'                                               
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
 [End]                                                                           
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
                                                                                 
                                                                                 
 [ INST ]                        [EDCMD]>                                        
 ========================================
 F1([ INST ]) is pressed                
-15-OCT-22 18:22 :04
+16-OCT-22 15:09 :38
 --Screen image--------------------------
                                                                                 
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\JOINT\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                    2/2                                         
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                    9/9                                         
    1:  PAYLOAD[1]                                                               
+   2:  UFRAME_NUM=0                                                             
+   3:  UTOOL_NUM=1                                                              
+   4:J @P[1] 100% FINE                                                          
+   5:  LBL[1]                                                                   
+   6:  VISION RUN_FIND 'CONROD2D'                                               
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
 [End]                                                                           
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
                                                                                 
                                                                                 
 [ INST ]                        [EDCMD]>                                        
 ========================================
 1 is entered                           
-15-OCT-22 18:21 :44
+16-OCT-22 15:09 :06
 --Screen image--------------------------
                                                                                 
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\JOINT\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                    1/2                                         
-   1:  PAYLOAD[...] ]                                                           
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                    5/9                                         
+                                                                                
+                                                                                
+   1:  PAYLOAD[1]                                                               
+   2:  UFRAME_NUM=0                                                             
+   3:  UTOOL_NUM=1                                                              
+   4:J @P[1] 100% FINE                                                          
+   5:  LBL[...] ]                                                               
+   6:  VISION RUN_FIND 'CONROD2D'                                               
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+Old Value: 0                                                                    
+                       [CHOICE]                                                 
+========================================
+'LBL[  ]' is selected in 'JMP statemen
+t' menu                               
+16-OCT-22 15:09 :02
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                    5/9                                         
+                                                                                
+                                                                                
+   1:  PAYLOAD[1]                                                               
+   2:  UFRAME_NUM=0                                                             
+   3:  UTOOL_NUM=1                                                              
+   4:J @P[1] 100% FINE                                                          
+\\\5:                                                                           
+   6:  VISION RUN_FIND 'CONROD2D'                                               
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+Select item                                                                     
+                       [CHOICE]                                                 
+========================================
+'JMP/LBL' is selected in 'Instruction' 
+menu                                   
+16-OCT-22 15:09 :02
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                    5/9                                         
+                                                                                
+                                                                                
+   1:  PAYLOAD[1]                                                               
+   2:  UFRAME_NUM=0                                                             
+   3:  UTOOL_NUM=1                                                              
+   4:J @P[1] 100% FINE                                                          
+\\\5:                                                                           
+   6:  VISION RUN_FIND 'CONROD2D'                                               
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+                                                                                
+[ INST ]                        [EDCMD]>                                        
+========================================
+F1([ INST ]) is pressed                
+16-OCT-22 15:08 :58
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                    5/9                                         
+                                                                                
+                                                                                
+   1:  PAYLOAD[1]                                                               
+   2:  UFRAME_NUM=0                                                             
+   3:  UTOOL_NUM=1                                                              
+   4:J @P[1] 100% FINE                                                          
+\\\5:                                                                           
+   6:  VISION RUN_FIND 'CONROD2D'                                               
+   7:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   8:  PR[2]=VR[1].FOUND_POS[1]                                                 
+                                                                                
+[ INST ]                        [EDCMD]>                                        
+========================================
+1 is entered                           
+16-OCT-22 15:08 :56
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                    5/8                                         
+                                                                                
+                                                                                
+   1:  PAYLOAD[1]                                                               
+   2:  UFRAME_NUM=0                                                             
+   3:  UTOOL_NUM=1                                                              
+   4:J @P[1] 100% FINE                                                          
+\\\5:  VISION RUN_FIND 'CONROD2D'                                               
+   6:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   7:  PR[2]=VR[1].FOUND_POS[1]                                                 
+[End]                                                                           
+How many line to insert ? :                                                     
+                                                                                
+========================================
+'Insert' is selected                   
+16-OCT-22 15:08 :54
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                    5/8                                         
+                                                                                
+                                                                                
+   1:  PAYLOAD[1]                                                               
+   2:  UFRAME_NUM=0                                                             
+   3:  UTOOL_NUM=1                                                              
+   4:J @P[1] 100% FINE                                                          
+\\\5:  VISION RUN_FIND 'CONROD2D'                                               
+   6:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   7:  PR[2]=VR[1].FOUND_POS[1]                                                 
 [End]                                                                           
                                                                                 
+[ INST ]                        |EDCMD|>                                        
+========================================
+F5([EDCMD]>) is pressed                
+16-OCT-22 15:08 :52
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                    5/8                                         
+                                                                                
+                                                                                
+   1:  PAYLOAD[1]                                                               
+   2:  UFRAME_NUM=0                                                             
+   3:  UTOOL_NUM=1                                                              
+   4:J @P[1] 100% FINE                                                          
+\\\5:  VISION RUN_FIND 'CONROD2D'                                               
+   6:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   7:  PR[2]=VR[1].FOUND_POS[1]                                                 
+[End]                                                                           
+                                                                                
+[ INST ]                        [EDCMD]>                                        
+========================================
+ENTER is pressed                       
+16-OCT-22 15:08 :22
+========================================
+ENTER is pressed                       
+16-OCT-22 15:08 :20
+========================================
+2 is entered                           
+16-OCT-22 15:08 :16
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                    7/8                                         
+                                                                                
+                                                                                
+   1:  PAYLOAD[1]                                                               
+   2:  UFRAME_NUM=0                                                             
+   3:  UTOOL_NUM=1                                                              
+   4:J @P[1] 100% FINE                                                          
+   5:  VISION RUN_FIND 'CONROD2D'                                               
+   6:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   7:  PR[1]=VR]=VR[1].FOUND_POS[1]                                             
+[End]                                                                           
+Old Value: 1                                                                    
+         DIRECT INDIRECT                                                        
+========================================
+1 is entered                           
+16-OCT-22 15:07 :50
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                    7/8                                         
                                                                                 
                                                                                 
                                                                                 
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
+   1:  PAYLOAD[1]                                                               
+   2:  UFRAME_NUM=0                                                             
+   3:  UTOOL_NUM=1                                                              
+   4:J @P[1] 100% FINE                                                          
+   5:  VISION RUN_FIND 'CONROD2D'                                               
+   6:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   7:  PR[1]=VR[1].FOUND_POS[...] ]                                             
 Old Value: 0                                                                    
          DIRECT INDIRECT                                                        
 ========================================
-'PAYLOAD[...]' is selected in 'PAYLOAD
- statement' menu                      
-15-OCT-22 18:21 :36
+1 is entered                           
+16-OCT-22 15:07 :48
 --Screen image--------------------------
                                                                                 
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\JOINT\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                    1/1                                         
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                    7/8                                         
+                                                                                
+                                                                                
+                                                                                
+   1:  PAYLOAD[1]                                                               
+   2:  UFRAME_NUM=0                                                             
+   3:  UTOOL_NUM=1                                                              
+   4:J @P[1] 100% FINE                                                          
+   5:  VISION RUN_FIND 'CONROD2D'                                               
+   6:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   7:  PR[...]=]=VR[1].FOUND_POS[...]                                           
+Old Value: 0                                                                    
+         DIRECT INDIRECT                                                        
+========================================
+1 is entered                           
+16-OCT-22 15:07 :46
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                    7/8                                         
+                                                                                
+                                                                                
+                                                                                
+   1:  PAYLOAD[1]                                                               
+   2:  UFRAME_NUM=0                                                             
+   3:  UTOOL_NUM=1                                                              
+   4:J @P[1] 100% FINE                                                          
+   5:  VISION RUN_FIND 'CONROD2D'                                               
+   6:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+   7:  PR[...]=VR[...].].FOUND_POS                                              
+Old Value: 0                                                                    
+         DIRECT INDIRECT                                                        
+========================================
+'VR[].FOUND_POS[]' is selected in 'VIS
+ION' menu                             
+16-OCT-22 15:07 :28
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                    7/7                                         
+                                                                                
+                                                                                
+                                                                                
+   1:  PAYLOAD[1]                                                               
+   2:  UFRAME_NUM=0                                                             
+   3:  UTOOL_NUM=1                                                              
+   4:J @P[1] 100% FINE                                                          
+   5:  VISION RUN_FIND 'CONROD2D'                                               
+   6:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+[End]                                                                           
+Select item                                                                     
+                       [CHOICE]                                                 
+========================================
+'VISION' is selected in 'Instruction' m
+enu                                    
+16-OCT-22 15:07 :02
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                    7/7                                         
+                                                                                
+                                                                                
+                                                                                
+   1:  PAYLOAD[1]                                                               
+   2:  UFRAME_NUM=0                                                             
+   3:  UTOOL_NUM=1                                                              
+   4:J @P[1] 100% FINE                                                          
+   5:  VISION RUN_FIND 'CONROD2D'                                               
+   6:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
 [End]                                                                           
                                                                                 
+[ INST ]                        [EDCMD]>                                        
+========================================
+F1([ INST ]) is pressed                
+16-OCT-22 15:06 :52
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                    7/7                                         
+                                                                                
+                                                                                
+                                                                                
+   1:  PAYLOAD[1]                                                               
+   2:  UFRAME_NUM=0                                                             
+   3:  UTOOL_NUM=1                                                              
+   4:J @P[1] 100% FINE                                                          
+   5:  VISION RUN_FIND 'CONROD2D'                                               
+   6:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[1] JMP LBL[1]                                                         
+[End]                                                                           
+                                                                                
+[ INST ]                        [EDCMD]>                                        
+========================================
+ENTER is pressed                       
+16-OCT-22 15:06 :50
+========================================
+1 is entered                           
+16-OCT-22 15:06 :46
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                    6/7                                         
+                                                                                
+                                                                                
+                                                                                
+   1:  PAYLOAD[1]                                                               
+   2:  UFRAME_NUM=0                                                             
+   3:  UTOOL_NUM=1                                                              
+   4:J @P[1] 100% FINE                                                          
+   5:  VISION RUN_FIND 'CONROD2D'                                               
+   6:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[...] ] JMP LBL[1]                                                     
+[End]                                                                           
+Old Value: 0                                                                    
+         DIRECT INDIRECT                                                        
+========================================
+1 is entered                           
+16-OCT-22 15:06 :36
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                    6/7                                         
                                                                                 
                                                                                 
                                                                                 
                                                                                 
+   1:  PAYLOAD[1]                                                               
+   2:  UFRAME_NUM=0                                                             
+   3:  UTOOL_NUM=1                                                              
+   4:J @P[1] 100% FINE                                                          
+   5:  VISION RUN_FIND 'CONROD2D'                                               
+   6:  VISION GET_OFFSET 'CONROD2D'                                             
+    :  VR[...] JMP LBL[...] ]                                                   
+Old Value: 0                                                                    
+         DIRECT INDIRECT                                                        
+========================================
+'3 CONROD2D' is selected in 'VisionPro
+cessName' menu                        
+16-OCT-22 15:06 :22
+--Screen image--------------------------
+File:*  Page:1                                                                  
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                    6/7                                         
                                                                                 
                                                                                 
                                                                                 
                                                                                 
+   1:  PAYLOAD[1]                                                               
+   2:  UFRAME_NUM=0                                                             
+   3:  UTOOL_NUM=1                                                              
+   4:J @P[1] 100% FINE                                                          
+   5:  VISION RUN_FIND 'CONROD2D'                                               
+   6:  VISION GET_OFFSET '...' VR[...]                                          
+    :  JMP LBL[...]                                                             
+   6:  VISION GET_OFFSET '...' VR[...]                                          
+ ABCDEF  GHIJKL  MNOPQR  STUVWX  YZ*                                            
+========================================
+F4([CHOICE]) is pressed                
+16-OCT-22 15:06 :20
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                    6/7                                         
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+   1:  PAYLOAD[1]                                                               
+   2:  UFRAME_NUM=0                                                             
+   3:  UTOOL_NUM=1                                                              
+   4:J @P[1] 100% FINE                                                          
+   5:  VISION RUN_FIND 'CONROD2D'                                               
+   6:  VISION GET_OFFSET '...' VR[...]                                          
+    :  JMP LBL[...]                                                             
+                                                                                
+                [ROBOT] [CHOICE] STRINGS                                        
+========================================
+PREV is pressed                        
+16-OCT-22 15:06 :08
+========================================
+F4([CHOICE]) is pressed                
+16-OCT-22 15:06 :00
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                    6/7                                         
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+   1:  PAYLOAD[1]                                                               
+   2:  UFRAME_NUM=0                                                             
+   3:  UTOOL_NUM=1                                                              
+   4:J @P[1] 100% FINE                                                          
+   5:  VISION RUN_FIND 'CONROD2D'                                               
+   6:  VISION GET_OFFSET '...' VR[...]                                          
+    :  JMP LBL[...]                                                             
+                                                                                
+                [ROBOT] [CHOICE] STRINGS                                        
+========================================
+'GET_OFFSET' is selected in 'VISION' me
+nu                                     
+16-OCT-22 15:05 :58
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                    6/6                                         
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+   1:  PAYLOAD[1]                                                               
+   2:  UFRAME_NUM=0                                                             
+   3:  UTOOL_NUM=1                                                              
+   4:J @P[1] 100% FINE                                                          
+   5:  VISION RUN_FIND 'CONROD2D'                                               
+[End]                                                                           
                                                                                 
 Select item                                                                     
                        [CHOICE]                                                 
 ========================================
-'Payload' is selected in 'Instruction' 
-menu                                   
-15-OCT-22 18:21 :24
+'VISION' is selected in 'Instruction' m
+enu                                    
+16-OCT-22 15:05 :52
 --Screen image--------------------------
                                                                                 
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\JOINT\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                    1/1                                         
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                    6/6                                         
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+   1:  PAYLOAD[1]                                                               
+   2:  UFRAME_NUM=0                                                             
+   3:  UTOOL_NUM=1                                                              
+   4:J @P[1] 100% FINE                                                          
+   5:  VISION RUN_FIND 'CONROD2D'                                               
 [End]                                                                           
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
                                                                                 
                                                                                 
 [ INST ]                        [EDCMD]>                                        
 ========================================
 F1([ INST ]) is pressed                
-15-OCT-22 18:21 :06
+16-OCT-22 15:05 :24
 --Screen image--------------------------
                                                                                 
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\JOINT\\\\\\                  
-CONROD\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                    1/1                                         
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                    6/6                                         
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+   1:  PAYLOAD[1]                                                               
+   2:  UFRAME_NUM=0                                                             
+   3:  UTOOL_NUM=1                                                              
+   4:J @P[1] 100% FINE                                                          
+   5:  VISION RUN_FIND 'CONROD2D'                                               
 [End]                                                                           
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
                                                                                 
                                                                                 
 [ INST ]                        [EDCMD]>                                        
 ========================================
-Menu changed 'CONROD'                  
-15-OCT-22 18:20 :54
-========================================
 ENTER is pressed                       
-15-OCT-22 18:20 :54
-========================================
-R E S E T                              
-                                       
-                              00000000 
-15-OCT-22 18:20 :28
-========================================
-RESET is pressed                       
-15-OCT-22 18:20 :28
-========================================
-Menu changed 'Select'                  
-15-OCT-22 18:20 :00
-========================================
-SELECT is pressed                      
-15-OCT-22 18:20 :00
+16-OCT-22 15:05 :24
 ========================================
 PREV is pressed                        
-15-OCT-22 18:19 :46
+16-OCT-22 15:05 :22
 ========================================
 PREV is pressed                        
-15-OCT-22 18:19 :44
+16-OCT-22 15:05 :22
 ========================================
-1 is entered                           
-15-OCT-22 18:19 :34
+F4(CHOICE] ) is pressed                
+16-OCT-22 15:05 :20
 --Screen image--------------------------
                                                                                 
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\JOINT\\\\\\                  
-MOTION\PERFORMANCE\\\\\\\\\\\\       0 1                                        
-    Group1                        1/10                                          
- No.    PAYLOAD[kg]         Comment                                             
-\\1           20.00   [                ]                                        
-  2          165.00   [                ]                                        
-  3          165.00   [                ]                                        
-  4          165.00   [                ]                                        
-  5          165.00   [                ]                                        
-  6          165.00   [                ]                                        
-  7          165.00   [                ]                                        
-  8          165.00   [                ]                                        
-  9          165.00   [                ]                                        
- 10          165.00   [                ]                                        
-Enter PAYLOAD number :                                                          
-[ TYPE ]  GROUP  DETAIL ARMLOAD SETIND >                                        
-========================================
-F5(SETIND >) is pressed                
-15-OCT-22 18:19 :28
---Screen image--------------------------
-                                                                                
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\JOINT\\\\\\                  
-MOTION\PERFORMANCE\\\\\\\\\\\\       0 1                                        
-    Group1                        1/10                                          
- No.    PAYLOAD[kg]         Comment                                             
-\\1           20.00   [                ]                                        
-  2          165.00   [                ]                                        
-  3          165.00   [                ]                                        
-  4          165.00   [                ]                                        
-  5          165.00   [                ]                                        
-  6          165.00   [                ]                                        
-  7          165.00   [                ]                                        
-  8          165.00   [                ]                                        
-  9          165.00   [                ]                                        
- 10          165.00   [                ]                                        
-                                                                                
-[ TYPE ]  GROUP  DETAIL ARMLOAD SETIND >                                        
-========================================
-PREV is pressed                        
-15-OCT-22 18:19 :16
-========================================
-F4(  YES   ) is pressed                
-15-OCT-22 18:18 :48
---Screen image--------------------------
-                                                                                
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\JOINT\\\\\\                  
-MOTION/PAYLOAD\SET\\\\\\\\\\\\       0 1                                        
-                                   2/8                                          
-    Group 1                                                                     
-  1 Schedule No[   1]:[****************]                                        
-  2 PAYLOAD           [kg]       \\20.00                                        
-  3 PAYLOAD CENTER X  [cm]          0.00                                        
-  4 PAYLOAD CENTER Y  [cm]          0.00                                        
-  5 PAYLOAD CENTER Z  [cm]          0.00                                        
-  6 PAYLOAD INERTIA X [kgfcms^2]    0.00                                        
-  7 PAYLOAD INERTIA Y [kgfcms^2]    0.00                                        
-  8 PAYLOAD INERTIA Z [kgfcms^2]    0.00                                        
-                                                                                
-                                                                                
-Path and Cycletime will change. Set it?                                         
-                          YES      NO                                           
-========================================
-20 is entered                          
-15-OCT-22 18:18 :38
---Screen image--------------------------
-                                                                                
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\JOINT\\\\\\                  
-MOTION/PAYLOAD\SET\\\\\\\\\\\\       0 1                                        
-                                   2/8                                          
-    Group 1                                                                     
-  1 Schedule No[   1]:[****************]                                        
-  2 PAYLOAD           [kg]       \165.00                                        
-  3 PAYLOAD CENTER X  [cm]          0.00                                        
-  4 PAYLOAD CENTER Y  [cm]          0.00                                        
-  5 PAYLOAD CENTER Z  [cm]          0.00                                        
-  6 PAYLOAD INERTIA X [kgfcms^2]    0.00                                        
-  7 PAYLOAD INERTIA Y [kgfcms^2]    0.00                                        
-  8 PAYLOAD INERTIA Z [kgfcms^2]    0.00                                        
-                                                                                
-                                                                                
-Old Value: 165                                                                  
-[ TYPE ]  GROUP  NUMBER  DEFAULT  HELP                                          
-========================================
-F3( DETAIL ) is pressed                
-15-OCT-22 18:18 :16
---Screen image--------------------------
-                                                                                
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\JOINT\\\\\\                  
-MOTION\PERFORMANCE\\\\\\\\\\\\       0 1                                        
-    Group1                        1/10                                          
- No.    PAYLOAD[kg]         Comment                                             
-\\1          165.00   [                ]                                        
-  2          165.00   [                ]                                        
-  3          165.00   [                ]                                        
-  4          165.00   [                ]                                        
-  5          165.00   [                ]                                        
-  6          165.00   [                ]                                        
-  7          165.00   [                ]                                        
-  8          165.00   [                ]                                        
-  9          165.00   [                ]                                        
- 10          165.00   [                ]                                        
-Active PAYLOAD number = 0                                                       
-[ TYPE ]  GROUP  DETAIL ARMLOAD SETIND >                                        
-========================================
-F3( DETAIL ) is pressed                
-15-OCT-22 18:18 :10
---Screen image--------------------------
-                                                                                
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\JOINT\\\\\\                  
-MOTION\PERFORMANCE\\\\\\\\\\\\       0 1                                        
-    Group1                        1/10                                          
- No.    PAYLOAD[kg]         Comment                                             
-\\1          165.00   [                ]                                        
-  2          165.00   [                ]                                        
-  3          165.00   [                ]                                        
-  4          165.00   [                ]                                        
-  5          165.00   [                ]                                        
-  6          165.00   [                ]                                        
-  7          165.00   [                ]                                        
-  8          165.00   [                ]                                        
-  9          165.00   [                ]                                        
- 10          165.00   [                ]                                        
-Enter PAYLOAD number := 0                                                       
-[ TYPE ]  GROUP  DETAIL ARMLOAD SETIND >                                        
-========================================
-F5(SETIND >) is pressed                
-15-OCT-22 18:17 :56
---Screen image--------------------------
-                                                                                
-CONROD            LINE 0    \T2\ ABORTED\\\\\\\\\\\JOINT\\\\\\                  
-MOTION\PERFORMANCE\\\\\\\\\\\\       0 1                                        
-    Group1                        1/10                                          
- No.    PAYLOAD[kg]         Comment                                             
-\\1          165.00   [                ]                                        
-  2          165.00   [                ]                                        
-  3          165.00   [                ]                                        
-  4          165.00   [                ]                                        
-  5          165.00   [                ]                                        
-  6          165.00   [                ]                                        
-  7          165.00   [                ]                                        
-  8          165.00   [                ]                                        
-  9          165.00   [                ]                                        
- 10          165.00   [                ]                                        
-Active PAYLOAD number = 0                                                       
-[ TYPE ]  GROUP  DETAIL ARMLOAD SETIND >                                        
-========================================
-Menu changed 'MOTION PERFORMANCE'      
-15-OCT-22 18:17 :26
-========================================
-'Motion' is selected in 'SYSTEM' MENU f
-lyout                                  
-15-OCT-22 18:17 :26
-========================================
-ENTER is pressed                       
-15-OCT-22 18:17 :26
-========================================
-ENTER is pressed                       
-15-OCT-22 18:17 :20
-========================================
-Menu changed 'CONROD'                  
-15-OCT-22 18:16 :16
-========================================
-ENTER is pressed                       
-15-OCT-22 18:16 :16
-========================================
-CONROD is entered                      
-15-OCT-22 18:16 :10
---Screen image--------------------------
-                                                                                
-CO                LINE 0    \T2\ ABORTED\\\\\\\\\\\JOINT\\\\\\                  
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                                                                
- ---  Create Teach Pendant Program  ---                                         
-                                                                                
- Program Name:                                                                  
-  \                                                                             
-                          -- End  --                                            
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                    5/6                                         
                                                                                 
                                                                                 
                                                                                 
                                                                                 
-                                                                                
-                                                                                
-Enter program name                                                              
-PRG     MAIN    SUB     TEST                                                    
-========================================
-SHIFT,-Z^(J6) is pressed               
-15-OCT-22 18:14 :12
-========================================
-SHIFT,-Z^(J6) is pressed               
-15-OCT-22 18:14 :10
-========================================
-F2( CREATE ) is pressed                
-15-OCT-22 18:14 :02
---Screen image--------------------------
-                                                                                
-CO                LINE 0    \T2\ ABORTED\\\\\\\\\\\JOINT\\\\\\                  
-Select\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-            709788 bytes free     4/40                                          
- No.  Program name       Comment                                                
-  1  -BCKEDT-        [                ]                                         
-  2  ATERRJOB     VR [                ]                                         
-  3  BICSETUP     VR [                ]                                         
-  4  CO\\\\\\\\\\\   [                ]                                         
-  5  COMSET       PC [                ]                                         
-  6  GEMDATA      PC [GEM Vars        ]                                         
-  7  GETDATA      MR [Get PC Data     ]                                         
-  8  GET_HOME     PC [Get Home Pos    ]                                         
-  9  HTCOLREC     VR [                ]                                         
- 10  HTTPKCL      VR [                ]                                         
-                                                                                
-[ TYPE ] CREATE DELETE  MONITOR [ATTR ]>                                        
-========================================
-Menu changed 'Select'                  
-15-OCT-22 18:14 :00
-========================================
-SELECT is pressed                      
-15-OCT-22 18:14 :00
-========================================
-Override 100%                          
-15-OCT-22 18:13 :56
-========================================
-R E S E T                              
-                                       
-                              00000000 
-15-OCT-22 18:13 :56
-========================================
-R E S E T                              
-                                       
-                              00000000 
-15-OCT-22 18:13 :56
-========================================
-R E S E T                              
-                                       
-                              00000000 
-15-OCT-22 18:13 :56
-========================================
-Override 3%                            
-15-OCT-22 18:13 :56
-========================================
-SRVO-003 Deadman switch released       
-                                       
-                                       
-SERVO                         00110110 
-15-OCT-22 18:13 :56
-========================================
-SYST-039 Operation mode T2 Selected    
-                                       
-                                       
-SERVO                         00110110 
-15-OCT-22 18:13 :56
-========================================
-SYST-042 DEADMAN defeated              
-                                       
-                                       
-SERVO                         00110110 
-15-OCT-22 18:13 :56
-========================================
-SYST-045 TP enabled in AUTO mode       
-                                       
-                                       
-STOP.G                        00100110 
-15-OCT-22 18:13 :56
-========================================
-R E S E T                              
-                                       
-                              00000000 
-15-OCT-22 18:13 :56
-========================================
-SYST-042 DEADMAN defeated              
-                                       
-                                       
-SERVO                         00110110 
-15-OCT-22 18:13 :56
-========================================
-SYST-045 TP enabled in AUTO mode       
-                                       
-                                       
-STOP.G                        00100110 
-15-OCT-22 18:13 :56
-========================================
-Focus changed to 'iPendant only screen'
-15-OCT-22 18:13 :56
-========================================
-SYST-040 Operation mode AUTO Selected  
-                                       
-                                       
-SERVO                         00110110 
-15-OCT-22 18:13 :52
-========================================
-SYST-043 TP disabled in T1/T2 mode     
-                                       
-                                       
-STOP.L                        00000110 
-15-OCT-22 18:13 :50
-========================================
-F1(        ) is pressed                
-15-OCT-22 18:13 :48
---Screen image--------------------------
-MCTL-014 Waiting for Servo ready                                                
-MCTL-014 Waiting for Servo ready        \\\\\\\\\\\JOINT\\\\\\                  
-Default\Motion\\\\\\\\\\\\\\\\       0i1                                        
-                                    1/4                                         
-\\\1:J P[] 100% FINE                                                            
-   2:J P[] 100% CNT100                                                          
-   3:L P[] 100mm/sec FINE                                                       
-   4:L P[] 100mm/sec CNT100                                                     
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                 DONE                                           
-========================================
-F1( ED_DEF ) is pressed                
-15-OCT-22 18:13 :46
---Screen image--------------------------
-MCTL-014 Waiting for Servo ready                                                
-MCTL-014 Waiting for Servo ready        \\\\\\\\\\\JOINT\\\\\\                  
-CO\\\\\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                    1/1                                         
+   1:  PAYLOAD[1]                                                               
+   2:  UFRAME_NUM=0                                                             
+   3:  UTOOL_NUM=1                                                              
+   4:J @P[1] 100% FINE                                                          
+   5:  VISION RUN_FIND 'CONROD2D'\\\                                            
 [End]                                                                           
                                                                                 
                                                                                 
+                       [CHOICE]                                                 
+========================================
+'3 CONROD2D' is selected in 'VisionPro
+cessName' menu                        
+16-OCT-22 15:05 :10
+--Screen image--------------------------
+File:*  Page:1                                                                  
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                    5/6                                         
                                                                                 
                                                                                 
                                                                                 
                                                                                 
+   1:  PAYLOAD[1]                                                               
+   2:  UFRAME_NUM=0                                                             
+   3:  UTOOL_NUM=1                                                              
+   4:J @P[1] 100% FINE                                                          
+   5:  VISION RUN_FIND '...'                                                    
+[End]                                                                           
+                                                                                
+   5:  VISION RUN_FIND '...'                                                    
+ ABCDEF  GHIJKL  MNOPQR  STUVWX  YZ*                                            
+========================================
+F4([CHOICE]) is pressed                
+16-OCT-22 15:05 :08
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                    5/6                                         
                                                                                 
                                                                                 
                                                                                 
+                                                                                
+   1:  PAYLOAD[1]                                                               
+   2:  UFRAME_NUM=0                                                             
+   3:  UTOOL_NUM=1                                                              
+   4:J @P[1] 100% FINE                                                          
+   5:  VISION RUN_FIND '...'                                                    
+[End]                                                                           
+                                                                                
+                                                                                
+                        [CHOICE] STRINGS                                        
+========================================
+'RUN_FIND' is selected in 'VISION' menu
+16-OCT-22 15:05 :04
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                    5/6                                         
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+   1:  PAYLOAD[1]                                                               
+   2:  UFRAME_NUM=0                                                             
+   3:  UTOOL_NUM=1                                                              
+   4:J @P[1] 100% FINE                                                          
+   5:  LBL[1]                                                                   
+[End]                                                                           
+                                                                                
+   5:  LBL[1]                                                                   
+                       [CHOICE]                                                 
+========================================
+'VISION' is selected in 'Instruction' m
+enu                                    
+16-OCT-22 15:05 :00
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                    5/6                                         
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+   1:  PAYLOAD[1]                                                               
+   2:  UFRAME_NUM=0                                                             
+   3:  UTOOL_NUM=1                                                              
+   4:J @P[1] 100% FINE                                                          
+\\\5:  LBL[1]                                                                   
+[End]                                                                           
+                                                                                
+                                                                                
+[ INST ]                        [EDCMD]>                                        
+========================================
+F1([ INST ]) is pressed                
+16-OCT-22 15:04 :56
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                    5/6                                         
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+   1:  PAYLOAD[1]                                                               
+   2:  UFRAME_NUM=0                                                             
+   3:  UTOOL_NUM=1                                                              
+   4:J @P[1] 100% FINE                                                          
+\\\5:  LBL[1]                                                                   
+[End]                                                                           
+                                                                                
+                                                                                
+[ INST ]                        [EDCMD]>                                        
+========================================
+ENTER is pressed                       
+16-OCT-22 15:04 :08
+========================================
+'1 J P[] 100% FINE' is selected in 'De
+fault Motion' menu                    
+16-OCT-22 15:03 :56
+--Screen image--------------------------
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                    4/6                                         
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+   1:  PAYLOAD[1]                                                               
+   2:  UFRAME_NUM=0                                                             
+   3:  UTOOL_NUM=1                                                              
+\\\4:J @P[1] 100% FINE                                                          
+   5:  LBL[1]                                                                   
+[End]                                                                           
                                                                                 
                                                                                 
  ED_DEF                         TOUCHUP>                                        
 ========================================
 F1( POINT  ) is pressed                
-15-OCT-22 18:13 :44
+16-OCT-22 15:03 :54
 --Screen image--------------------------
-MCTL-014 Waiting for Servo ready                                                
-MCTL-014 Waiting for Servo ready        \\\\\\\\\\\JOINT\\\\\\                  
-CO\\\\\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                    1/1                                         
+                                                                                
+CONROD2           LINE 0    \T2\ ABORTED\\\\\\\\\\\WORLD\\\\\\                  
+CONROD2\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
+                                    4/6                                         
+                                                                                
+                                                                                
+                                                                                
+                                                                                
+   1:  PAYLOAD[1]                                                               
+   2:  UFRAME_NUM=0                                                             
+   3:  UTOOL_NUM=1                                                              
+\\\4:J @P[1] 100% FINE                                                          
+   5:  LBL[1]                                                                   
 [End]                                                                           
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
                                                                                 
                                                                                 
  POINT                          TOUCHUP>                                        
 ========================================
-Menu changed 'CO'                      
-15-OCT-22 18:13 :42
+Menu changed 'CONROD2'                 
+16-OCT-22 15:03 :32
 ========================================
-F3(  EDIT  ) is pressed                
-15-OCT-22 18:13 :42
---Screen image--------------------------
-MCTL-014 Waiting for Servo ready                                                
-MCTL-014 Waiting for Servo ready        \\\\\\\\\\\JOINT\\\\\\                  
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                                                                
- ---  Create Teach Pendant Program  ---                                         
-                                                                                
- Program Name:                                                                  
-  CO                                                                            
-                          -- End\ --                                            
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-Select function                                                                 
-         DETAIL   EDIT                                                          
+EDIT is pressed                        
+16-OCT-22 15:03 :32
 ========================================
-CO is entered                          
-15-OCT-22 18:13 :38
---Screen image--------------------------
-                                                                                
-                            \T2\        \\\\\\\\\\\JOINT\\\\\\                  
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-                                                                                
- ---  Create Teach Pendant Program  ---                                         
-                                                                                
- Program Name:                                                                  
-  \                                                                             
-                          -- End  --                                            
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-                                                                                
-Enter program name                                                              
-PRG     MAIN    SUB     TEST                                                    
-========================================
-SHIFT,-Z^(J6) is pressed               
-15-OCT-22 18:13 :12
-========================================
-F2( CREATE ) is pressed                
-15-OCT-22 18:12 :58
---Screen image--------------------------
-                                                                                
-                            \T2\        \\\\\\\\\\\JOINT\\\\\\                  
-Select\\\\\\\\\\\\\\\\\\\\\\\\       0i1                                        
-            710332 bytes free     1/39                                          
- No.  Program name       Comment                                                
-  1  -BCKEDT-\\\\\   [                ]                                         
-  2  ATERRJOB     VR [                ]                                         
-  3  BICSETUP     VR [                ]                                         
-  4  COMSET       PC [                ]                                         
-  5  GEMDATA      PC [GEM Vars        ]                                         
-  6  GETDATA      MR [Get PC Data     ]                                         
-  7  GET_HOME     PC [Get Home Pos    ]                                         
-  8  HTCOLREC     VR [                ]                                         
-  9  HTTPKCL      VR [                ]                                         
- 10  IPRNGSET     PC [                ]                                         
-                                                                                
-[ TYPE ] CREATE DELETE  MONITOR [ATTR ]>                                        
-========================================
-Menu changed 'Select'                  
-15-OCT-22 18:12 :44
-========================================
-SELECT is pressed                      
-15-OCT-22 18:12 :44
-========================================
-Override 100%                          
-15-OCT-22 18:12 :22
-========================================
-Override 3%                            
-15-OCT-22 18:12 :22
-========================================
-R E S E T                              
-                                       
-                              00000000 
-15-OCT-22 18:12 :22
-========================================
-R E S E T                              
-                                       
-                              00000000 
-15-OCT-22 18:12 :22
-========================================
-SYST-039 Operation mode T2 Selected    
-                                       
-                                       
-SERVO                         00110110 
-15-OCT-22 18:12 :22
-========================================
-SYST-042 DEADMAN defeated              
-                                       
-                                       
-SERVO                         00110110 
-15-OCT-22 18:12 :22
-========================================
-SYST-045 TP enabled in AUTO mode       
-                                       
-                                       
-STOP.G                        00100110 
-15-OCT-22 18:12 :22
-========================================
-R E S E T                              
-                                       
-                              00000000 
-15-OCT-22 18:12 :22
-========================================
-SYST-042 DEADMAN defeated              
-                                       
-                                       
-SERVO                         00110110 
-15-OCT-22 18:12 :22
-========================================
-SYST-045 TP enabled in AUTO mode       
-                                       
-                                       
-STOP.G                        00100110 
-15-OCT-22 18:12 :22
-========================================
-Focus changed to 'iPendant only screen'
-15-OCT-22 18:12 :20
-========================================
-R E S E T                              
-                                       
-                              00000000 
-15-OCT-22 18:04 :02
-========================================
-Override 100%                          
-15-OCT-22 18:04 :02
-========================================
-Menu changed 'UTILITIES Hints'         
-15-OCT-22 18:03 :54
-========================================
-Override 10%                           
-15-OCT-22 18:03 :54
-========================================
-SYST-042 DEADMAN defeated              
-                                       
-                                       
-SERVO                         00110110 
-15-OCT-22 18:03 :54
-========================================
-R E S E T                              
-                                       
-                              00000000 
-15-OCT-22 18:03 :54
-========================================
-Cold start                             
-15-OCT-22 18:03 :28
-========================================
-R E S E T                              
-                                       
-                              00000000 
-12-OCT-22 17:49 :08
-========================================
-FILE 'UPDTLOG.LS' is saved             
-12-OCT-22 17:49 :08
-========================================
-FILE 'UPDATES.DAT' is saved            
-12-OCT-22 17:49 :08
-========================================
-FILE 'TPSCRN.ZIP' is saved             
-12-OCT-22 17:49 :08
-========================================
-FILE 'TPEINS.XML' is saved             
-12-OCT-22 17:49 :08
-========================================
-FILE 'TPACCN.DG' is saved              
-12-OCT-22 17:49 :08
-========================================
-FILE 'TBSWRC65.VR' is saved            
-12-OCT-22 17:49 :08
-========================================
-FILE 'SYSVARS.SV' is saved             
-12-OCT-22 17:49 :08
-========================================
-FILE 'SYSUIF.SV' is saved              
-12-OCT-22 17:49 :08
-========================================
-FILE 'SYSSERVO.SV' is saved            
-12-OCT-22 17:49 :08
-========================================
-FILE 'SYSPASS.SV' is saved             
-12-OCT-22 17:49 :08
-========================================
-FILE 'SYSMAST.SV' is saved             
-12-OCT-22 17:49 :08
-========================================
-FILE 'SYSMACRO.SV' is saved            
-12-OCT-22 17:49 :08
-========================================
-FILE 'SYSHOST.SV' is saved             
-12-OCT-22 17:49 :08
-========================================
-FILE 'SYSFSAC.SV' is saved             
-12-OCT-22 17:49 :08
-========================================
-FILE 'SYSFRAME.SV' is saved            
-12-OCT-22 17:49 :08
-========================================
-FILE 'SWIUPDT.VR' is saved             
-12-OCT-22 17:49 :08
-========================================
-FILE 'SUMMARY.DG' is saved             
-12-OCT-22 17:49 :08
-========================================
-FILE 'STRREG.VR' is saved              
-12-OCT-22 17:49 :08
-========================================
-FILE 'SHADOW.DG' is saved              
-12-OCT-22 17:49 :08
-========================================
-FILE 'SENDSYSV.TP' is saved            
-12-OCT-22 17:49 :08
-========================================
-FILE 'SENDEVNT.TP' is saved            
-12-OCT-22 17:49 :08
-========================================
-FILE 'SENDDATA.TP' is saved            
-12-OCT-22 17:49 :08
-========================================
-FILE 'ROBOTCAM.VD' is saved            
-12-OCT-22 17:49 :08
-========================================
-FILE 'RIPESTAT.DG' is saved            
-12-OCT-22 17:49 :08
-========================================
-FILE 'RIPELOG.DG' is saved             
-12-OCT-22 17:49 :08
-========================================
-FILE 'REQMENU.TP' is saved             
-12-OCT-22 17:49 :08
-========================================
-FILE 'RC65.DT' is saved                
-12-OCT-22 17:49 :08
-========================================
-FILE 'PSRBWLD.CM' is saved             
-12-OCT-22 17:49 :08
-========================================
-FILE 'POSREG.VR' is saved              
-12-OCT-22 17:49 :08
-========================================
-FILE 'ORDERFIL.DAT' is saved           
-12-OCT-22 17:49 :08
-========================================
-FILE 'NUMREG.VR' is saved              
-12-OCT-22 17:49 :08
-========================================
-FILE 'NOTIFY.DG' is saved              
-12-OCT-22 17:49 :08
-========================================
-FILE 'MIXLOGIC.SV' is saved            
-12-OCT-22 17:49 :08
-========================================
-FILE 'MEMCHECK.DG' is saved            
-12-OCT-22 17:49 :08
-========================================
-FILE 'LOGBOOK.LS' is saved             
-12-OCT-22 17:49 :08
-========================================
-FILE 'IRVWAITLOG.VR' is saved          
-12-OCT-22 17:49 :08
-========================================
-FILE 'IRVTRAIN.VR' is saved            
-12-OCT-22 17:49 :08
-========================================
-FILE 'IRVSNAP.VR' is saved             
-12-OCT-22 17:49 :08
-========================================
-FILE 'IRVSAVIR.VR' is saved            
-12-OCT-22 17:49 :08
-========================================
-FILE 'IRVRGTRG.VR' is saved            
-12-OCT-22 17:49 :08
-========================================
-FILE 'IRVRGGTP.VR' is saved            
-12-OCT-22 17:49 :08
-========================================
-FILE 'IRVOVRDANYVP.VR' is saved        
-12-OCT-22 17:49 :08
-========================================
-FILE 'IRVLODIR.VR' is saved            
-12-OCT-22 17:49 :08
-========================================
-FILE 'IRVLEDON.VR' is saved            
-12-OCT-22 17:49 :08
-========================================
-FILE 'IRVLEDOFF.VR' is saved           
-12-OCT-22 17:49 :08
-========================================
-FILE 'IRVHOMING.VR' is saved           
-12-OCT-22 17:49 :08
-========================================
-FILE 'IRVGSEXE.VR' is saved            
-12-OCT-22 17:49 :08
-========================================
-FILE 'IRVGETMSR.VR' is saved           
-12-OCT-22 17:49 :08
-========================================
-FILE 'IRVGETMSL.VR' is saved           
-12-OCT-22 17:49 :08
-========================================
-FILE 'IRVFIND.VR' is saved             
-12-OCT-22 17:49 :08
-========================================
-FILE 'IRVCALDATA.VR' is saved          
-12-OCT-22 17:49 :08
-========================================
-FILE 'IRVBKLSH.VR' is saved            
-12-OCT-22 17:49 :08
-========================================
-FILE 'IRC_STLABEL.VR' is saved         
-12-OCT-22 17:49 :08
-========================================
-FILE 'IRC_STATUS.VR' is saved          
-12-OCT-22 17:49 :08
-========================================
-FILE 'IRC_MSG.VR' is saved             
-12-OCT-22 17:49 :08
-========================================
-FILE 'IRC_COUNTER.VR' is saved         
-12-OCT-22 17:49 :08
-========================================
-FILE 'IPRNGSHO.VR' is saved            
-12-OCT-22 17:49 :08
-========================================
-FILE 'IPRNGSET.VR' is saved            
-12-OCT-22 17:49 :08
-========================================
-FILE 'IPKDMP.ZIP' is saved             
-12-OCT-22 17:49 :08
-========================================
-FILE 'IOSTATUS.CM' is saved            
-12-OCT-22 17:49 :08
-========================================
-FILE 'HTTPKCL.VR' is saved             
-12-OCT-22 17:49 :08
-========================================
-FILE 'HTCOLREC.VR' is saved            
-12-OCT-22 17:49 :08
-========================================
-FILE 'HIST.LS' is saved                
-12-OCT-22 17:49 :08
-========================================
-FILE 'GIGELOG.DG' is saved             
-12-OCT-22 17:49 :08
-========================================
-FILE 'GETDATA.TP' is saved             
-12-OCT-22 17:49 :08
-========================================
-FILE 'GEMDATA.VR' is saved             
-12-OCT-22 17:49 :08
-========================================
-FILE 'FTPLOG.DG' is saved              
-12-OCT-22 17:49 :08
-========================================
-FILE 'FRAMEVAR.VR' is saved            
-12-OCT-22 17:49 :08
-========================================
-FILE 'ETHERNET.DG' is saved            
-12-OCT-22 17:49 :08
-========================================
-FILE 'ERRSYS.LS' is saved              
-12-OCT-22 17:49 :08
-========================================
-FILE 'ERRPWD.LS' is saved              
-12-OCT-22 17:49 :08
-========================================
-FILE 'ERRMOT.LS' is saved              
-12-OCT-22 17:49 :08
-========================================
-FILE 'ERRHIST.LS' is saved             
-12-OCT-22 17:49 :08
-========================================
-FILE 'ERREXT.LS' is saved              
-12-OCT-22 17:49 :08
-========================================
-FILE 'ERRCURR.LS' is saved             
-12-OCT-22 17:49 :08
-========================================
-FILE 'ERRCOMM.LS' is saved             
-12-OCT-22 17:49 :08
-========================================
-FILE 'ERRAPP.LS' is saved              
-12-OCT-22 17:49 :06
-========================================
-FILE 'ERRALL.LS' is saved              
-12-OCT-22 17:49 :06
-========================================
-FILE 'ERRACT.LS' is saved              
-12-OCT-22 17:49 :06
-========================================
-FILE 'EMAIL.DG' is saved               
-12-OCT-22 17:49 :06
-========================================
-FILE 'DIOCFGSV.IO' is saved            
-12-OCT-22 17:49 :06
-========================================
-FILE 'DF_LOGI6.DF' is saved            
-12-OCT-22 17:49 :06
-========================================
-FILE 'DF_LOGI5.DF' is saved            
-12-OCT-22 17:49 :06
-========================================
-FILE 'DF_LOGI4.DF' is saved            
-12-OCT-22 17:49 :06
-========================================
-FILE 'DF_LOGI3.DF' is saved            
-12-OCT-22 17:49 :06
-========================================
-FILE 'DF_LOGI2.DF' is saved            
-12-OCT-22 17:49 :06
-========================================
-FILE 'DF_LOGI1.DF' is saved            
-12-OCT-22 17:49 :06
-========================================
-FILE 'DCSVRFY.DG' is saved             
-12-OCT-22 17:49 :06
-========================================
-FILE 'DCSDIFF.DG' is saved             
-12-OCT-22 17:49 :06
-========================================
-FILE 'DCSCHGD3.DG' is saved            
-12-OCT-22 17:49 :06
-========================================
-FILE 'DCSCHGD2.DG' is saved            
-12-OCT-22 17:49 :06
-========================================
-FILE 'DCSCHGD1.DG' is saved            
-12-OCT-22 17:49 :06
-========================================
-FILE 'CONSLOG.DG' is saved             
-12-OCT-22 17:49 :06
-========================================
-FILE 'COMSET.VR' is saved              
-12-OCT-22 17:49 :06
-========================================
-FILE 'CELLIO.SV' is saved              
-12-OCT-22 17:49 :06
-========================================
-FILE 'BICSETUP.VR' is saved            
-12-OCT-22 17:49 :06
-========================================
-FILE 'BACKDATE.DT' is saved            
-12-OCT-22 17:49 :06
-========================================
-FILE 'ATERRJOB.VR' is saved            
-12-OCT-22 17:49 :06
-========================================
-FILE '-BCKEDT-.TP' is saved            
-12-OCT-22 17:49 :06
-========================================
-FILE '-BCKED9-.TP' is saved            
-12-OCT-22 17:49 :06
-========================================
-FILE '-BCKED8-.TP' is saved            
-12-OCT-22 17:49 :06
-========================================
-R E S E T                              
-                                       
-                              00000000 
-12-OCT-22 17:49 :02
-========================================
-FILE 'UPDTLOG.LS' is saved             
-12-OCT-22 17:49 :02
-========================================
-FILE 'UPDATES.DAT' is saved            
-12-OCT-22 17:49 :02
-========================================
-FILE 'TPSCRN.ZIP' is saved             
-12-OCT-22 17:49 :02
-========================================
-FILE 'TPEINS.XML' is saved             
-12-OCT-22 17:49 :02
-========================================
-FILE 'TPACCN.DG' is saved              
-12-OCT-22 17:49 :02
-========================================
-FILE 'TBSWRC65.VR' is saved            
-12-OCT-22 17:49 :02
-========================================
-FILE 'SYSVARS.SV' is saved             
-12-OCT-22 17:49 :02
-========================================
-FILE 'SYSUIF.SV' is saved              
-12-OCT-22 17:49 :02
-========================================
-FILE 'SYSSERVO.SV' is saved            
-12-OCT-22 17:49 :02
-========================================
-FILE 'SYSPASS.SV' is saved             
-12-OCT-22 17:49 :02
-========================================
-FILE 'SYSMAST.SV' is saved             
-12-OCT-22 17:49 :02
-========================================
-FILE 'SYSMACRO.SV' is saved            
-12-OCT-22 17:49 :02
-========================================
-FILE 'SYSHOST.SV' is saved             
-12-OCT-22 17:49 :02
-========================================
-FILE 'SYSFSAC.SV' is saved             
-12-OCT-22 17:49 :02
-========================================
-FILE 'SYSFRAME.SV' is saved            
-12-OCT-22 17:49 :02
-========================================
-FILE 'SWIUPDT.VR' is saved             
-12-OCT-22 17:49 :02
-========================================
-FILE 'SUMMARY.DG' is saved             
-12-OCT-22 17:49 :02
-========================================
-FILE 'STRREG.VR' is saved              
-12-OCT-22 17:49 :02
-========================================
-FILE 'SHADOW.DG' is saved              
-12-OCT-22 17:49 :02
-========================================
-FILE 'SENDSYSV.TP' is saved            
-12-OCT-22 17:49 :02
-========================================
-FILE 'SENDEVNT.TP' is saved            
-12-OCT-22 17:49 :02
-========================================
-FILE 'SENDDATA.TP' is saved            
-12-OCT-22 17:49 :02
-========================================
-FILE 'ROBOTCAM.VD' is saved            
-12-OCT-22 17:49 :02
-========================================
-FILE 'RIPESTAT.DG' is saved            
-12-OCT-22 17:49 :00
-========================================
-FILE 'RIPELOG.DG' is saved             
-12-OCT-22 17:49 :00
-========================================
-FILE 'REQMENU.TP' is saved             
-12-OCT-22 17:49 :00
-========================================
-FILE 'RC65.DT' is saved                
-12-OCT-22 17:49 :00
-========================================
-FILE 'PSRBWLD.CM' is saved             
-12-OCT-22 17:49 :00
-========================================
-FILE 'POSREG.VR' is saved              
-12-OCT-22 17:49 :00
-========================================
-FILE 'ORDERFIL.DAT' is saved           
-12-OCT-22 17:49 :00
-========================================
-FILE 'NUMREG.VR' is saved              
-12-OCT-22 17:49 :00
-========================================
-FILE 'NOTIFY.DG' is saved              
-12-OCT-22 17:49 :00
-========================================
-FILE 'MIXLOGIC.SV' is saved            
-12-OCT-22 17:49 :00
-========================================
-FILE 'MEMCHECK.DG' is saved            
-12-OCT-22 17:49 :00
-========================================
-FILE 'LOGBOOK.LS' is saved             
-12-OCT-22 17:49 :00
-========================================
-FILE 'IRVWAITLOG.VR' is saved          
-12-OCT-22 17:49 :00
-========================================
-FILE 'IRVTRAIN.VR' is saved            
-12-OCT-22 17:49 :00
-========================================
-FILE 'IRVSNAP.VR' is saved             
-12-OCT-22 17:49 :00
-========================================
-FILE 'IRVSAVIR.VR' is saved            
-12-OCT-22 17:49 :00
-========================================
-FILE 'IRVRGTRG.VR' is saved            
-12-OCT-22 17:49 :00
-========================================
-FILE 'IRVRGGTP.VR' is saved            
-12-OCT-22 17:49 :00
-========================================
-FILE 'IRVOVRDANYVP.VR' is saved        
-12-OCT-22 17:49 :00
-========================================
-FILE 'IRVLODIR.VR' is saved            
-12-OCT-22 17:49 :00
-========================================
-FILE 'IRVLEDON.VR' is saved            
-12-OCT-22 17:49 :00
-========================================
-FILE 'IRVLEDOFF.VR' is saved           
-12-OCT-22 17:49 :00
-========================================
-FILE 'IRVHOMING.VR' is saved           
-12-OCT-22 17:49 :00
-========================================
-FILE 'IRVGSEXE.VR' is saved            
-12-OCT-22 17:49 :00
-========================================
-FILE 'IRVGETMSR.VR' is saved           
-12-OCT-22 17:49 :00
-========================================
-FILE 'IRVGETMSL.VR' is saved           
-12-OCT-22 17:49 :00
-========================================
-FILE 'IRVFIND.VR' is saved             
-12-OCT-22 17:49 :00
-========================================
-FILE 'IRVCALDATA.VR' is saved          
-12-OCT-22 17:49 :00
-========================================
-FILE 'IRVBKLSH.VR' is saved            
-12-OCT-22 17:49 :00
-========================================
-FILE 'IRC_STLABEL.VR' is saved         
-12-OCT-22 17:49 :00
+User frame 0(G:1)                      
+16-OCT-22 15:03 :16
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 I/O              
 ========================================
-Paused       CONROD      ,   8         
- (TASK:5,TB:-1139542124)               
-15-OCT-22 19:03 :42
-========================================
-Paused       PICKUP      ,   3         
- (TASK:5,TB:-1146612397)               
-15-OCT-22 19:03 :40
-========================================
-Run FWD      PICKUP      ,   3         
- (TASK:5,TB:-1146612523)               
-15-OCT-22 19:03 :40
-========================================
-Paused       PICKUP      ,   2         
- (TASK:5,TB:-1152725802)               
-15-OCT-22 19:03 :40
-========================================
-Run FWD      PICKUP      ,   2         
- (TASK:5,TB:-1152725927)               
-15-OCT-22 19:03 :40
-========================================
-Paused       PICKUP      ,   1         
- (TASK:5,TB:-1160882400)               
-15-OCT-22 19:03 :40
-========================================
-Run FWD      PICKUP      ,   1         
- (TASK:5,TB:-1160882647)               
-15-OCT-22 19:03 :40
-========================================
-Paused       PICKUP      ,   1         
- (TASK:5,TB:-1182685478)               
-15-OCT-22 19:03 :38
-========================================
-Run FWD      CONROD      ,   7         
- (TASK:5,TB:-1182686152)               
-15-OCT-22 19:03 :38
-========================================
- UO[   18]    ON  -> OFF
-Tick:   3419009
-TB:     -1215575391
-15-OCT-22 19:03 :34
-========================================
- UO[    3]    ON  -> OFF
- UO[    4]    OFF -> ON 
-Tick:   3419008
-TB:     -1215585475
-15-OCT-22 19:03 :34
-========================================
- SO[    1]    ON  -> OFF
-Tick:   3419003
-TB:     -1215628111
-15-OCT-22 19:03 :34
-========================================
-Paused       CONROD      ,   6         
- (TASK:5,TB:-1215833792)               
-15-OCT-22 19:03 :34
-========================================
- SO[    1]    OFF -> ON 
-Tick:   3416161
-TB:     -1245834752
-15-OCT-22 19:03 :30
-========================================
- UO[   18]    OFF -> ON 
-Tick:   3416160
-TB:     -1245844380
-15-OCT-22 19:03 :30
-========================================
- UO[    3]    OFF -> ON 
- UO[    4]    ON  -> OFF
-Tick:   3416159
-TB:     -1245849465
-15-OCT-22 19:03 :30
-========================================
-Run FWD      CONROD      ,   6         
- (TASK:5,TB:-1246104319)               
-15-OCT-22 19:03 :30
-========================================
- SO[    1]    ON  -> OFF
-Tick:   3414656
-TB:     -1261872978
-15-OCT-22 19:03 :30
-========================================
- UO[   18]    ON  -> OFF
-Tick:   3414655
-TB:     -1261878201
-15-OCT-22 19:03 :30
-========================================
- UO[    3]    ON  -> OFF
- UO[    4]    OFF -> ON 
-Tick:   3414654
-TB:     -1261892423
-15-OCT-22 19:03 :30
-========================================
-Paused       CONROD      ,   5         
- (TASK:5,TB:-1262300495)               
-15-OCT-22 19:03 :30
-========================================
- SO[    1]    OFF -> ON 
-Tick:   3413921
-TB:     -1269734158
-15-OCT-22 19:03 :28
-========================================
- UO[   18]    OFF -> ON 
-Tick:   3413920
-TB:     -1269744790
-15-OCT-22 19:03 :28
-========================================
- UO[    3]    OFF -> ON 
- UO[    4]    ON  -> OFF
-Tick:   3413919
-TB:     -1269750847
-15-OCT-22 19:03 :28
-========================================
-Run FWD      CONROD      ,   5         
- (TASK:5,TB:-1270005820)               
-15-OCT-22 19:03 :28
-========================================
- SO[    1]    ON  -> OFF
-Tick:   3412605
-TB:     -1283831373
-15-OCT-22 19:03 :28
-========================================
- UO[   18]    ON  -> OFF
-Tick:   3412604
-TB:     -1283841080
-15-OCT-22 19:03 :28
-========================================
- UO[    3]    ON  -> OFF
- UO[    4]    OFF -> ON 
-Tick:   3412603
-TB:     -1283845141
-15-OCT-22 19:03 :28
-========================================
-Paused       CONROD      ,   4         
- (TASK:5,TB:-1284058571)               
-15-OCT-22 19:03 :26
-========================================
- SO[    1]    OFF -> ON 
-Tick:   3411009
-TB:     -1300981135
-15-OCT-22 19:03 :26
-========================================
- UO[   18]    OFF -> ON 
-Tick:   3411008
-TB:     -1300991638
-15-OCT-22 19:03 :26
-========================================
- UO[    3]    OFF -> ON 
- UO[    4]    ON  -> OFF
-Tick:   3411007
-TB:     -1300996934
-15-OCT-22 19:03 :26
-========================================
-Run FWD      CONROD      ,   4         
- (TASK:5,TB:-1301253062)               
-15-OCT-22 19:03 :26
-========================================
-Paused       CONROD      ,   3         
- (TASK:5,TB:-1320493850)               
-15-OCT-22 19:03 :24
-========================================
-Run FWD      CONROD      ,   3         
- (TASK:5,TB:-1320494002)               
-15-OCT-22 19:03 :24
-========================================
-Paused       CONROD      ,   2         
- (TASK:5,TB:-1335300213)               
-15-OCT-22 19:03 :22
-========================================
-Run FWD      CONROD      ,   2         
- (TASK:5,TB:-1335300368)               
-15-OCT-22 19:03 :22
-========================================
- UO[    4]    OFF -> ON 
-Tick:   3406079
-TB:     -1353683805
-15-OCT-22 19:03 :20
-========================================
-Paused       CONROD      ,   1         
- (TASK:5,TB:-1353823470)               
-15-OCT-22 19:03 :20
-========================================
-Run FWD      CONROD      ,   1         
- (TASK:5,TB:-1353827506)               
-15-OCT-22 19:03 :20
-========================================
- SO[    1]    ON  -> OFF
-Tick:   3389729
-TB:     -1528322585
-15-OCT-22 19:03 :02
-========================================
- UO[   18]    ON  -> OFF
-Tick:   3389728
-TB:     -1528333165
-15-OCT-22 19:03 :02
-========================================
- UO[    3]    ON  -> OFF
-Tick:   3389727
-TB:     -1528339005
-15-OCT-22 19:03 :02
-========================================
-Aborted      CONROD      ,   0         
- (TASK:5,TB:-1528763956)               
-15-OCT-22 19:03 :02
-========================================
-Run FWD      CONROD      ,  13         
- (TASK:5,TB:-1531378719)               
-15-OCT-22 19:03 :02
-========================================
-Run FWD      CONROD      ,  12         
- (TASK:5,TB:-1534045494)               
-15-OCT-22 19:03 :02
-========================================
-Run FWD      PLACE       ,   3         
- (TASK:5,TB:-1534045766)               
-15-OCT-22 19:03 :02
-========================================
-Run FWD      PLACE       ,   2         
- (TASK:5,TB:-1534045873)               
-15-OCT-22 19:03 :02
-========================================
-Run FWD      PLACE       ,   1         
- (TASK:5,TB:-1534045982)               
-15-OCT-22 19:03 :02
-========================================
-Run FWD      CONROD      ,  11         
- (TASK:5,TB:-1534046558)               
-15-OCT-22 19:03 :02
-========================================
-Run FWD      CONROD      ,  10         
- (TASK:5,TB:-1574083459)               
-15-OCT-22 19:02 :58
-========================================
-Run FWD      CONROD      ,   9         
- (TASK:5,TB:-1589435732)               
-15-OCT-22 19:02 :56
-========================================
-Run FWD      CONROD      ,   8         
- (TASK:5,TB:-1592123987)               
-15-OCT-22 19:02 :56
-========================================
-Run FWD      PICKUP      ,   3         
- (TASK:5,TB:-1592124263)               
-15-OCT-22 19:02 :56
-========================================
-Run FWD      PICKUP      ,   2         
- (TASK:5,TB:-1592124372)               
-15-OCT-22 19:02 :56
-========================================
-Run FWD      PICKUP      ,   1         
- (TASK:5,TB:-1592124485)               
-15-OCT-22 19:02 :56
-========================================
-Run FWD      CONROD      ,   7         
- (TASK:5,TB:-1592125057)               
-15-OCT-22 19:02 :56
-========================================
-Run FWD      CONROD      ,   6         
- (TASK:5,TB:-1622376801)               
-15-OCT-22 19:02 :54
-========================================
-Run FWD      CONROD      ,   5         
- (TASK:5,TB:-1629809349)               
-15-OCT-22 19:02 :52
-========================================
- SO[    1]    OFF -> ON 
-Tick:   3378557
-TB:     -1646586527
-15-OCT-22 19:02 :50
-========================================
- UO[   18]    OFF -> ON 
-Tick:   3378556
-TB:     -1646596615
-15-OCT-22 19:02 :50
-========================================
- UO[    3]    OFF -> ON 
-Tick:   3378555
-TB:     -1646597957
-15-OCT-22 19:02 :50
-========================================
-Run FWD      CONROD      ,   4         
- (TASK:5,TB:-1646911361)               
-15-OCT-22 19:02 :50
-========================================
-Run FWD      CONROD      ,   3         
- (TASK:5,TB:-1646911473)               
-15-OCT-22 19:02 :50
-========================================
-Run FWD      CONROD      ,   2         
- (TASK:5,TB:-1646911627)               
-15-OCT-22 19:02 :50
-========================================
-Run FWD      CONROD      ,   1         
- (TASK:5,TB:-1646915672)               
-15-OCT-22 19:02 :50
-========================================
- SO[    1]    ON  -> OFF
-Tick:   3361183
-TB:     -1831138303
-15-OCT-22 19:02 :32
-========================================
- UO[   18]    ON  -> OFF
-Tick:   3361182
-TB:     -1831152944
-15-OCT-22 19:02 :32
-========================================
- UO[    3]    ON  -> OFF
-Tick:   3361181
-TB:     -1831163596
-15-OCT-22 19:02 :32
-========================================
-Aborted      CONROD      ,   0         
- (TASK:5,TB:-1831561845)               
-15-OCT-22 19:02 :32
-========================================
-Run FWD      CONROD      ,  13         
- (TASK:5,TB:-1834201315)               
-15-OCT-22 19:02 :32
-========================================
-Run FWD      CONROD      ,  12         
- (TASK:5,TB:-1836839688)               
-15-OCT-22 19:02 :32
-========================================
-Run FWD      PLACE       ,   3         
- (TASK:5,TB:-1836840046)               
-15-OCT-22 19:02 :32
-========================================
-Run FWD      PLACE       ,   2         
- (TASK:5,TB:-1836840152)               
-15-OCT-22 19:02 :32
-========================================
-Run FWD      PLACE       ,   1         
- (TASK:5,TB:-1836840263)               
-15-OCT-22 19:02 :32
-========================================
-Run FWD      CONROD      ,  11         
- (TASK:5,TB:-1836840841)               
-15-OCT-22 19:02 :32
-========================================
-Run FWD      CONROD      ,  10         
- (TASK:5,TB:-1877071427)               
-15-OCT-22 19:02 :28
-========================================
-Run FWD      CONROD      ,   9         
- (TASK:5,TB:-1892385316)               
-15-OCT-22 19:02 :26
-========================================
-Run FWD      CONROD      ,   8         
- (TASK:5,TB:-1895071398)               
-15-OCT-22 19:02 :26
-========================================
-Run FWD      PICKUP      ,   3         
- (TASK:5,TB:-1895071674)               
-15-OCT-22 19:02 :26
-========================================
-Run FWD      PICKUP      ,   2         
- (TASK:5,TB:-1895071779)               
-15-OCT-22 19:02 :26
-========================================
-Run FWD      PICKUP      ,   1         
- (TASK:5,TB:-1895071892)               
-15-OCT-22 19:02 :26
-========================================
-Run FWD      CONROD      ,   7         
- (TASK:5,TB:-1895072465)               
-15-OCT-22 19:02 :26
-========================================
-Run FWD      CONROD      ,   6         
- (TASK:5,TB:-1925129384)               
-15-OCT-22 19:02 :22
-========================================
-Run FWD      CONROD      ,   5         
- (TASK:5,TB:-1932589136)               
-15-OCT-22 19:02 :22
-========================================
- UO[   18]    OFF -> ON 
-Tick:   3350017
-TB:     -1949062260
-15-OCT-22 19:02 :20
-========================================
- UO[    3]    OFF -> ON 
-Tick:   3350016
-TB:     -1949072666
-15-OCT-22 19:02 :20
-========================================
- SO[    1]    OFF -> ON 
-Tick:   3350011
-TB:     -1949115841
-15-OCT-22 19:02 :20
-========================================
-Run FWD      CONROD      ,   4         
- (TASK:5,TB:-1949429676)               
-15-OCT-22 19:02 :20
-========================================
-Run FWD      CONROD      ,   3         
- (TASK:5,TB:-1949429784)               
-15-OCT-22 19:02 :20
-========================================
-Run FWD      CONROD      ,   2         
- (TASK:5,TB:-1949429923)               
-15-OCT-22 19:02 :20
-========================================
-Run FWD      CONROD      ,   1         
- (TASK:5,TB:-1949434011)               
-15-OCT-22 19:02 :20
-========================================
- UO[   18]    ON  -> OFF
-Tick:   3203521
-TB:     803424828
-15-OCT-22 18:59 :46
-========================================
- UO[    3]    ON  -> OFF
-Tick:   3203520
-TB:     803414909
-15-OCT-22 18:59 :46
-========================================
- SO[    1]    ON  -> OFF
-Tick:   3203515
-TB:     803371480
-15-OCT-22 18:59 :46
-========================================
-Aborted      CONROD      ,   0         
- (TASK:5,TB:802983089)                 
-15-OCT-22 18:59 :46
-========================================
-Run FWD      CONROD      ,  13         
- (TASK:5,TB:800365138)                 
-15-OCT-22 18:59 :46
-========================================
-Run FWD      CONROD      ,  12         
- (TASK:5,TB:797657875)                 
-15-OCT-22 18:59 :46
-========================================
-Run FWD      PLACE       ,   3         
- (TASK:5,TB:797657600)                 
-15-OCT-22 18:59 :46
-========================================
-Run FWD      PLACE       ,   2         
- (TASK:5,TB:797657494)                 
-15-OCT-22 18:59 :46
-========================================
-Run FWD      PLACE       ,   1         
- (TASK:5,TB:797657385)                 
-15-OCT-22 18:59 :46
-========================================
-Run FWD      CONROD      ,  11         
- (TASK:5,TB:797656819)                 
-15-OCT-22 18:59 :46
-========================================
-Run FWD      CONROD      ,  10         
- (TASK:5,TB:757028099)                 
-15-OCT-22 18:59 :42
-========================================
-Run FWD      CONROD      ,   9         
- (TASK:5,TB:741704510)                 
-15-OCT-22 18:59 :40
-========================================
-Run FWD      CONROD      ,   8         
- (TASK:5,TB:738994451)                 
-15-OCT-22 18:59 :40
-========================================
-Run FWD      PICKUP      ,   3         
- (TASK:5,TB:738994177)                 
-15-OCT-22 18:59 :40
-========================================
-Run FWD      PICKUP      ,   2         
- (TASK:5,TB:738994069)                 
-15-OCT-22 18:59 :40
-========================================
-Run FWD      PICKUP      ,   1         
- (TASK:5,TB:738993958)                 
-15-OCT-22 18:59 :40
-========================================
-Run FWD      CONROD      ,   7         
- (TASK:5,TB:738993368)                 
-15-OCT-22 18:59 :40
-========================================
-Run FWD      CONROD      ,   6         
- (TASK:5,TB:708944679)                 
-15-OCT-22 18:59 :36
-========================================
-Run FWD      CONROD      ,   5         
- (TASK:5,TB:701418369)                 
-15-OCT-22 18:59 :36
-========================================
- UO[    3]    OFF -> ON 
-Tick:   3192481
-TB:     686226758
-15-OCT-22 18:59 :34
-========================================
- SO[    1]    OFF -> ON 
-Tick:   3192476
-TB:     686176141
-15-OCT-22 18:59 :34
-========================================
- UO[   18]    OFF -> ON 
-Tick:   3192475
-TB:     686173967
-15-OCT-22 18:59 :34
-========================================
-Run FWD      CONROD      ,   4         
- (TASK:5,TB:686031139)                 
-15-OCT-22 18:59 :34
-========================================
-Run FWD      CONROD      ,   3         
- (TASK:5,TB:686031030)                 
-15-OCT-22 18:59 :34
-========================================
-Run FWD      CONROD      ,   2         
- (TASK:5,TB:686030895)                 
-15-OCT-22 18:59 :34
-========================================
-Run FWD      CONROD      ,   1         
- (TASK:5,TB:686026650)                 
-15-OCT-22 18:59 :34
-========================================
- UO[    3]    ON  -> OFF
-Tick:   3184865
-TB:     605793955
-15-OCT-22 18:59 :26
-========================================
- SO[    1]    ON  -> OFF
-Tick:   3184860
-TB:     605744032
-15-OCT-22 18:59 :26
-========================================
- UO[   18]    ON  -> OFF
-Tick:   3184859
-TB:     605740701
-15-OCT-22 18:59 :26
-========================================
-Aborted      CONROD      ,   0         
- (TASK:5,TB:605426151)                 
-15-OCT-22 18:59 :26
-========================================
-Run FWD      CONROD      ,  13         
- (TASK:5,TB:602811664)                 
-15-OCT-22 18:59 :26
-========================================
-Run FWD      CONROD      ,  12         
- (TASK:5,TB:600108677)                 
-15-OCT-22 18:59 :26
-========================================
-Run FWD      PLACE       ,   3         
- (TASK:5,TB:600108407)                 
-15-OCT-22 18:59 :26
-========================================
-Run FWD      PLACE       ,   2         
- (TASK:5,TB:600108301)                 
-15-OCT-22 18:59 :26
-========================================
-Run FWD      PLACE       ,   1         
- (TASK:5,TB:600108190)                 
-15-OCT-22 18:59 :26
-========================================
-Run FWD      CONROD      ,  11         
- (TASK:5,TB:600107597)                 
-15-OCT-22 18:59 :26
-========================================
-Run FWD      CONROD      ,  10         
- (TASK:5,TB:559582718)                 
-15-OCT-22 18:59 :22
-========================================
-Run FWD      CONROD      ,   9         
- (TASK:5,TB:544313177)                 
-15-OCT-22 18:59 :20
-========================================
-Run FWD      CONROD      ,   8         
- (TASK:5,TB:541664402)                 
-15-OCT-22 18:59 :20
-========================================
-Run FWD      PICKUP      ,   3         
- (TASK:5,TB:541664086)                 
-15-OCT-22 18:59 :20
-========================================
-Run FWD      PICKUP      ,   2         
- (TASK:5,TB:541663974)                 
-15-OCT-22 18:59 :20
-========================================
-Run FWD      PICKUP      ,   1         
- (TASK:5,TB:541663529)                 
-15-OCT-22 18:59 :20
-========================================
-Run FWD      CONROD      ,   7         
- (TASK:5,TB:541662934)                 
-15-OCT-22 18:59 :20
-========================================
-Run FWD      CONROD      ,   6         
- (TASK:5,TB:511451341)                 
-15-OCT-22 18:59 :18
-========================================
-Run FWD      CONROD      ,   5         
- (TASK:5,TB:503884148)                 
-15-OCT-22 18:59 :16
-========================================
- SO[    1]    OFF -> ON 
-Tick:   3173695
-TB:     487098834
-15-OCT-22 18:59 :14
-========================================
- UO[   18]    OFF -> ON 
-Tick:   3173694
-TB:     487084629
-15-OCT-22 18:59 :14
-========================================
- UO[    3]    OFF -> ON 
-Tick:   3173693
-TB:     487075054
-15-OCT-22 18:59 :14
-========================================
-Run FWD      CONROD      ,   4         
- (TASK:5,TB:486842028)                 
-15-OCT-22 18:59 :14
-========================================
-Run FWD      CONROD      ,   3         
- (TASK:5,TB:486841917)                 
-15-OCT-22 18:59 :14
-========================================
-Run FWD      CONROD      ,   2         
- (TASK:5,TB:486841467)                 
-15-OCT-22 18:59 :14
-========================================
-Run FWD      CONROD      ,   1         
- (TASK:5,TB:486836987)                 
-15-OCT-22 18:59 :14
-========================================
-Aborted      CONROD      ,   0         
- (TASK:5,TB:335279228)                 
-15-OCT-22 18:59 :00
-========================================
  SO[    3]    ON  -> OFF
-Tick:   579677
-TB:     -921310691
-15-OCT-22 18:13 :56
+Tick:   1829378
+TB:     1348329776
+16-OCT-22 14:54 :52
 ========================================
  UO[    2]    OFF -> ON 
  UO[    6]    ON  -> OFF
-Tick:   579675
-TB:     -921323580
-15-OCT-22 18:13 :56
-========================================
- SO[    7]    OFF -> ON 
-Tick:   579264
-TB:     -925530147
-15-OCT-22 18:13 :56
-========================================
- UO[    8]    OFF -> ON 
-Tick:   579262
-TB:     -925550762
-15-OCT-22 18:13 :56
-========================================
- SO[    7]    ON  -> OFF
-Tick:   574049
-TB:     -979508588
-15-OCT-22 18:13 :50
-========================================
- UO[    8]    ON  -> OFF
-Tick:   574047
-TB:     -979524200
-15-OCT-22 18:13 :50
+Tick:   1829376
+TB:     1348315503
+16-OCT-22 14:54 :52
 ========================================
  UO[    2]    ON  -> OFF
-Tick:   487646
-TB:     -1876911891
-15-OCT-22 18:12 :22
-========================================
- UO[    6]    OFF -> ON 
-Tick:   487520
-TB:     -1878218876
-15-OCT-22 18:12 :22
+Tick:   1717824
+TB:     184699221
+16-OCT-22 14:52 :56
 ========================================
  SO[    3]    OFF -> ON 
-Tick:   487515
-TB:     -1878262779
-15-OCT-22 18:12 :22
-========================================
- SO[    7]    OFF -> ON 
-Tick:   487487
-TB:     -1878545086
-15-OCT-22 18:12 :22
-========================================
- UO[    8]    OFF -> ON 
-Tick:   487485
-TB:     -1878564897
-15-OCT-22 18:12 :22
-========================================
- SO[    3]    ON  -> OFF
-Tick:   9793
-TB:     1725378932
-15-OCT-22 18:04 :02
-========================================
- UO[    6]    ON  -> OFF
-Tick:   9791
-TB:     1725364880
-15-OCT-22 18:04 :02
-========================================
-SSI[   10]    ON  -> OFF
-Tick:   1540
-TB:     1641434128
-15-OCT-22 18:03 :54
-========================================
-SSI[   10]    OFF -> ON 
-Tick:   1078
-TB:     1636544161
-15-OCT-22 18:03 :54
-========================================
- UO[    2]    OFF -> ON 
-Tick:   1055
-TB:     1636318572
-15-OCT-22 18:03 :54
+Tick:   1717798
+TB:     184424009
+16-OCT-22 14:52 :56
 ========================================
  UO[    6]    OFF -> ON 
-Tick:   1041
-TB:     1634624452
-15-OCT-22 18:03 :54
+Tick:   1717796
+TB:     184408828
+16-OCT-22 14:52 :56
+========================================
+ SO[    7]    OFF -> ON 
+Tick:   1717763
+TB:     184073392
+16-OCT-22 14:52 :56
+========================================
+ UO[    8]    OFF -> ON 
+Tick:   1717761
+TB:     184067938
+16-OCT-22 14:52 :56
+========================================
+ SO[    3]    ON  -> OFF
+Tick:   1695685
+TB:     -296889427
+16-OCT-22 14:52 :08
+========================================
+ UO[    2]    OFF -> ON 
+ UO[    6]    ON  -> OFF
+Tick:   1695683
+TB:     -296940474
+16-OCT-22 14:52 :08
+========================================
+ SO[    3]    OFF -> ON 
+Tick:   1659110
+TB:     -1161653883
+16-OCT-22 14:50 :42
+========================================
+ UO[    2]    ON  -> OFF
+ UO[    6]    OFF -> ON 
+Tick:   1659108
+TB:     -1161669397
+16-OCT-22 14:50 :42
+========================================
+ SO[    7]    ON  -> OFF
+Tick:   1659075
+TB:     -1162003990
+16-OCT-22 14:50 :42
+========================================
+ UO[    8]    ON  -> OFF
+Tick:   1659073
+TB:     -1162016588
+16-OCT-22 14:50 :42
+========================================
+ SO[    3]    ON  -> OFF
+Tick:   1574949
+TB:     -2047247197
+16-OCT-22 14:49 :12
+========================================
+ UO[    2]    OFF -> ON 
+ UO[    6]    ON  -> OFF
+Tick:   1574947
+TB:     -2047267284
+16-OCT-22 14:49 :12
+========================================
+ SO[    7]    OFF -> ON 
+Tick:   1574788
+TB:     -2049012385
+16-OCT-22 14:49 :12
+========================================
+ UO[    8]    OFF -> ON 
+Tick:   1574786
+TB:     -2049036929
+16-OCT-22 14:49 :12
+========================================
+ UO[    2]    ON  -> OFF
+ UO[    6]    OFF -> ON 
+Tick:   1570341
+TB:     -2095361394
+16-OCT-22 14:49 :08
+========================================
+ SO[    3]    OFF -> ON 
+Tick:   1570336
+TB:     -2095404600
+16-OCT-22 14:49 :08
+========================================
+ SO[    7]    ON  -> OFF
+Tick:   1570308
+TB:     -2095686049
+16-OCT-22 14:49 :08
+========================================
+ UO[    8]    ON  -> OFF
+Tick:   1570306
+TB:     -2095711695
+16-OCT-22 14:49 :08
+========================================
+ SO[    3]    ON  -> OFF
+Tick:   1563651
+TB:     2128506535
+16-OCT-22 14:49 :00
+========================================
+ UO[    2]    OFF -> ON 
+ UO[    6]    ON  -> OFF
+Tick:   1563649
+TB:     2128485763
+16-OCT-22 14:49 :00
+========================================
+ SO[    7]    OFF -> ON 
+Tick:   1563203
+TB:     2123805120
+16-OCT-22 14:49 :00
+========================================
+ UO[    8]    OFF -> ON 
+Tick:   1563201
+TB:     2123799512
+16-OCT-22 14:49 :00
+========================================
+ UO[    2]    ON  -> OFF
+ UO[    6]    OFF -> ON 
+Tick:   1541830
+TB:     1901484802
+16-OCT-22 14:48 :38
+========================================
+ SO[    3]    OFF -> ON 
+Tick:   1541825
+TB:     1901434528
+16-OCT-22 14:48 :38
+========================================
+ SO[    7]    ON  -> OFF
+Tick:   1541797
+TB:     1901154618
+16-OCT-22 14:48 :38
+========================================
+ UO[    8]    ON  -> OFF
+Tick:   1541795
+TB:     1901134772
+16-OCT-22 14:48 :38
+========================================
+ UO[    2]    OFF -> ON 
+ UO[    6]    ON  -> OFF
+Tick:   1409733
+TB:     514254233
+16-OCT-22 14:46 :20
+========================================
+ SO[    3]    ON  -> OFF
+Tick:   1409728
+TB:     514211279
+16-OCT-22 14:46 :20
+========================================
+ UO[    8]    OFF -> ON 
+Tick:   1409222
+TB:     508969485
+16-OCT-22 14:46 :18
+========================================
+ SO[    7]    OFF -> ON 
+Tick:   1409217
+TB:     508933975
+16-OCT-22 14:46 :18
+========================================
+ UO[    2]    ON  -> OFF
+ UO[    6]    OFF -> ON 
+Tick:   1400101
+TB:     414134264
+16-OCT-22 14:46 :10
+========================================
+ SO[    3]    OFF -> ON 
+Tick:   1400096
+TB:     414109713
+16-OCT-22 14:46 :10
+========================================
+ SO[    7]    ON  -> OFF
+Tick:   1400068
+TB:     413798394
+16-OCT-22 14:46 :10
+========================================
+ UO[    8]    ON  -> OFF
+Tick:   1400066
+TB:     413779702
+16-OCT-22 14:46 :10
+========================================
+ SO[    3]    ON  -> OFF
+Tick:   1373125
+TB:     127640788
+16-OCT-22 14:45 :40
+========================================
+ UO[    2]    OFF -> ON 
+ UO[    6]    ON  -> OFF
+Tick:   1373123
+TB:     127621657
+16-OCT-22 14:45 :40
+========================================
+ UO[    2]    ON  -> OFF
+Tick:   1372612
+TB:     122461491
+16-OCT-22 14:45 :40
+========================================
+ UO[    6]    OFF -> ON 
+Tick:   1372549
+TB:     121796568
+16-OCT-22 14:45 :40
+========================================
+ SO[    3]    OFF -> ON 
+Tick:   1372544
+TB:     121753174
+16-OCT-22 14:45 :40
+========================================
+ UO[    8]    OFF -> ON 
+Tick:   1372486
+TB:     121157745
+16-OCT-22 14:45 :40
+========================================
+ SO[    7]    OFF -> ON 
+Tick:   1372481
+TB:     121106256
+16-OCT-22 14:45 :40
+========================================
+ SO[    3]    ON  -> OFF
+Tick:   9763
+TB:     -1196711377
+16-OCT-22 14:22 :00
+========================================
+ UO[    6]    ON  -> OFF
+Tick:   9761
+TB:     -1196731317
+16-OCT-22 14:22 :00
+========================================
+SSI[   10]    ON  -> OFF
+Tick:   1545
+TB:     -1280957738
+16-OCT-22 14:21 :52
+========================================
+SSI[   10]    OFF -> ON 
+Tick:   1083
+TB:     -1285674422
+16-OCT-22 14:21 :52
+========================================
+ UO[    2]    OFF -> ON 
+Tick:   1060
+TB:     -1285900399
+16-OCT-22 14:21 :50
+========================================
+ UO[    6]    OFF -> ON 
+Tick:   1046
+TB:     -1287548774
+16-OCT-22 14:21 :50
 ========================================
 SSI[    1]    OFF -> ON 
 SSI[    2]    OFF -> ON 
@@ -4027,14 +3143,14 @@ SSI[    3]    OFF -> ON
 SSI[    5]    OFF -> ON 
 SSI[    6]    OFF -> ON 
 SSI[    7]    OFF -> ON 
-Tick:   1029
-TB:     1634508831
-15-OCT-22 18:03 :54
+Tick:   1034
+TB:     -1287671754
+16-OCT-22 14:21 :50
 ========================================
  SO[    3]    OFF -> ON 
-Tick:   1022
-TB:     1634491119
-15-OCT-22 18:03 :54
+Tick:   1027
+TB:     -1287685360
+16-OCT-22 14:21 :50
 ========================================
  UO[   17]    OFF
  UO[   18]    OFF
@@ -4048,9 +3164,9 @@ TB:     1634491119
  UO[   34]    OFF
  UO[   35]    OFF
  UO[   36]    OFF
-Tick:   1014
-TB:     1634472866
-15-OCT-22 18:03 :54
+Tick:   1019
+TB:     -1287701720
+16-OCT-22 14:21 :50
 ========================================
  AO[    1]    0
  AO[    3]    0
@@ -4084,9 +3200,9 @@ TB:     1634472866
  UO[    6]    OFF
  UO[    7]    OFF
  UO[    8]    OFF
-Tick:   1013
-TB:     1634472408
-15-OCT-22 18:03 :54
+Tick:   1018
+TB:     -1287702109
+16-OCT-22 14:21 :50
 ========================================
  AI[   15]    0
  AI[   17]    0
@@ -4096,9 +3212,9 @@ TB:     1634472408
  AI[   19]    0
  AI[   21]    0
  AI[   23]    0
-Tick:   1012
-TB:     1634471791
-15-OCT-22 18:03 :54
+Tick:   1017
+TB:     -1287702512
+16-OCT-22 14:21 :50
 ========================================
  AI[    5]    0
  AI[    7]    0
@@ -4108,9 +3224,9 @@ TB:     1634471791
  AI[    9]    0
  AI[   11]    0
  AI[   13]    0
-Tick:   1011
-TB:     1634385610
-15-OCT-22 18:03 :54
+Tick:   1016
+TB:     -1287786643
+16-OCT-22 14:21 :50
 ========================================
  DO[   49]    OFF
  DO[   50]    OFF
@@ -4210,9 +3326,9 @@ TB:     1634385610
  DO[  144]    OFF
  AI[    1]    0
  AI[    3]    0
-Tick:   1010
-TB:     1634372006
-15-OCT-22 18:03 :54
+Tick:   1015
+TB:     -1287795746
+16-OCT-22 14:21 :50
 ========================================
  DI[   65]    OFF
  DI[   66]    OFF
@@ -4338,9 +3454,9 @@ TB:     1634372006
  DO[   46]    OFF
  DO[   47]    OFF
  DO[   48]    OFF
-Tick:   1009
-TB:     1634371264
-15-OCT-22 18:03 :54
+Tick:   1014
+TB:     -1287796305
+16-OCT-22 14:21 :50
 ========================================
  SI[    0]    ON 
  SI[    1]    OFF
@@ -4463,6 +3579,6 @@ SSI[   11]    OFF
  DI[   62]    OFF
  DI[   63]    OFF
  DI[   64]    OFF
-Tick:   1008
-TB:     1634370717
-15-OCT-22 18:03 :54
+Tick:   1013
+TB:     -1287796777
+16-OCT-22 14:21 :50

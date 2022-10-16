@@ -3,27 +3,32 @@
 F Number: F00000    
 VERSION : HandlingTool         
 $VERSION: V8.30218       8/1/2017
-DATE:     15-OCT-22 19:04 
+DATE:     16-OCT-22 15:22 
 
 Menu                         Elapsed Time         #Sel       #Keys
                      (YY-MM-DD HH:MM:SS)
 Id:  962, 1                          06            1           3
 S/W Install                          16            1           0
-Hints                       13 03:30:40            4          26
-Id:  381, 5                          12            6           1
-Top Menu                             58            3          20
-SELECT                            04:54            4         167
-EDIT                              43:18            5        1026
+Hints                       13 22:46:12           10          38
+Id:  381, 5                       01:58           20           3
+Top Menu                          03:20            9          85
+SELECT                            04:58            5         168
+EDIT                           01:35:10           14        2319
 Motion                            02:34            1         288
-Registers                            02            1           0
+Registers                         01:40            4          94
+Macros                               26            1           2
+Prog Select                       02:52            4          54
+Id:  381, 3                          16            2           2
+Frames                            01:10            2         190
 
-Full Menus:                 13 04:23:00 
+Full Menus:                 14 00:40:58 
 Quick Menus:                         00 
 
-MENU Popup:                                        2
-[ TYPE ] Pullup:                                   0
+MENU Popup:                                       10
+[ TYPE ] Pullup:                                   3
 
 Functions at COLD start
+ABORT (ALL)                                        1
 
 Functions at CTRL start
 START (COLD)                                       1

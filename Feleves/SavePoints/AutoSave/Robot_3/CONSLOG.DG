@@ -62,7 +62,7 @@ Updated $MED_PATH to = C:\ProgramData\FANUC\FRVRC Media\V8.30
 Updated $UD1_PATH to = C:\Users\Levente\Documents\My Workcells\Feleves\Robot_3\UD1
 Updated $UD2_PATH to = C:\Users\Levente\Documents\My Workcells\Feleves\Robot_3\UD2
 Updated $UT1_PATH to = C:\Users\Levente\Documents\My Workcells\Feleves\Robot_3\UT1
-[syinit] bootrom time: 137172 ms
+[syinit] bootrom time: 295030 ms
 [syinit] ** COLD START **
 [syinit] System Version V8.30218       8/1/2017
 [ERLOG] Waiting for UIF to start up
@@ -79,9 +79,9 @@ Updated $UT1_PATH to = C:\Users\Levente\Documents\My Workcells\Feleves\Robot_3\U
 [dpinit] setting cur lang to NULL
 [dpsetlng] setting cur lang to DEFAULT     
 [tppascon_config] wait for EVB_SPINITDONE
-[syinit] start at 15-OCT-22 18:03:28 
+[syinit] start at 16-OCT-22 14:21:46 
 [sycfgmen] cfgmenu_p 0x406EF428
-[syinisb0] tpid check ltp = 0x60DA0B8, tpid = 49
+[syinisb0] tpid check ltp = 0x8D0450, tpid = 49
 [NTSYIN_STEP] Startup Step #1
 VMGR for R-30iB V8.30
 [vmshadow_periodic] Normal power shutdown state = 0
@@ -89,8 +89,8 @@ VMGR for R-30iB V8.30
 [fldevfcb_image] Read of _FRB:\S-SYSTEM.PRV in 20 segments size = 628496
 [vminit_loadctx] Loaded FRB:\S-SYSTEM.PRV only
 [vminit_loadctx] Loaded FRB:\S-INTERN.PRV only
-[vminit_loadctx] Done Loading Time = 58096us
-[vminit] after 2 temp 132116596 remaining of 134138200, took 0ms
+[vminit_loadctx] Done Loading Time = 38198us
+[vminit] after 2 temp 132110764 remaining of 134138200, took 0ms
 [NTSYIN_STEP] Startup Step #2
 [NTFRCPY] Did not load \TMILIB.DLL
 [NTSYIN_STEP] Startup Step #3
@@ -99,7 +99,7 @@ VMGR for R-30iB V8.30
 [PMON] PC Monitor Task
 [pmon] error read dblovrd_enb
 [PMON] Connecting to COMET
-[cmt_main_init] PMON connected $ECB8684
+[cmt_main_init] PMON connected $EE26FBC
 [rpcm] create TCP/IP RPC service
 [svctcp_create] RPCMAIN Server ready for connections on 3002
 [rpcm] call softparts to register service
@@ -113,28 +113,23 @@ Web Enhancements installed
 [syinisb0] Legacy 2, tpid = 49
 [dpsetlng] setting cur lang to DEFAULT     
 [tppascon_config] wait for EVB_SPINITDONE
-[dpimage_restctx] Loading DEFAULT      dictionaries pool_avail = 129788944
+[dpimage_restctx] Loading DEFAULT      dictionaries pool_avail = 129783112
 [dpimage_restctx] Ref time cached:120ms nocache:620ms, Numfiles = 247 Time 0ms
-[dpimage_restctx] Dictionaries loaded pool_avail = 128831436
+[dpimage_restctx] Dictionaries loaded pool_avail = 128825604
 [dpsetlng] setting cur lang to DEFAULT     
 [tppascon_config] wait for EVB_SPINITDONE
 [NTSYIN_STEP] Startup Step #4
 [SYINISB0] Loading main system softparts please wait ...
-[osppc] Timer sync timeout! tid: 187
 [NTFRCPY] Did not load \DCSTSK.DLL
 [NTFRCPY] Did not load \DOCVIE~1.DLL
 [NTFRCPY] Did not load \IOSLCTSK.DLL
-[osppc] Timer sync timeout! tid: 187
 [NTFRCPY] Did not load \PWMAINSP.DLL
 [NTFRCPY] Did not load \SFMPOS~1.DLL
-[osppc] Timer sync timeout! tid: 187
 [NTFRCPY] Did not load \TPFICD.DLL
-[osppc] Timer sync timeout! tid: 187
 [NTFRCPY] Did not load \UECK.DLL
 [NTFRCPY] Did not load \VSMO.DLL
-[osppc] Timer sync timeout! tid: 187
-[SYSINISB0] spspload reference time 44355 ms, This Time 24026ms
-[vminit] Loading 3 temp 128741432 remaining of 134138200
+[SYSINISB0] spspload reference time 44355 ms, This Time 4050ms
+[vminit] Loading 3 temp 128735600 remaining of 134138200
 [vminit_loadctx] Loading all files (VMGR/PVAR Suspended)
 [fldevfcb_image] Read of _FRB:\ATCELLIO.PRV in 3 segments size = 87744
 [fldevfcb_image] Read of _FRB:\ATPRGADJ.IRV in 2 segments size = 50404
@@ -142,11 +137,11 @@ Web Enhancements installed
 [fldevfcb_image] Read of _FRB:\S-VERS.IRV in 2 segments size = 41924
 [fldevfcb_image] Read of _FRB:\SWILIB.PRV in 8 segments size = 255832
 [fldevfcb_image] Read of _FRB:\TPFDEF.IRV in 2 segments size = 57984
-[vminit_loadctx] Done Loading Time = 145094us
-[vminit] after 3 temp 127136520 remaining of 134138200, took 0ms
+[vminit_loadctx] Done Loading Time = 83977us
+[vminit] after 3 temp 127129680 remaining of 134138200, took 0ms
 [Syin] Mobo start 0xFFFFFFFF
 [NTSYIN_STEP] Startup Step #5
-[SYINISB)] total time 25454
+[SYINISB)] total time 4453
 [NTSYIN_STEP] Startup Step #6
 [NTSYIN_STEP] Startup Step #7
 [SYINISUB] Saving user device UD1:
@@ -158,7 +153,7 @@ Web Enhancements installed
 [syinit] : calling iosetup
 [ripini] Initializing
 [rosip] Entering baseinit, waiting on packet rate =2
-[ripini] Sending init packet 1, 388, 0xE391848
+[ripini] Sending init packet 1, 388, 0xE4FFD90
 [rosip] Initialization not successful
 [NTSYIN_STEP] Startup Step #10
 [sfvexe] starting
@@ -178,7 +173,7 @@ Web Enhancements installed
 [SMTP] $SYS_TIME not available
 [NTSYIN_STEP] Startup Step #19
 [ERLOG] continue stat = 0x0
-[rcmplg] RCMCFG_BASE $659570, rcmcfg_p $EFC15B8
+[rcmplg] RCMCFG_BASE $8BB9B0, rcmcfg_p $F138090
 [NTSYIN_STEP] Startup Step #20
 [syinisub] VMGR called to register program with MEMO
 [NTSYIN_STEP] Startup Step #21
@@ -194,6 +189,9 @@ Web Enhancements installed
 [CHND] Low Priority Condition Handler started.
 [CHND] init done. starting scanning
 [tpmains_start] executing legacy mode case
+[ostksock_timeout] g_ce_mode 0
+[ostksock_create] Socket 1528 binding to IP port # 60004
+[ostksock_create] T-X IP address <001.001.001.011>
 [NTSYIN_STEP] Startup Step #27
 syopinsp-r850_used: 0
 [SYINIT] OCTK started 380001
@@ -213,7 +211,7 @@ SYST-026 System normal power up
 [vdat] oschggrp(112, 4, 0) 0x00000000
 [vlog] oschggrp(115, 4, 0) $00000000
 [vdat] vision pool size = 24000000
-[vdat] osmkmem(id=8, addr=0CA42248, size=24000000) 0x00000000
+[vdat] osmkmem(id=8, addr=0CBAF228, size=24000000) 0x00000000
 [vtrn] wake up
 [vtrn] oschggrp(136, 4, 0) 0x00000000
 [HTTP] WEB Server starting
@@ -236,8 +234,8 @@ Web Enhancements installed
 [SYINISUB] Saving user device UD1:
 [NTSYIN_STEP] Startup Step #33
 [DEBUG] Entering moinit
-[sfmdest] null_flg_p:E14CD44
-[miinit][1] posted init PKT <C57E548> to task<72> (0)
+[sfmdest] null_flg_p:E2B9D24
+[miinit][1] posted init PKT <C6EB528> to task<72> (0)
 [mpinit] initialize mb_fp
 [mpinit] after mpdyinit
 [mpinit] ossndpkt <0>
@@ -247,9 +245,6 @@ Web Enhancements installed
 [tbjtkini] finish wake up stat = 0
 [nectkini] finish wake up  stat = 0
 [moinit] done
-[ostksock_timeout] g_ce_mode 0
-[ostksock_create] Socket 1736 binding to IP port # 60004
-[ostksock_create] T-X IP address <001.001.001.011>
 [mfinidsp] --- start ITP ---
 [mfinidsp] waiting for SSTB...
 [mfinidsp] all SSTB become 1
@@ -265,7 +260,7 @@ Web Enhancements installed
 [TELNET] Ethernet event flag received.
 [miinit] done 
 [SYINISUB] Checking $repower.$flag
-[syinisub] TICK_OFFSET 6594F4 to 0
+[syinisub] TICK_OFFSET 8BB934 to 0
 [NTSYIN_STEP] Startup Step #34
 [NTSYIN_STEP] Startup Step #35
 [syinit] waiting for EVF_ENB_PWF...
@@ -309,7 +304,7 @@ Ready to run SHELL
 [SMTP] Ethernet event flag received.
 [symonutl] Getting data (3EA, 0)
 [symonutl] Fail to get mac from I2C (1)
-SYINISUB TOTAL TIME 883
+SYINISUB TOTAL TIME 1310
 [SYINISUB] restored user device UD1:
 [NTSYIN_STEP] Startup Step #40
 [TPSPART] Found KAREL ATMSKCHG 200
@@ -318,49 +313,59 @@ SYINISUB TOTAL TIME 883
 [TPSPART] Found KAREL ATPRSCRN 932
 [TPSPART] Found KAREL ATPASWRD 935
 [TPSPART] Found KAREL ATINSTAL 936
-[TPKSINIT] dname -K943- not found devstat = 0 cfg $C3A7234
+[TPKSINIT] dname -K943- not found devstat = 0 cfg $C513CC4
 [TPSPART] Found KAREL ATCELLIO 955
-[TPKSINIT] dname -K972- not found devstat = 0 cfg $C3A70CC
-[TPKSINIT] dname -K973- not found devstat = 0 cfg $C35B618
+[TPKSINIT] dname -K972- not found devstat = 0 cfg $C513B5C
+[TPKSINIT] dname -K973- not found devstat = 0 cfg $C4C8BEC
 [TPSPART] Found KAREL ATSOFTPA 992
 [FTP] getservbyname failed
 [FTP] getservbyname failed
-[TPHCCOMM] bad tp ver format ..
 [NTSYIN_STEP] Startup Step #41
 [osppc] Tick time changed -1200
 [NTSYIN_STEP] Startup Step #42
 [sfstpsl] init $SEL_HOTSTRT
-[tpmains] ready at 15-OCT-22 18:03:54 
+[tpmains] ready at 16-OCT-22 14:21:50 
 TPIF-157 Menu cannot be displayed
-[FRSOCK] recv failed (no pending)! 0x2745
-[RPC] accepted sock 1668 from <127.000.000.001>
+[RPC] accepted sock 1964 from <127.000.000.001>
 [PMON] Connecting to <127.000.000.001:5182>
-[RPC] accepted sock 1684 from <127.000.000.001>
-[RPC] close sock 1684 from <127.000.000.001>
-[RPC] accepted sock 1732 from <192.168.056.001>
-[RPC] close sock 1732 from <192.168.056.001>
+[RPC] accepted sock 1660 from <127.000.000.001>
+[RPC] close sock 1660 from <127.000.000.001>
+[RPC] accepted sock 1660 from <192.168.056.001>
+[RPC] close sock 1660 from <192.168.056.001>
 
 SMON(main)> xyzrate 61
-spcmd time 0 
+spcmd time 14 
 spcmd completed successfully.
-[RPC] accepted sock 1732 from <127.000.000.001>
-[RPC] close sock 1732 from <127.000.000.001>
+[RPC] accepted sock 1660 from <127.000.000.001>
+[RPC] close sock 1660 from <127.000.000.001>
 R E S E T
-[RPC] accepted sock 1728 from <127.000.000.001>
-[RPC] close sock 1728 from <127.000.000.001>
+[RPC] accepted sock 2140 from <127.000.000.001>
+[RPC] close sock 2140 from <127.000.000.001>
 [ntsuperv] Sync state change from 0 to 1
 [ntsuperv] Sync state change from 1 to 0
 
-SMON(main)> xyzrate 61=>192.168.56.1:7188
+SMON(main)> xyzrate 61=>192.168.56.1:13924
 spcmd time 0 
 spcmd completed successfully.
 
-[RPC] accepted sock 1696 from <127.000.000.001>
-[RPC] close sock 1696 from <127.000.000.001>
-[ntsuperv] Sync state change from 0 to 1
-[ntsuperv] Sync state change from 1 to 0
+[RPC] accepted sock 2136 from <127.000.000.001>
+[RPC] close sock 2136 from <127.000.000.001>
+CVIS-143 Please exit graphical edit mode.
+CVIS-143 Please exit graphical edit mode.
+CVIS-143 Please exit graphical edit mode.
+CVIS-037 Cannot calculate the rotation center.
+CVIS-143 Please exit graphical edit mode.
+CVIS-143 Please exit graphical edit mode.
+CVIS-143 Please exit graphical edit mode.
+CVIS-143 Please exit graphical edit mode.
+CVIS-143 Please exit graphical edit mode.
+CVIS-143 Please exit graphical edit mode.
+CVIS-143 Please exit graphical edit mode.
+CVIS-143 Please exit graphical edit mode.
+CVIS-143 Please exit graphical edit mode.
+CVIS-143 Please exit graphical edit mode.
 
-SMON(main)> tpdisc 0=>192.168.56.1:7188
+SMON(main)> tpdisc 0=>192.168.56.1:13924
 [ostkinit] Set g_wired = FALSE
 [ostkdisc] F_CANCL packet sent to 201
 [ostkdisc] TP is disconnected
@@ -368,14 +373,14 @@ SMON(main)> tpdisc 0=>192.168.56.1:7188
 [ostchp] Executing tpmulti_constop mode 1
 [tpaccn] disconnect current TP
 [sytp_disc] setting CGTPFLAG_TPDISC
-spcmd time 363 
+spcmd time 403 
 spcmd completed successfully.
 
 
 SMON(main)> tpconn 0
 [dpsetlng] setting cur lang to DEFAULT     
 [sytp_disc] resetting CGTPFLAG_TPDISC
-spcmd time 2 
+spcmd time 18 
 spcmd completed successfully.
 [wdwmclng]
 [ostkdisc] reconnect with CETP
@@ -384,15 +389,15 @@ spcmd completed successfully.
 [ostkdisc] TP is connected
 [ostchp] TP is connected in graphic mode
 [ostksock_timeout] g_ce_mode 0
-[ostksock_create] Socket 1736 binding to IP port # 60004
+[ostksock_create] Socket 2644 binding to IP port # 60004
 [ostksock_create] T-X IP address <001.001.000.011>
 [sfstpsl] init $SEL_HOTSTRT
-[tpmains] ready at 15-OCT-22 18:12:16 
+[tpmains] ready at 16-OCT-22 14:45:38 
 [sfcgtp] ip 7F000001, port EA65
 [PMON] Connecting to <127.000.000.001:60005>
-[ostkey] recevied iPendant socket 1772 from PMON
-[PMON] Sent iPendant socket 1772 to TKEY
-[RPC] accepted sock 612 from <127.000.000.001>
+[ostkey] recevied iPendant socket 2596 from PMON
+[PMON] Sent iPendant socket 2596 to TKEY
+[RPC] accepted sock 2588 from <127.000.000.001>
 [TXPROC] version of iPendant V8.3218
 [TXPROC] core version of iPendant V9.10P/03
 SYST-045 TP enabled in AUTO mode
@@ -401,22 +406,115 @@ R E S E T
 SYST-045 TP enabled in AUTO mode
 SYST-042 DEADMAN defeated
 SYST-039 Operation mode T2 Selected
+SRVO-003 Deadman switch released
 R E S E T
 R E S E T
-MCTL-014 Waiting for Servo ready
-MCTL-014 Waiting for Servo ready
+R E S E T
 SYST-043 TP disabled in T1/T2 mode
 SYST-040 Operation mode AUTO Selected
-[RPC] close sock 612 from <127.000.000.001>
 [PMON] Disconnecting from <127.000.000.001:60005>
 [pmon] iPendant connection closed
+[RPC] close sock 2588 from <127.000.000.001>
 [sfcgtp] ip 7F000001, port EA65
 [PMON] Connecting to <127.000.000.001:60005>
-[ostkey] recevied iPendant socket 1804 from PMON
-[PMON] Sent iPendant socket 1804 to TKEY
-[RPC] accepted sock 1448 from <127.000.000.001>
+[ostkey] recevied iPendant socket 2528 from PMON
+[PMON] Sent iPendant socket 2528 to TKEY
+[RPC] accepted sock 2492 from <127.000.000.001>
 [sfstpsl] init $SEL_HOTSTRT
-[tpmains] ready at 15-OCT-22 18:13:56 
+[tpmains] ready at 16-OCT-22 14:46:18 
+[TXPROC] version of iPendant V8.3218
+[TXPROC] core version of iPendant V9.10P/03
+SYST-045 TP enabled in AUTO mode
+SYST-042 DEADMAN defeated
+SYST-039 Operation mode T2 Selected
+R E S E T
+R E S E T
+SYST-043 TP disabled in T1/T2 mode
+SYST-040 Operation mode AUTO Selected
+[PMON] Disconnecting from <127.000.000.001:60005>
+[pmon] iPendant connection closed
+[RPC] close sock 2492 from <127.000.000.001>
+[sfcgtp] ip 7F000001, port EA65
+[PMON] Connecting to <127.000.000.001:60005>
+[ostkey] recevied iPendant socket 2584 from PMON
+[PMON] Sent iPendant socket 2584 to TKEY
+[RPC] accepted sock 2624 from <127.000.000.001>
+[sfstpsl] init $SEL_HOTSTRT
+[tpmains] ready at 16-OCT-22 14:49:00 
+[TXPROC] version of iPendant V8.3218
+[TXPROC] core version of iPendant V9.10P/03
+SYST-045 TP enabled in AUTO mode
+SYST-042 DEADMAN defeated
+R E S E T
+SYST-045 TP enabled in AUTO mode
+SYST-042 DEADMAN defeated
+R E S E T
+SYST-045 TP enabled in AUTO mode
+SYST-042 DEADMAN defeated
+SYST-039 Operation mode T2 Selected
+SRVO-003 Deadman switch released
+R E S E T
+R E S E T
+R E S E T
+SYST-043 TP disabled in T1/T2 mode
+SYST-040 Operation mode AUTO Selected
+[PMON] Disconnecting from <127.000.000.001:60005>
+[pmon] iPendant connection closed
+[RPC] close sock 2624 from <127.000.000.001>
+[sfcgtp] ip 7F000001, port EA65
+[PMON] Connecting to <127.000.000.001:60005>
+[ostkey] recevied iPendant socket 1532 from PMON
+[PMON] Sent iPendant socket 1532 to TKEY
+[RPC] accepted sock 1528 from <127.000.000.001>
+[sfstpsl] init $SEL_HOTSTRT
+[tpmains] ready at 16-OCT-22 14:49:12 
+[TXPROC] version of iPendant V8.3218
+[TXPROC] core version of iPendant V9.10P/03
+SYST-042 DEADMAN defeated
+SYST-045 TP enabled in AUTO mode
+SYST-039 Operation mode T2 Selected
+SRVO-003 Deadman switch released
+R E S E T
+R E S E T
+R E S E T
+SYST-043 TP disabled in T1/T2 mode
+SYST-040 Operation mode AUTO Selected
+[osppc] Tick time changed -20000
+
+SMON(main)> copy frs:orderfil.dat virt:\tmpback\=>192.168.56.1:13924
+Copy time 1 
+
+SMON(main)> copy mdb:*.* virt:\tmpback\=>192.168.56.1:13924
+[vmisavef] appending segment to MDS1:\SYSVARS.SV
+[ZIP] INIT
+Copy time 2336 
+
+SMON(main)> xcopy fr:\*.* virt:\tmpback\*.*=>192.168.56.1:13924
+Created directory VIRT:\TMPBACK\VISION
+Created directory VIRT:\TMPBACK\VISION\DATA
+spcmd time 43 
+spcmd completed successfully.
+
+
+SMON(main)> xcopy fra:\*.* virt:\tmpback\*.*=>192.168.56.1:13924
+Created directory VIRT:\TMPBACK\_BACKUP_
+Created directory VIRT:\TMPBACK\_BACKUP_\BACKUP01
+Created directory VIRT:\TMPBACK\_BACKUP_\BACKUP02
+spcmd time 5 
+spcmd completed successfully.
+
+R E S E T
+[PMON] Disconnecting from <127.000.000.001:60005>
+[pmon] iPendant connection closed
+[RPC] close sock 1528 from <127.000.000.001>
+[osppc] Tick time changed -1200
+[sfcgtp] ip 7F000001, port EA65
+[PMON] Connecting to <127.000.000.001:60005>
+[ostkey] recevied iPendant socket 2652 from PMON
+[PMON] Sent iPendant socket 2652 to TKEY
+[RPC] accepted sock 2596 from <127.000.000.001>
+[sfstpsl] init $SEL_HOTSTRT
+[tpmains] ready at 16-OCT-22 14:52:54 
 [TXPROC] version of iPendant V8.3218
 [TXPROC] core version of iPendant V9.10P/03
 SYST-045 TP enabled in AUTO mode
@@ -430,50 +528,13 @@ R E S E T
 R E S E T
 R E S E T
 R E S E T
-
-SMON(main)> copy frs:orderfil.dat virt:\tmpback\=>192.168.56.1:7188
-Copy time 1 
-
-SMON(main)> copy mdb:*.* virt:\tmpback\=>192.168.56.1:7188
-[vmisavef] appending segment to MDS1:\SYSVARS.SV
-[ZIP] INIT
-Copy time 1380 
-
-SMON(main)> xcopy fr:\*.* virt:\tmpback\*.*=>192.168.56.1:7188
-Created directory VIRT:\TMPBACK\VISION
-Created directory VIRT:\TMPBACK\VISION\DATA
-spcmd time 16 
-spcmd completed successfully.
-
-
-SMON(main)> xcopy fra:\*.* virt:\tmpback\*.*=>192.168.56.1:7188
-Created directory VIRT:\TMPBACK\_BACKUP_
-Created directory VIRT:\TMPBACK\_BACKUP_\BACKUP01
-Created directory VIRT:\TMPBACK\_BACKUP_\BACKUP02
-spcmd time 5 
-spcmd completed successfully.
-
-R E S E T
-SYST-178 SHIFT-RESET Pressed
-SYST-179 SHIFT-RESET Released
-[pmon] start new FILE update, 100
-[PMON] Disconnecting from <127.000.000.001:60005>
-[pmon] iPendant connection closed
-[RPC] close sock 1448 from <127.000.000.001>
-[sfcgtp] ip 7F000001, port EA65
-[PMON] Connecting to <127.000.000.001:60005>
-[ostkey] recevied iPendant socket 1680 from PMON
-[PMON] Sent iPendant socket 1680 to TKEY
-[RPC] accepted sock 1320 from <127.000.000.001>
-[sfstpsl] init $SEL_HOTSTRT
-[tpmains] ready at 15-OCT-22 18:52:06 
-[TXPROC] version of iPendant V8.3218
-[TXPROC] core version of iPendant V9.10P/03
 [pmon] start new FILE update, 100
 R E S E T
-TPIF-106 Program is already running
+R E S E T
+R E S E T
+R E S E T
 
-SMON(main)> copy frs:orderfil.dat virt:\tmpback\=>192.168.56.1:7188
+SMON(main)> copy frs:orderfil.dat virt:\tmpback\=>192.168.56.1:13924
 Copy time 1 
 
-SMON(main)> copy mdb:*.* virt:\tmpback\=>192.168.56.1:7188
+SMON(main)> copy mdb:*.* virt:\tmpback\=>192.168.56.1:13924

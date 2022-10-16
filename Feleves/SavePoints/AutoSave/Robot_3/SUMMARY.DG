@@ -3,7 +3,7 @@
 F Number: F00000    
 VERSION : HandlingTool         
 $VERSION: V8.30218       8/1/2017
-DATE:     15-OCT-22 19:04 
+DATE:     16-OCT-22 15:22 
 
 VERSION INFORMATION::
 SOFTWARE:              ID:
@@ -233,12 +233,12 @@ MEMORY USAGE::
 
 MEMORY DETAIL (MAIN):
 Pools        TOTAL     AVAILABLE      LARGEST
-TPP          700.0KB     691.0KB     691.0KB
+TPP          700.0KB     689.3KB     689.2KB
 PERM        2040.0KB     837.5KB     837.3KB
 SYSTEM          .0KB       0.0KB       0.0KB
 SHADOW      6698.3KB    6157.9KB      32.0KB
-TEMP      130994.3KB   83311.4KB   83191.3KB
-FROM      130764.0KB   95100.0KB        .0KB
+TEMP      130994.3KB   83278.1KB   83186.7KB
+FROM      130764.0KB   95048.0KB        .0KB
 HARDWARE
 FROM     128MB
 DRAM     128MB
@@ -276,12 +276,7 @@ Line:  1046       Program: ATSHELL                               Type: PC
 Routine depth: 0  Routine: SWIMSET                             
 Line:   348       Program: SWIMSET                               Type: PC    
 
-5       CONROD PAUSED @ 8 in CONROD of CONROD
-
-******  History Data  ******
-Routine depth: 0  Routine: CONROD                              
-Line:     8       Program: CONROD                                Type: TP    
-
+5              status = ABORTED
 6              status = ABORTED
 7              status = ABORTED
 
@@ -617,7 +612,7 @@ UI[  18] OFF  Prod start
 UO[   1] OFF  Cmd enabled
 UO[   2]  ON  System ready
 UO[   3] OFF  Prg running
-UO[   4]  ON  Prg paused
+UO[   4] OFF  Prg paused
 UO[   5] OFF  Motion held
 UO[   6] OFF  Fault
 UO[   7] OFF  At perch
@@ -1305,34 +1300,34 @@ CURRENT ROBOT POSITION::
 Group #:  1
  
 CURRENT JOINT POSITION:
-Joint   1:      8.84
-Joint   2:     25.73
-Joint   3:    -11.61
-Joint   4:      -.00
-Joint   5:    -78.39
-Joint   6:     -8.84
+Joint   1:      0.00
+Joint   2:    -39.72
+Joint   3:     11.38
+Joint   4:      0.00
+Joint   5:   -101.38
+Joint   6:     -1.87
 
 
-Frame #:  0  Tool #:  1
+Frame #:  1  Tool #:  1
 CURRENT USER FRAME POSITION:
 CFG: N U T, 0, 0, 0
-X:   2053.00
-Y:    319.47
-Z:    256.18
+X:  -1065.69
+Y:    500.00
+Z:    367.00
 W:       .00
-P:      -.00
+P:       .00
 R:      -.00
 
 
 Tool #:  1
 CURRENT WORLD POSITION:
 CFG: N U T, 0, 0, 0
-X:   2053.00
-Y:    319.47
-Z:    256.18
+X:    835.48
+Y:      0.00
+Z:    625.00
 W:       .00
-P:      -.00
-R:      -.00
+P:       .00
+R:     -1.87
 
 
 </PRE><H2><A NAME="8">Ethernet Configuration Information</A></H2>
